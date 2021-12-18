@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Bingo Bango Bongo"
 date:   2021-12-18 20:17:56 +1100
 categories: jekyll update
 ---
