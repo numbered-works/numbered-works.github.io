@@ -10,7 +10,7 @@ One referee, one or more players, pencil, paper, one giant foam d12 from Kmart, 
    Strength: power, stamina, physical resilience.
    Dexterity: speed, agility, precision.
    Will: charisma, perception, willpower.
-4. As well as individual items, an expedition always has lanterns, basic climbing, mapping, camping equipment, and rations. Choose 6 of the following additional items to carry:
+4. As well as individual items, an expedition always has basic climbing, lighting, and camping equipment. Choose 6 of the following additional things to carry:
    * Light Weapon (1 hand) (axe, dagger, club, mace, short sword, etc)
    * Heavy Weapon (2 hand) (spear, long sword, warhammer, etc)
    * Ranged Weapon (2 hand)(bow, crossbow, slingshot, etc)
@@ -23,7 +23,7 @@ One referee, one or more players, pencil, paper, one giant foam d12 from Kmart, 
    * Chalk
    * Iron spike
    * Glue
-   * 10ft pole
+   * 10 foot pole
    * Lockpicks (3)
    * Poison
    * Acid
@@ -182,3 +182,5 @@ Touch
 Vortex
 Wave
 Word
+
+Based on: Maze Rats by Ben Milton, Tunnel Goons by Nate Treme, Into the Odd by Chris MacDowell. CC-BY-4.0
