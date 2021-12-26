@@ -59,7 +59,7 @@ Regain lost Health Points by getting a night of rest.
 
 Spell form: [present participle] [adjective] [noun]
 
-# Physical Effects
+## Physical Effects
 
 1. Animating
 2. Attracting
