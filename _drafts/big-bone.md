@@ -5,6 +5,8 @@ One referee, one or more players, pencil, paper, one giant foam d12 from Kmart, 
 
 ## Create a Character
 
+### Type
+
 1. Goblin
 2. Human
 3. Werewolf
@@ -18,20 +20,22 @@ One referee, one or more players, pencil, paper, one giant foam d12 from Kmart, 
 11. Fish Person
 12. Troll
 
+### Profession
 
-1. Sneak (Dagger, Lockpicks, Hacksaw, Marbles) (STR 0, DEX 2, WIL 1)
-2. Thief (Sword, Crowbar, Sack, Acid) (STR 0, DEX 2, WIL 1)
-3. Mage (Club, 10 foot pole, Spell) (STR 0, DEX 1, WIL 2)
-4. Brawler (Warhammer, Shield, Knife, Chain) (STR 2, DEX 0, WIL 1)
-5. Ranger (Axe, Fishing Net, Shovel, Knife ) (STR 2, DEX 0, WIL 1)
-6. Druid (Bow, 50 foot rope, Medicine, Spell)
-7. Sorceror (Mace, Iron Spike, Spell)
-8. Assassin (Crossbow, Dagger, Poison, )
-9. Tinker (Slingshot, Glue, Hammer, Chalk) (STR 0, DEX 2, WIL 1)
-10. Conjurer (Chain, Spell)
-11. Sovereign (Sceptre, Shield, Steel Mirror, Flask)
-12. Cultist (Grease, Spell,)
+1. Conjurer (Chain, Spell) (STR 0, DEX 1, WIL 2)
+2. Sovereign (Sceptre, Shield, Steel Mirror, Flask) (STR 1, DEX 0, WIL 2)
+3. Cultist (Spear, Crystal, Grease, Spell,) (STR 1, DEX 1, WIL 1)
+4. Sneak    (Dagger, Lockpicks, Hacksaw, Marbles) (STR 0, DEX 2, WIL 1)
+5. Thief    (Sword, Crowbar, Sack, Acid) (STR 0, DEX 2, WIL 1)
+6. Mage     (Club, 10 foot pole, Spell) (STR 0, DEX 1, WIL 2)
+7. Brawler  (Warhammer, Shield, Knife, Chain) (STR 2, DEX 0, WIL 1)
+8. Ranger   (Axe, Fishing Net, Shovel, Knife ) (STR 2, DEX 0, WIL 1)
+9. Druid    (Bow, 50 foot rope, Medicine, Spell) (STR 1, DEX 1, WIL 1)
+10. Sorceror (Mace, Iron Spike, Spell) (STR 1, DEX 0, WIL 2)
+11. Assassin (Crossbow, Dagger, Poison, Lockpicks) (STR 1, DEX 1, WIL 1)
+12. Tinker   (Slingshot, Glue, Hammer, Chalk) (STR 0, DEX 2, WIL 1)
 
+###
 
 1. Name your character.
 2. Health Points are 6.
@@ -128,69 +132,69 @@ Spell form: [present participle] [adjective] [noun]
 25. Withering
 
 ## Nouns
-Altar
-Armor
-Arrow
-Beast
-Blade
-Cauldron
-Chain
-Chariot
-Claw
-Cloak
-Colossus
-Crown
-Eye
-Fountain
-Gate
-Golem
-Hammer
-Horn
-Key
-Mask
-Pit
-Prison
-Servant
-Shield
-Spear
-Steed
-Swarm
-Throne
-Torch
-Trap
-Wall
-Web
-Aura
-Beacon
-Beam
-Blast
-Blob
-Bolt
-Bubble
-Call
-Cloud
-Coil
-Cone
-Cube
-Dance
-Disk
-Form
-Gaze
-Loop
-Moment
-Portal
-Pulse
-Pyramid
-Ray
-Shard
-Sphere
-Spray
-Storm
-Swarm
-Torrent
-Touch
-Vortex
-Wave
-Word
+1. Altar
+2. Armor
+3. Arrow
+4. Beast
+5. Blade
+6. Cauldron
+7. Chain
+8. Chariot
+9. Claw
+10. Cloak
+11. Colossus
+12. Crown
+13. Eye
+14. Fountain
+15. Gate
+16. Golem
+17. Hammer
+18. Horn
+19. Key
+20. Mask
+21. Pit
+22. Prison
+23. Servant
+24. Shield
+25. Spear
+26. Steed
+27. Swarm
+28. Throne
+29. Torch
+30. Trap
+31. Wall
+32. Web
+33. Aura
+34. Beacon
+35. Beam
+36. Blast
+37. Blob
+38. Bolt
+39. Bubble
+40. Call
+41. Cloud
+42. Coil
+43. Cone
+44. Cube
+45. Dance
+46. Disk
+47. Form
+48. Gaze
+49. Loop
+50. Moment
+51. Portal
+52. Pulse
+53. Pyramid
+54. Ray
+55. Shard
+56. Sphere
+57. Spray
+58. Storm
+59. Swarm
+60. Torrent
+61. Touch
+62. Vortex
+63. Wave
+64. Word
 
 Based on: Maze Rats by Ben Milton, Tunnel Goons by Nate Treme, Into the Odd by Chris MacDowell. CC-BY-4.0
