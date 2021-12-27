@@ -4,40 +4,49 @@
 One referee, one or more players, pencil, paper, one giant foam d12 from Kmart, picnic blanket.
 
 ## Create a Character
+
+1. Goblin
+2. Human
+3. Werewolf
+4. Rat
+5. Vampire
+6. Elf
+7. Ghoul
+8. Giant
+9. Fairy
+10. Beast
+11. Fish Person
+12. Troll
+
+1. Sneak (Dagger, Lockpicks, Hacksaw, Marbles) (STR 0, DEX 2, WIL 1)
+2. Thief (Sword, Crowbar, Sack, Acid) (STR 0, DEX 2, WIL 1)
+3. Mage (Club, 10 foot pole, Spell) (STR 0, DEX 1, WIL 2)
+4. Brawler (Warhammer, Shield, Knife, Chain) (STR 2, DEX 0, WIL 1)
+5. Ranger (Axe, Fishing Net, Shovel, Knife ) (STR 2, DEX 0, WIL 1)
+6. Druid (Bow, 50 foot rope, Medicine, Spell)
+7. Sorceror (Mace, Iron Spike, Spell)
+8. Assassin (Crossbow, Dagger, Poison, )
+9. Tinker (Slingshot, Glue, Hammer, Chalk) (STR 0, DEX 2, WIL 1)
+10. Conjurer (Chain, Spell)
+11. Sovereign (Sceptre, Shield, Steel Mirror, Flask)
+12. Cultist (Grease, Spell,)
+
+
 1. Name your character.
 2. Health Points are 6.
 3. Distribute 3 points between these abilities:
    * **Strength:** power, stamina, physical resilience.
    * **Dexterity:** speed, agility, precision.
    * **Will:** charisma, perception, willpower.
-4. As well as individual items, an expedition always has basic climbing, lighting, and camping equipment. Choose 6 of the following additional things to carry:
-   * Light Weapon (1 hand) (axe, dagger, club, mace, short sword, etc)
-   * Heavy Weapon (2 hand) (spear, long sword, warhammer, etc)
-   * Ranged Weapon (2 hand)(bow, crossbow, slingshot, etc)
-   * Shield
-   * Hammer
-   * Steel mirror
-   * Grease
-   * Flask
-   * Marbles
-   * Chalk
-   * Iron spike
-   * Glue
-   * 10 foot pole
-   * Lockpicks (3)
-   * Poison
-   * Acid
-   * Medicine (3)
-   * Fishing net
-   * Crowbar
-   * Chalk
-   * Shovel
-   * Hacksaw
-   * Chain
-   * Gunpowder
+4. As well as individual items, an expedition always has rations and basic lighting and camping equipment.
+
+## Difficulty Scores
+Easy     7
+Moderate 9
+Hard    11
 
 ## Danger Roll
-When possible, a PC’s actions should be resolved by its player describing what the character does. When an action is risky, a player rolls 1d12 and adds the score from their relevant ability and path. If the total is 9 or more the action is successful. If not, the referee describes how it goes wrong.
+When possible, a PC’s actions should be resolved by its player describing what the character does. When an action is risky, a player rolls 1d12 and adds the score from their relevant ability. If the total is more than the action's Difficulty Score, the action is successful. If not, the referee describes how it goes wrong.
 
 ## Combat
 
