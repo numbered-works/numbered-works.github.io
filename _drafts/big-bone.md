@@ -18,6 +18,7 @@ One referee, one or more players, pencil, paper, one giant foam d12 from Kmart, 
 11. Fish Person
 12. Troll
 
+
 1. Sneak (Dagger, Lockpicks, Hacksaw, Marbles) (STR 0, DEX 2, WIL 1)
 2. Thief (Sword, Crowbar, Sack, Acid) (STR 0, DEX 2, WIL 1)
 3. Mage (Club, 10 foot pole, Spell) (STR 0, DEX 1, WIL 2)
