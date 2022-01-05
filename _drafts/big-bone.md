@@ -62,7 +62,7 @@ A PC’s actions should ideally be resolved by its player describing what the PC
 
 ## Combat
 
-When one character attacks another, the attacker makes an *Attack Roll*. If the total exceeds the defender’s armour, the attack hits and deals damage equal to the difference between the two scores. Unarmed attacks deduct 1 point from this damage. Subtract the damage from the defender’s *Health Points*. If the defender has a shield they may choose to shatter it and ignore all damage from the attack.
+When one character attacks another, the attacker makes an *Attack Roll*. If the total exceeds the defender’s *Armour*, the attack hits and deals damage equal to the difference between the two scores. Unarmed attacks deduct 1 point from this damage. Subtract the damage from the defender’s *Health Points*. If the defender has a shield they may choose to shatter it and ignore all damage from the attack.
 
 ## Health
 Regain lost Health Points by getting one night of rest. When a PC’s Health Points reach zero, they die.
