@@ -117,29 +117,29 @@ Roll on these tables and combine the results. Referee and player agree upon the 
 ## NPC Stat Guide
 
 * Health:
-  Frail: 3
-  Typical: 6
-  Tough: 12
+    * Frail: 3
+    * Typical: 6
+    * Tough: 12
 * Armour:
-  None: 6
-  Light: 7
-  Heavy: 9
+    * None: 6
+    * Light: 7
+    * Heavy: 9
 * Attack:
-  Inept: +0
-  Feisty: +2
-  Lethal: +4
+    * Inept: +0
+    * Feisty: +2
+    * Lethal: +4
 * Strength:
-  Weak: +0
-  Strong: +2
-  Mighty: +4
+    * Weak: +0
+    * Strong: +2
+    * Mighty: +4
 * Dexterity:
-  Slow: +0
-  Nimble: +2
-  Fast: +4
+    * Slow: +0
+    * Nimble: +2
+    * Fast: +4
 * Will:
-  Dim: +0
-  Clever: +2
-  Genius: +4
+    * Dim: +0
+    * Clever: +2
+    * Genius: +4
 
 ## Adventure Builder
 
@@ -235,4 +235,5 @@ Embellish and edit as you see fit.
 11. True queen.
 12. Enormous egg.
 
-Version 0.3. Based on Maze Rats by Ben Milton, Tunnel Goons by Nate Treme, and Basic Dungeons by OrkishBlade. CC-BY-4.0. Numbered Works No. 3, December 2021, a cursed year.
+---
+Version 0.3. Based on [Maze Rats](https://questingbeast.itch.io/maze-rats) by [Ben Milton](http://questingblog.com/), [Tunnel Goons](https://tunnelgoons.com/) by [Nate Treme](https://natetreme.com/), and [Basic Dungeons](https://www.reddit.com/r/BehindTheTables/comments/4iq4of/basic_dungeons/) by [OrkishBlade](https://www.reddit.com/r/BehindTheTables/). [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). Numbered Works No. 3, December 2021, a cursed year.
