@@ -48,7 +48,7 @@ As well as individual items, PCs have rations and basic camping equipment. A PC 
 
 PCs with a *Spell* can generate one spell. It may be cast once. A new spell may be generated after one night of rest. A PC can only have one spell at a time. Spells will often have  chaotic results.
 
-PCs with *+1 Attack* add 1 point to Attack Rolls.
+PCs with *+1 Attack* add 1 point to *Attack Rolls*.
 
 ## Danger
 
@@ -62,7 +62,7 @@ A PC’s actions should ideally be resolved by its player describing what the PC
 
 ## Combat
 
-When one character attacks another, the attacker makes an *Attack Roll*. If the total exceeds the defender’s *Armour*, the attack hits and deals damage equal to the difference between the two scores. Unarmed attacks deduct 1 point from this damage. Subtract the damage from the defender’s *Health Points*. If the defender has a shield they may choose to shatter it and ignore all damage from the attack.
+When one character attacks another, the attacker makes an Attack Roll. If the total exceeds the defender’s *Armour*, the attack hits and deals damage equal to the difference between the two scores. Unarmed attacks deduct 1 point from this damage. Subtract the damage from the defender’s *Health Points*. If the defender has a shield they may choose to shatter it and ignore all damage from the attack.
 
 ## Health
 Regain lost Health Points by getting one night of rest. When a PC’s Health Points reach zero, they die.
@@ -84,7 +84,7 @@ Roll on these tables and combine the results. Referee and player agree upon the 
 11. Energizing
 12. Charming
 
-<!--- -->
+    
 
 1. Acid
 2. Thunder
@@ -99,7 +99,7 @@ Roll on these tables and combine the results. Referee and player agree upon the 
 11. Void
 12. Dagger
 
-<!--- -->
+
 
 1. Chariot
 2. Eye
@@ -236,4 +236,5 @@ Embellish and edit as you see fit.
 12. Enormous egg.
 
 ---
+
 Version 0.3. Based on [Maze Rats](https://questingbeast.itch.io/maze-rats) by [Ben Milton](http://questingblog.com/), [Tunnel Goons](https://tunnelgoons.com/) by [Nate Treme](https://natetreme.com/), and [Basic Dungeons](https://www.reddit.com/r/BehindTheTables/comments/4iq4of/basic_dungeons/) by [OrkishBlade](https://www.reddit.com/r/BehindTheTables/). [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). Numbered Works No. 3, December 2021, a cursed year.
