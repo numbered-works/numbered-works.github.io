@@ -84,7 +84,7 @@ Roll on these tables and combine the results. Referee and player agree upon the 
 11. Energizing
 12. Charming
 
-    
+<!---->
 
 1. Acid
 2. Thunder
@@ -99,7 +99,7 @@ Roll on these tables and combine the results. Referee and player agree upon the 
 11. Void
 12. Dagger
 
-
+<!---->
 
 1. Chariot
 2. Eye
