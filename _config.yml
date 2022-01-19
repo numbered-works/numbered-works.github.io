@@ -28,7 +28,7 @@ twitter_username: numberedworks
 github_username:  numbered-works
 
 # Build settings
-theme: minima
+# theme: minima
 
 plugins:
   - jekyll-feed
