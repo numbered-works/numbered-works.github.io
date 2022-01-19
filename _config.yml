@@ -18,17 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Numbered Works v0.1
-email: your-email@example.com
+title: Numbered Works
+email: numbered.works@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Publishing games, art, toys, music, tools.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://numbered-works.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://numbered.works" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: numberedworks
 github_username:  numbered-works
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 
