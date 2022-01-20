@@ -26,6 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://numbered.works" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: numberedworks
 github_username:  numbered-works
+itch_username: numbered-works
 
 # Build settings
 # theme: minima
