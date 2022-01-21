@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<!-- Primary Meta Tags -->
+<title>Sally Port Farm</title>
+<meta name="title" content="Sally Port Farm">
+<meta name="description" content="A small, system-agnostic sci-fi setting to drop into your RPG">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://sally-port-farm.netlify.app/">
+<meta property="og:title" content="Sally Port Farm">
+<meta property="og:description" content="A small, system-agnostic setting to drop into your RPG">
+<meta property="og:image" content="https://sally-port-farm.netlify.app/images/meta.jpg">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://sally-port-farm.netlify.app/">
+<meta property="twitter:title" content="Sally Port Farm">
+<meta property="twitter:description" content="A small, system-agnostic setting to drop into your RPG">
+<meta property="twitter:image" content="https://sally-port-farm.netlify.app/images/meta.jpg">
+
+<link href="fonts/altehaasgrotesk/altehaasgrotesk.css" rel="stylesheet">
+
+<style>
+
+/* Reset */
+
+html { box-sizing: border-box; scroll-behavior: smooth; }
+
+*, *:before, *:after { box-sizing: inherit; }
+
+/* Basics */
+
+.clear { clear: both; }
+
+body { margin: 0; }
+
+html { font: 21px/28px 'alte_haas_grotesk', helvetica, sans-serif; color: black; }
+
+h1 { font: bold 48px 'alte_haas_grotesk', sans-serif; text-transform: uppercase; margin-top:17px; }
+h2 { font: bold 36px 'alte_haas_grotesk', sans-serif; }
+h3 { font: bold 24px 'alte_haas_grotesk', sans-serif; }
+
+strong { font-weight: bold; }
+
+article a { border-bottom: 2px solid black; text-decoration: none; color: black; }
+article a:hover { border-bottom: 2px solid #af8dc0; background:#af8dc0; }
+
+img { max-width: 100%; }
+img.spot { max-width: 50%; }
+
+figure { margin:0; padding: 0; max-width: 100%; }
+figcaption { color:#999; }
+
+::selection { background: #F7DC6F; }
+
+.key { position: relative; width: 100%; margin: 0 auto; }
+.key img { max-width: 100%; height: auto; display: block; }
+.key a { position: absolute; height: 6%; width: 4%; background-color: rgba(0, 0, 0, 0); border-radius: 50%; border-bottom:0; display: flex; justify-content: center; align-items: center; color: #fff; text-decoration: none; }
+.key a:hover { border-bottom:0; background: transparent; }
+
+.capstone { left: 1.2%; top: 58.03%; }
+.shedtop { left: 45.77%; top: 14.86%; }
+.shedlower { left: 47.54%; top: 32.13%; }
+.skyway { left: 59.44%; top: 40.2%; }
+.pillbox { left: 39.3%; top: 63.42%; }
+.block { left: 66.42%; top: 63.14%; }
+.buggy { left: 72.25%; top: 73.91%; }
+.upperlab { left: 73.23%; top: 3.34%; }
+
+.entrance { left: 57.07%; top: 22.93%; }
+.pipe { left: 63.68%; top: 31.85%; }
+.lowroad { left: 67.13%; top: 78.28%; }
+.cloudroom { left: 17.01%; top: 64.75%; }
+.kitchen { left: 34.6%; top: 65.96%; }
+.breakroom { left: 60.57%; top: 61.59%; }
+.pantry { left: 84.83%; top: 64.99%; }
+
+ol { padding-left: 0; }
+ol li { border-bottom: 2px solid black; padding: 7px 0; list-style-position: inside; }
+ol li:last-child { border-bottom: none }
+
+nav ul { list-style-type: none; padding: 0; border-top: 2px solid black; }
+
+footer { border-top: 2px solid black; padding: 7px 0 28px 0; }
+
+.page { margin:1em auto; max-width: 1000px; }
+
+header { margin: 0; padding: 0; width: 200px; position: fixed; height: 100%; overflow: auto; }
+header nav a { display: block; text-align: center; color: black; padding: 16px; text-decoration: none; text-transform: uppercase; border-bottom: 2px solid black; }
+header nav a.active { background-color: #fff; color: black; }
+header nav a:hover { background-color: #fff; color: #af8dc0; }
+
+article { margin-left: 240px; padding: 1px 16px; max-width: 800px; height: 1000px; }
+
+@media screen and (max-width: 700px) {
+  header { width: 100%; height: auto; position: relative; text-align: center; }
+  header nav { text-align:center; margin: 0 16px; }
+  header nav ul { border-bottom: 2px solid black; }
+  header nav li { display:inline; margin-bottom:0; }
+  header nav a { display:inline-block; border: 0; }
+  header a.logo { display:block; margin:0 auto; border: 0; }
+  article { margin-left: 0; }
+  img.spot { max-width: 100%; }
+}
+
+@media screen and (max-width: 400px) {
+  h1 { font-size: 36px; }
+  header { padding: 0px 16px;}
+  header nav ul { border-bottom: 0; }
+  header nav li { display: block; width: 100%; }
+  header nav a { border-bottom: 2px solid black; width:100%; }
+}
+
+</style>
+</head>
+<body>
+
+<div class="page">
+
+<header>
+  <a class="logo" href="#top"><img src="images/sal.png" Alt="SAL"></a>
+  <nav>
+    <ul>
+      <li><a href="#the-surface">THE SURFACE</a></li>
+      <li><a href="#the-bunkers">THE BUNKERS</a></li>
+    </ul>
+  </nav>
+</header>
+
+<article>
+
+<h1 id="sally-port-farm">SALLY PORT FARM</h1>
+<p>A multilevel farming community built upon ancient, abandoned infrastructure. </p>
+<p><strong>Numbered Works, No. 2</strong>
+   <br><strong>December 2021</strong></p>
+<p>A small, system-agnostic setting to drop into your sci-fi RPG. Includes maps, random encounters, a buggy, and fungi.</p>
+
+<h2 id="the-surface">THE SURFACE</h2>
+
+<div class="key">
+  <a href="#1-capstone" title="CAPSTONE" class="capstone"></a>
+  <a href="#2-shed-top-floor" title="SHED, TOP FLOOR" class="shedtop"></a>
+  <a href="#3-shed-lower-floor" title="SHED LOWER FLOOR" class="shedlower"></a>
+  <a href="#4-skyway" title="SKYWAY" class="skyway"></a>
+  <a href="#5-pillbox" title="PILLBOX" class="pillbox"></a>
+  <a href="#6-block-and-tackle" title="BLOCK AND TACKLE" class="block"></a>
+  <a href="#7-buggy" title="BUGGY" class="buggy"></a>
+  <a href="#8-upper-lab" title="UPPER LAB" class="upperlab"></a>
+  <img src="images/surface.jpg" Alt="A map showing a cluster of massive pipes emerging from the earth. Shelters, platforms, and planters of varying sizes have been built around and on top of the pipes. The settlement is surrounded by a field of poppies. Features are numbered starting in the west, travelling clockwise around the map.">
+</div>
+
+<h3 id="1-capstone">1. CAPSTONE</h3>
+<ul>
+  <li>Solid concrete. Unlocked.</li>
+  <li>Can be lifted by three people.</li>
+  <li>Allows direct access to the <a href="#5-kitchen">bunker kitchen</a>.</li>
+</ul>
+<h3 id="2-shed-top-floor">2. SHED, TOP FLOOR</h3>
+<ul>
+  <li><a href="#1d6-surface-encounters">Del&rsquo;s</a> haunt. Bed roll, dehydrated fruit, pipeweed. Messy.</li>
+  <li>Slingshot, rocks.</li>
+  <li>Climbing rope, harness.</li>
+</ul>
+<h3 id="3-shed-lower-floor">3. SHED, LOWER FLOOR</h3>
+<ul>
+  <li>Tools, gloves, crossbow, handheld radio, fishing net.</li>
+  <li>Hatch to <a href="#the-bunkers">the bunkers</a> concealed under woven mat. Locked.</li>
+</ul>
+<h3 id="4-skyway">4. SKYWAY</h3>
+<ul>
+  <li>Precarious, impractical, swings.</li>
+  <li><a href="#1d6-surface-encounters">Guss and Del</a> walk the skyway easily. Nobody else does.</li>
+</ul>
+<h3 id="5-pillbox">5. PILLBOX</h3>
+<ul>
+  <li>Concrete. No visible entrance.</li>
+  <li>A single arrowslit on each wall.</li>
+  <li>Concealed vents on roof.</li>
+</ul>
+<h3 id="6-block-and-tackle">6. BLOCK AND TACKLE</h3>
+<ul>
+  <li>Allows lifting of heavy objects.</li>
+</ul>
+<h3 id="7-buggy">7. BUGGY</h3>
+<ul>
+  <li>Electric, lacking batteries.</li>
+  <li>Seating for 3, plus cargo.</li>
+  <li>Radio. Map drawn on floor.</li>
+</ul>
+<h3 id="8-upper-lab">8. UPPER LAB</h3>
+<ul>
+  <li>In cooler months, home for <a href="#1d6-surface-encounters">Guss</a>.</li>
+  <li>Seedlings, mosses, fungi in assorted growing mediums.</li>
+  <li>Insect hatchery. Snail farm.</li>
+  <li>Bed roll, kettle, hotplate.</li>
+  <li>Small desk with radio, writing implements, cyberdeck.</li>
+  <li>Three keys on a loop of string hanging on a nail. One opens the bunker hatch. One starts the buggy. One is a lock-blocker.</li>
+</ul>
+
+<img class="spot" src="images/plants.jpg" Alt="Familiar and unfamiliar plant shapes.">
+
+<h2 id="1d6-surface-encounters">1d6 SURFACE ENCOUNTERS</h2>
+<ol>
+  <li><strong>TV-EYE</strong>, hovering surveillance drone. Will pursue you if left unchallenged. Persistent.  </li>
+  <li><strong>CAMELS</strong>, roaming in herds. If followed may reveal other settlements, oases.</li>
+  <li><strong>GUSS</strong>, farmer. Wry, lean, dark-eyed. Poppy tea drinker. Wants to be left alone.</li>
+  <li><strong>FORAGERS</strong> wander the landscape seeking protein, information, water. Generous.</li>
+  <li><strong>KABE</strong>, farmer. Strong, restless, welcoming. Loves but wants to leave the farm.  </li>
+  <li><strong>DEL</strong>, 14. Kabe's sibling. Hates the farm. Rock-thrower, thief.</li>
+</ol>
+
+<h2 id="the-bunkers">THE BUNKERS</h2>
+
+<div class="key">
+  <a href="#1-entrance" title="ENTRANCE" class="entrance"></a>
+  <a href="#2-pipe" title="PIPE" class="pipe"></a>
+  <a href="#3-low-road" title="LOW ROAD" class="lowroad"></a>
+  <a href="#4-cloud-room" title="CLOUD ROOM" class="cloudroom"></a>
+  <a href="#5-kitchen" title="KITCHEN" class="kitchen"></a>
+  <a href="#6-break-room" title="BREAK ROOM" class="breakroom"></a>
+  <a href="#7-pantry" title="PANTRY" class="pantry"></a>
+<img src="images/bunkers.jpg" Alt="A cross-section map of the underground bunkers, showing seven separate spaces connected by tunnels.">
+</div>
+
+<p>A cool, secure space for living and farming. Protection from heat waves and wildfires. Softly lit by bioluminescent fungi and fluorescent corals.</p>
+
+<h3 id="1-entrance">1. ENTRANCE</h3>
+<ul>
+  <li> Via <a href="#3-shed-lower-floor">locked hatch</a>.</li>
+</ul>
+<h3 id="2-pipe">2. PIPE</h3>
+<ul>
+  <li>Smells of salt, seaweed. A breeze.</li>
+  <li>Anchor points on floor and ceiling.</li>
+  <li>East: 50 foot drop to an unlocked grate. West: Unknown depth, doors at 50 and 60 feet.</li>
+</ul>
+<h3 id="3-low-road">3. LOW ROAD</h3>
+<ul>
+  <li>A thoroughfare between understructures.</li>
+  <li>Coral, mollusc, barnacle encrusted.</li>
+  <li>Fills with sea water at high tide. Low tide: 0000, 1200hrs. High: 0600, 1800hrs. Floods east, ebbs west.</li>
+</ul>
+<h3 id="4-cloud-room">4. CLOUD ROOM</h3>
+<ul>
+  <li>Full of suspended plants, fungi, purple light.</li>
+  <li>Air is thick with nutrient fog.</li>
+  <li>Concealed storage embedded in western wall.</li>
+  <li>Smells of fresh rain.</li>
+  <li>Frogs.</li>
+</ul>
+<h3 id="5-kitchen">5. KITCHEN</h3>
+<ul>
+  <li>Equipped for cooking and preserving. Dehydrator.</li>
+  <li>Freshwater well.</li>
+  <li><a href="#1-capstone">Capstone</a> at ceiling may be opened from above to allow surface access.</li>
+</ul>
+<h3 id="6-break-room">6. BREAK ROOM</h3>
+<ul>
+  <li>Table, chairs, dirty boots.</li>
+  <li>Upper platform grants access to <a href="#5-pillbox">pillbox</a> arrowslits.</li>
+  <li>Bathroom, bedrooms to the north.</li>
+  <li>Entry to pantry hidden behind map on wall.</li>
+</ul>
+<h3 id="7-pantry">7. PANTRY</h3>
+<ul>
+  <li>Densely packed with provisions. Dehydrated, canned, and fermented fruits, vegetables, seaweeds.</li>
+  <li>Dried insects.</li>
+  <li>Medicinal and psychotropic herbs, fungi.</li>
+  <li>Water. Weapons. Batteries.</li>
+  <li>Soft eggs of unknown origin, 1ft long, stored in liquid.</li>
+</ul>
+
+<img class="spot" src="images/bike.jpg" Alt="A motocycle rider in a darkened space.">
+
+<h2 id="low-road-encounters-1d6">1d6 LOW ROAD ENCOUNTERS</h2>
+<ol>
+  <li><strong>UNDERCOWS</strong> travel in herds, feed on sea beans, slime. Milk is drinkable but salty. Hairless.</li>
+  <li><strong>COLLECTORS</strong> carrying tools, climbing equipment. Seeking tech to salvage. Silent.</li>
+  <li><strong>WHITE CROCODILE</strong> is sparkling, intelligent, hungry.</li>
+  <li><strong>BEACHED DOLPHIN</strong> will not survive until high tide without assistance. Telepathic.</li>
+  <li><strong>CONVOY</strong> rushes to beat the tide. Families on buggies, utes, motorbikes. Desperate.</li>
+  <li><strong>GRAND CAECILIAN</strong> seeks her eggs. Follows their scent. Enormous. Livid. Oozes toxins.</li>
+</ol>
+
+<footer>
+  <p>Created during the <a href="https://itch.io/jam/pocket-places-of-the-future/">Pocket Places of the Future jam</a>, December 2021. <a href="https://numbered-works.itch.io/sally-port-farm">You can find the PDF version on Itch.io</a>.</p>
+</footer>
+
+</article>
+</div>
+</body>
+</html>
