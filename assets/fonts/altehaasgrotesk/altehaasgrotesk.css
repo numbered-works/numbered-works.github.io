@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'alte_haas_grotesk';
+    src: url('altehaasgroteskregular-webfont.woff2') format('woff2'),
+         url('altehaasgroteskregular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'alte_haas_grotesk';
+    src: url('altehaasgroteskbold-webfont.woff2') format('woff2'),
+         url('altehaasgroteskbold-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+
+}
