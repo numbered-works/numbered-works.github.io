@@ -24,6 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Publishing games, art, toys, music, tools.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://numbered.works" # the base hostname & protocol for your site, e.g. http://example.com
+theme: minima
 twitter_username: numberedworks
 github_username:  numbered-works
 itch_username: numbered-works
