@@ -112,6 +112,15 @@ article { margin-left: 240px; padding: 1px 16px; max-width: 800px; height: 1000p
   header nav a { border-bottom: 2px solid black; width:100%; }
 }
 
+@media print {
+  header { width: 240px; height: auto; position: relative; text-align: center; }
+  header nav  { display:none; }
+  .page { width: 100%; }
+  article { margin-left: 0; }
+  ul, ol { break-inside: avoid; }
+  h2, h3 { break-after: avoid; }
+}
+
 </style>
 </head>
 
