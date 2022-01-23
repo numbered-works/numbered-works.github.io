@@ -15,19 +15,19 @@ redirect_from:
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://sally-port-farm.netlify.app/">
+<meta property="og:url" content="http://numbered.works/sally-port-farm/">
 <meta property="og:title" content="Sally Port Farm">
 <meta property="og:description" content="A small, system-agnostic setting to drop into your RPG">
-<meta property="og:image" content="https://sally-port-farm.netlify.app/images/meta.jpg">
+<meta property="og:image" content="/images/meta.jpg">
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image">
-<meta property="twitter:url" content="https://sally-port-farm.netlify.app/">
+<meta property="twitter:url" content="http://numbered.works/sally-port-farm/">
 <meta property="twitter:title" content="Sally Port Farm">
 <meta property="twitter:description" content="A small, system-agnostic setting to drop into your RPG">
-<meta property="twitter:image" content="https://sally-port-farm.netlify.app/images/meta.jpg">
+<meta property="twitter:image" content="/images/meta.jpg">
 
-<link href="fonts/altehaasgrotesk/altehaasgrotesk.css" rel="stylesheet">
+<link href="http://numbered.works/assets/fonts/altehaasgrotesk/altehaasgrotesk.css" rel="stylesheet">
 
 <style>
 
@@ -118,6 +118,15 @@ article { margin-left: 240px; padding: 1px 16px; max-width: 800px; height: 1000p
   header nav ul { border-bottom: 0; }
   header nav li { display: block; width: 100%; }
   header nav a { border-bottom: 2px solid black; width:100%; }
+}
+
+@media print {
+  header { width: 240px; height: auto; position: relative; text-align: center; }
+  header nav  { display:none; }
+  .page { width: 100%; }
+  article { margin-left: 0; }
+  ul, ol { break-inside: avoid; }
+  h2, h3 { break-after: avoid; }
 }
 
 </style>
