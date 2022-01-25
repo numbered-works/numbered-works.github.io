@@ -5,7 +5,6 @@ Version 0.1
 The adventurers are called upon to help protect the construction site of a new wizard's tower.
 
 ## THE SWAMP
-
 Duckweed covers the surface of the water, what lies below cannot be seen. The air is heavy. There is the relentless thrum of droning, chirping animal and insect sound, punctuated by calls, howls, hoots, and snarls. Trees and green mounds vibrate with the movement of small creatures. Smell of farts, wet earth. The party is on a filthy, mud-encrusted barge, captained by **Ervind Oblong**. They are approaching a cluster of islands.
 
 ### 1. First Island
@@ -25,7 +24,7 @@ Duckweed covers the surface of the water, what lies below cannot be seen. The ai
 * At the south of the island a **Swamp Golem** pulls a tree out of the ground, carries it to the north of the island, and tosses it onto the dam structure. It repeats this sequence all day.
 
 ### 5. The Dam
-*A wide, low pile of trees and scrub torn out of the ground and tossed here by the golem. Lets significant amounts of water through but is beginning to have a noticeable effect on the water level in the swamp.
+* A wide, low pile of trees and scrub torn out of the ground and tossed here by the golem. Lets significant amounts of water through but is beginning to have a noticeable effect on the water level in the swamp.
 
 ### 6. Gas Harvester
 
@@ -47,13 +46,39 @@ Duckweed covers the surface of the water, what lies below cannot be seen. The ai
 
 ### The Wizard Grezill Berch
 * Wears a necklace of charms around his neck. These charms grant control of the Mud Golems.
+* Three spell slots. Clever, nimble, physically weak.
 *
-### Frogfolk Druid
-
+### The Druid
+* Frogfolk. Longtime swamp resident.
+* Knows the secret of controlling golems.
+* Nonviolent, but at night she scatters charmed tree seeds and spore bombs to foil the clearing of the forest.
+* Has potions.
+* Friendly, gentle.
+* PCs will need to gain her trust by completing a task/finding an ingredient for her
+*
 ### Forager/Gas Harvester
+* Seasonal swamp resident.
 
 ### Mud Golems
 * 10 feet tall, very strong, slow and stupid.
 * Made of swamp mud. Plants sprout from their heads and shoulders. Worms and grubs burrow into their bodies.
 * Focused entirely on their appointed task. Obstacles will be picked up and tossed into the water. If threatened, will inflict damage by punching and stomping.
 * Golems will cross bridges but will not use stepping stones or willingly enter the water. After some time in water a mud golem will start to dissolve.
+
+
+## Druid Potions Table
+
+## Water Encounters Table
+
+## Foraging Table
+2. Algae
+3. Unknown tuber, purple
+4. Grubs
+5. Crickets
+6. Moss
+7. Worms
+8. Swamp melon
+9. Snails
+10. Slime
+11. Fern
+12. Unknown flower (delicious)
