@@ -14,7 +14,7 @@ Duckweed covers the surface of the water, what lies below cannot be seen. The ai
 * Bridges to the north and east.
 
 ### 2. Wizard's domain
-* What appears to be the ground level of a wizard's tower. The next level is under construction, and various elements of the walls and windows are suspended in the air. An ornate rooftop hovers many metres above.
+* What appears to be the ground level of a wizard's tower. The next level is under construction, and various elements of the walls and windows are magically suspended in the air. An ornate rooftop hovers many metres above.
 * Home to The Wizard Grezill Berch.
 
 ### 3. Peat Mine
