@@ -9,7 +9,7 @@ Duckweed covers the surface of the water, what lies below cannot be seen. The ai
 
 ### 1. First Island
 * Rickety pier to the south.
-* Ground is wet, muddy.
+* Ground is wet, sticky with mud.
 * Piles of dried peat sitting on grates made from sticks. The peat is formed into rough spheres, about the size of basket balls. Dried peat is transported downriver on the barge and sold at the nearest town.
 * Bridges to the north and east.
 
@@ -18,7 +18,7 @@ Duckweed covers the surface of the water, what lies below cannot be seen. The ai
 * Home to The Wizard Grezill Berch.
 
 ### 3. Peat Mine
-* This island is devoid of trees. At the northern end of the island, a **Mud Golem** digs fistfuls of peat from the earth. It carries the peat south, across a rickety bridge to Island 1, where it stacks the peat to dry. It repeats this sequence all day.
+* This island is devoid of trees. At the northern end of the island, a **Peat Golem** digs fistfuls of peat from the earth. It carries the peat south, across a rickety bridge to Island 1, where it stacks the peat to dry. It repeats this sequence all day.
 
 ### 4. New Mine
 * At the south of the island a **Swamp Golem** pulls a tree out of the ground, carries it to the north of the island, and tosses it onto the dam structure. It repeats this sequence all day.
@@ -59,11 +59,12 @@ Duckweed covers the surface of the water, what lies below cannot be seen. The ai
 ### Forager/Gas Harvester
 * Seasonal swamp resident.
 
-### Mud Golems
+### Golems
 * 10 feet tall, very strong, slow and stupid.
 * Made of swamp mud. Plants sprout from their heads and shoulders. Worms and grubs burrow into their bodies.
 * Focused entirely on their appointed task. Obstacles will be picked up and tossed into the water. If threatened, will inflict damage by punching and stomping.
-* Golems will cross bridges but will not use stepping stones or willingly enter the water. After some time in water a mud golem will start to dissolve.
+* Golems will cross bridges but will not use stepping stones or willingly enter the water. After some time in water a golem will start to dissolve.
+* Peat Golem is highly flammable.
 
 
 ## Druid Potions Table
