@@ -75,6 +75,7 @@ The party is on a filthy, mud-encrusted peat barge, captained by bargeman **Ervi
 
 ### The Druid Verna
 * Frogfolk. Longtime swamp resident.
+* "I tend to the swamp and gratefully accept her gifts."
 * Knows the secret of controlling golems.
 * Nonviolent, but at night she scatters charmed cedar seeds (a full size tree sprouts in seconds) and spore bombs (giant, bioluminescent mushrooms instantly sprout) to foil the clearing of the forest. Wants to stay in the swamp.
 * Has potions.
