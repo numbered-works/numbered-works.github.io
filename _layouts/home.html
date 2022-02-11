@@ -1,26 +1,8 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 <head>
-<meta charset="utf-8" />
-<!-- Primary Meta Tags -->
-<title>{{ site.title | escape }}</title>
-<meta name="title" content="{{ site.title | escape }}">
-<meta name="description" content="{{ site.description | escape }}">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<!-- Open Graph / Facebook -->
-<meta property="og:type" content="website">
-<meta property="og:url" content="{{ site.url | escape }}">
-<meta property="og:title" content="{{ site.title | escape }}">
-<meta property="og:description" content="{{ site.description | escape }}">
-<meta property="og:image" content="https://free-stone-city.netlify.app/images/meta.jpg">
-
-<!-- Twitter -->
-<meta property="twitter:card" content="summary_large_image">
-<meta property="twitter:url" content="{{ site.url | escape }}">
-<meta property="twitter:title" content="{{ site.title | escape }}">
-<meta property="twitter:description" content="{{ site.description | escape }}">
-<meta property="twitter:image" content="https://free-stone-city.netlify.app/images/meta.jpg">
+{%- include head.html -%}
 
 <link href="https://numbered.works/assets/fonts/altehaasgrotesk/altehaasgrotesk.css" rel="stylesheet">
 <style>
@@ -79,6 +61,9 @@ article { margin-left: 240px; padding: 1px 16px; max-width: 800px; height: 1000p
 
 h2 span.key{ display: inline-block; width: 60px; line-height: 60px; border-radius: 50%; text-align: center; color: #fff; background-color: #000; margin-bottom:20px; }
 
+h2.soon { color: #ccc; }
+h2.soon span.key { background-color: #ccc; }
+
 @media screen and (max-width: 700px) {
   header { width: 100%; height: auto; position: relative; text-align: center; }
   header nav { text-align:center; margin: 0 16px; }
@@ -109,8 +94,8 @@ h2 span.key{ display: inline-block; width: 60px; line-height: 60px; border-radiu
 <a class="logo" href="index.html"><img src="assets\img\numbered-works-circle.svg" Alt="Numbered Works Logo"></a>
 <nav>
 <ul>
-  <li><a href="#map">About</a></li>
-  <li><a href="#1d6-encounters">Notes</a></li>
+  <li><a href="/about">About</a></li>
+  <li><a href="/notes">Notes</a></li>
 </ul>
 </nav>
 </header>
@@ -119,10 +104,11 @@ h2 span.key{ display: inline-block; width: 60px; line-height: 60px; border-radiu
 
 <h1 id="numbered-works">Numbered Works</h1>
 
-<h2><span class="key">6</span> The Wild King</h2>
-<h2><span class="key">5</span> Swamp Renewal</h2>
-<h2><span class="key">4</span> Little Bones</h2>
-<h2><span class="key">3</span> Big Bone</h2>
+<h2 class="soon"><span class="key">7</span> Trash Creeps</h2>
+<h2 class="soon"><span class="key">6</span> The Wild King</h2>
+<h2><a href="/swamp-renewal"><span class="key">5</span> Swamp Renewal</h2>
+<h2><a href="/little-bones"><span class="key">4</span> Little Bones</h2>
+<h2><a href="/big-bone"><span class="key">3</span> Big Bone</h2>
 <h2><a href="/sally-port-farm"><span class="key">2</span> Sally Port Farm</a></h2>
 <h2><a href="/free-stone-city"><span class="key">1</span> Free Stone City</a></h2>
 

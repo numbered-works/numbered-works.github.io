@@ -2,7 +2,6 @@
 layout: adventure
 title: Free Stone City
 description: An outpost has grown around the humming stones.
-image: images/meta.jpg
 redirect_from:
   - /1/
   - /1/free-stone-city
@@ -10,8 +9,26 @@ redirect_from:
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<meta charset="utf-8" />
+<!-- Primary Meta Tags -->
+<title>Free Stone City</title>
+<meta name="title" content="Free Stone City">
+<meta name="description" content="A small, system-agnostic setting to drop into your RPG">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-{%- include head.html -%}
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://free-stone-city.netlify.app/">
+<meta property="og:title" content="Free Stone City">
+<meta property="og:description" content="A small, system-agnostic setting to drop into your RPG">
+<meta property="og:image" content="https://free-stone-city.netlify.app/images/meta.jpg">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://free-stone-city.netlify.app/">
+<meta property="twitter:title" content="Free Stone City">
+<meta property="twitter:description" content="A small, system-agnostic setting to drop into your RPG">
+<meta property="twitter:image" content="https://free-stone-city.netlify.app/images/meta.jpg">
 
 <link href="http://numbered.works/assets/fonts/altehaasgrotesk/altehaasgrotesk.css" rel="stylesheet">
 <style>
