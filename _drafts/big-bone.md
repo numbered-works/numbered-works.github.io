@@ -16,33 +16,33 @@ Each player character (PC) has: 6 Health Points, 6 Armour Points, a Name, and th
 
 ## Roll character type
 
-1.	Fishfolk
-2.	Werewolf
-3.	Halfling
-4.	Vampire
-5.	Catfolk
-6.	Human
-7.	Goblin
-8.	Elf
-9.	Fairy
-10.	Human
-11.	Giant
-12.	Troll
+1. Fishfolk
+2. Werewolf
+3. Halfling
+4. Vampire
+5. Catfolk
+6. Human
+7. Goblin
+8. Elf
+9. Fairy
+10. Human
+11. Giant
+12. Troll
 
 ## Roll character background, gear, and trait scores
 
-1. Alchemist  (Chain, Cloak, Acid, Spell)           (Str 0, Dex 1, Wil 2)
-2. Sovereign  (Sceptre, Shield, Mirror, Flask)      (Str 1, Dex 0, Wil 2)
-3. Cultist    (Spear, Crystal, Grease, +1 Attack)   (Str 2, Dex 1, Wil 0)
-4. Smuggler   (Knife, Lockpicks, Spyglass, Marbles) (Str 0, Dex 2, Wil 1)
-5. Bandit     (Sword, Crowbar, Sack,  Hacksaw)      (Str 1, Dex 2, Wil 0)
-6. Mage       (Club, 10 Foot Pole, Orb, Spell)      (Str 0, Dex 1, Wil 2)
-7. Brawler    (Warhammer, Shield, Blade, +1 Attack) (Str 2, Dex 0, Wil 1)
-8. Hunter     (Axe, Fishing Net, Shovel, Trap )     (Str 2, Dex 1, Wil 0)
-9. Druid      (Bow, 50 Foot Rope, Medicine, Spell)  (Str 1, Dex 1, Wil 1)
-10. Sorcerer  (Mace, Gong, Iron Spike, Spell)       (Str 1, Dex 0, Wil 2)
-11. Assassin  (Crossbow, Wire, Poison, +1 Attack)   (Str 1, Dex 1, Wil 1)
-12. Tinker    (Slingshot, Glue, Hammer, Chalk)      (Str 1, Dex 2, Wil 0)
+1. Alchemist (Chain, Cloak, Acid, Spell) (Str 0, Dex 1, Wil 2)
+2. Sovereign (Sceptre, Shield, Mirror, Flask) (Str 1, Dex 0, Wil 2)
+3. Cultist (Spear, Crystal, Grease, +1 Attack) (Str 2, Dex 1, Wil 0)
+4. Smuggler (Knife, Lockpicks, Spyglass, Marbles) (Str 0, Dex 2, Wil 1)
+5. Bandit (Sword, Crowbar, Sack, Hacksaw) (Str 1, Dex 2, Wil 0)
+6. Mage (Club, 10 Foot Pole, Orb, Spell) (Str 0, Dex 1, Wil 2)
+7. Brawler (Warhammer, Shield, Blade, +1 Attack) (Str 2, Dex 0, Wil 1)
+8. Hunter (Axe, Fishing Net, Shovel, Trap ) (Str 2, Dex 1, Wil 0)
+9. Druid (Bow, 50 Foot Rope, Medicine, Spell) (Str 1, Dex 1, Wil 1)
+10. Sorcerer (Mace, Gong, Iron Spike, Spell) (Str 1, Dex 0, Wil 2)
+11. Assassin (Crossbow, Wire, Poison, +1 Attack) (Str 1, Dex 1, Wil 1)
+12. Tinker (Slingshot, Glue, Hammer, Chalk) (Str 1, Dex 2, Wil 0)
 
 As well as individual items, PCs have rations and basic camping equipment. A PC can carry as many items as can fit in a backpack.
 
@@ -81,8 +81,8 @@ Roll on these tables and combine the results. Referee and player agree upon the 
 7. Petrifying
 8. Reflecting
 9. Binding
-10. Moving
-11. Energizing
+10. Howling
+11. Shielding
 12. Charming
 
 <!---->
@@ -92,20 +92,20 @@ Roll on these tables and combine the results. Referee and player agree upon the 
 3. Time
 4. Stone
 5. Vine
-6. Pain
+6. Lightning
 7. Slime
 8. Fire
-9. Plague
-10. Rot
+9. Water
+10. Shadow
 11. Void
-12. Dagger
+12. Crystal
 
 <!---->
 
 1. Chariot
 2. Eye
 3. Beast
-4. Claw
+4. Bridge
 5. Cloak
 6. Gate
 7. Crown
@@ -144,7 +144,7 @@ Roll on these tables and combine the results. Referee and player agree upon the 
 
 ## Adventure Builder
 
-Embellish and edit as you see fit.
+Combine the results below to construct an adventure for your players.
 
 *The party discovers...*
 
@@ -173,7 +173,7 @@ Embellish and edit as you see fit.
 8. Under a volcano.
 9. Deep in the forest.
 10. In a swamp.
-11. On the tundra.
+11. Under their house.
 12. In the clouds.
 
 *Inside there is...*
@@ -187,9 +187,9 @@ Embellish and edit as you see fit.
 7. A weary dragon
 8. A sad troll
 9. A cursed princess
-10. A devious baron
+10. A tiny man
 11. A wicked lich
-12. A confused bear
+12. A hurt bear
 
 *...and...*
 
@@ -229,7 +229,7 @@ Embellish and edit as you see fit.
 4. Lost cat.
 5. Treasure hoard.
 6. Priceless relic.
-7. Golden idol.
+7. Secret portal.
 8. Kidnapped prince.
 9. Time crystal.
 10. Tome of spells.
@@ -238,4 +238,4 @@ Embellish and edit as you see fit.
 
 ---
 
-Version 0.3. Based on [Maze Rats](https://questingbeast.itch.io/maze-rats) by [Ben Milton](http://questingblog.com/), [Tunnel Goons](https://tunnelgoons.com/) by [Nate Treme](https://natetreme.com/), and [Basic Dungeons](https://www.reddit.com/r/BehindTheTables/comments/4iq4of/basic_dungeons/) by [OrkishBlade](https://www.reddit.com/r/BehindTheTables/). [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). Numbered Works No. 3, December 2021, a cursed year.
+Version 0.5. Based on [Maze Rats](https://questingbeast.itch.io/maze-rats) by [Ben Milton](http://questingblog.com/), [Tunnel Goons](https://tunnelgoons.com/) by [Nate Treme](https://natetreme.com/), and [Basic Dungeons](https://www.reddit.com/r/BehindTheTables/comments/4iq4of/basic_dungeons/) by [OrkishBlade](https://www.reddit.com/r/BehindTheTables/). [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). Numbered Works No. 3, December 2021, a cursed year.
