@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Gooper Super';
+    src: url('Gooper7-Super.woff2') format('woff2'),
+         url('Gooper7-Super.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Gooper Condensed';
+    src: url('GooperCondensed7-Medium.woff2') format('woff2'),
+         url('GooperCondensed7-Medium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
