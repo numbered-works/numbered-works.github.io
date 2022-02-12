@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Numbered Works is publishing or aims to publish adventures games, art, toys, music, objects, etcetera.
+Numbered Works is making adventures, games, art, toys, music, objects, etcetera.
 
 Based in Awabakal land, Australia.
 
