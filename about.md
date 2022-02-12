@@ -6,7 +6,7 @@ permalink: /about/
 
 Numbered Works is making adventures, games, art, toys, music, objects, etcetera.
 
-Based in Awabakal land, Australia.
+Based in Awabakal land, Australia. We acknowledge the Traditional Owners and Custodians of the lands on which we work and pay our respects to Indigenous Elders past, present and emerging. Sovereignty has never been ceded. It always was and always will be, Aboriginal land.
 
 ## About this Site
 
