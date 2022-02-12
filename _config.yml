@@ -32,6 +32,12 @@ itch_username: numbered-works
 # Build settings
 # theme: minima
 
+paginate: 20           # Posts per page on the notes index
+paginate_path: "notes/page:num/"
+# pagination_dir: notes  # Directory base for pagination URLs eg. /notes/page/2/
+
+gems: [jekyll-paginate]
+
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
