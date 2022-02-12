@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Bingo Bango Bongo"
-date:   2021-12-18 20:17:56 +1100
-categories: jekyll update
----
-Oh it is a test post.
