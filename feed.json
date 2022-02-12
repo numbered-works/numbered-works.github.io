@@ -1,0 +1,32 @@
+---
+layout: null
+---
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Notes",
+  "home_page_url": "{{ site.url }}",
+  "feed_url": "{{ site.url }}/feed.json",
+  "description": {{ site.description | jsonify }},
+  "favicon": "{{ site.url }}/favicon.png",
+  "icon": "{{ site.url }}/favicon.png",
+  "author": {
+      "name": "Numbered Works",
+      "url": "{{ site.url }}"
+  },
+  "expired": false,
+  "items": [
+{% for post in site.posts limit:100 %}
+    {
+      "id": "{{ site.url }}{{ post.url }}",
+      "url": "{{ site.url }}{{ post.url }}",
+      {% if post.type == "long" %}"title": {{ post.title | jsonify }},{% endif %}
+      "content_html": {{ post.content | jsonify }},
+      {% if post.description %}"summary": {{ post.description  | jsonify }},{% endif %}
+      {% if post.tags %}"tags":  [ "{{post.tags | join: '","'}}" ],{% endif %}
+      {% if post.linkURL %}"external_url": "{{ post.linkURL }}",{% endif %}
+      "date_published": "{{ post.date | date_to_xmlschema }}",
+      "date_modified": "{% if post.sitemap.lastmod == null %}{{ post.date | date_to_xmlschema }}{% else %}{{ post.sitemap.lastmod | date_to_xmlschema }}{% endif %}"
+    }{% unless forloop.last == true %},{% endunless %}
+{% endfor %}
+  ]
+}
