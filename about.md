@@ -10,7 +10,7 @@ Based in Awabakal land, Australia.
 
 ## About this Site
 
-[Numbered.works](https://numbered.works/) is generated with [Jekyll](https://jekyllrb.com/) and hosted with [Github](https://github.com/numbered-works/numbered-works.github.io). Written, edited and updated using [Atom](https://atom.io/).
+[Numbered.works](https://numbered.works/) is generated with [Jekyll](https://jekyllrb.com/) and hosted with [Github](https://github.com/). Written, edited and updated using [Atom](https://atom.io/).
 
 Typefaces used:
 * [CMU Typewriter](https://en.wikipedia.org/wiki/Computer_Modern) by [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth)
