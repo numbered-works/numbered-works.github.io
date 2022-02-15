@@ -1,6 +1,6 @@
 <!-- Primary Meta Tags -->
 <title>{% if page.url <> "/" %}{{ page.title }} &mdash; {% endif %}{{ site.title }}</title>
-<meta name="title" content="{{ page.title }}">
+<meta name="title" content="{% if page.url <> "/" %}{{ page.title }} &mdash; {% endif %}{{ site.title }}">
 <meta name="description" content="{{ page.description }}">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta charset="utf-8" />
@@ -12,7 +12,7 @@
 <link rel="alternate" type="application/json" title="{{ site.name }}" href="{{ site.url }}/feed.json" />
 
 <!-- Open Graph / Facebook -->
-<meta property="og:site_name" content="{{ site.name }}"/>
+<meta property="og:site_name" content="{{ site.title }}"/>
 {% if page.title %}
 <meta property="og:title" content="{{ page.title }} &mdash; {{ site.title }}">
 <meta property="og:url" content="{{ site.url }}{{ page.url }}">
