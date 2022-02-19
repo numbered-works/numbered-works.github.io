@@ -73,7 +73,7 @@ The party is on a filthy, muck-encrusted peat barge, captained by [Ervind Oblong
 * Close attention will reveal a faint bubbling sound from the eastern shore.
 * Roll on the [Land Encounters] table.
 * Hidden behind trees on the eastern shore is a floating contraption consisting of a log raft, reed pipes, and a large inflated sack, roughly sewn and sealed with fat. It bubbles and heaves. This is [Guthrie]’s swamp gas harvesting station. The area stinks of farts. Hanging in nets from nearby trees are hollowed out gourds, filled with gas and sealed with wax. A rudimentary bench is covered in rags, wax drippings, charms, and rope.
-* *Stepping stones to: the west ([4. Clearing]) and south-east ([9. Campsite]).*
+* *Stepping stones to: the west ([4. Clearing Zone]) and south-east ([9. Campsite]).*
 
 ### Golems
 
