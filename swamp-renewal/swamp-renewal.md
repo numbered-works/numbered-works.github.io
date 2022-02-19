@@ -15,7 +15,7 @@
 
 Duckweed coats the surface of the water. The air is heavy. There is the relentless thrum of droning, chirping animal and insect sound, punctuated by calls, howls, hoots, and snarls. Trees and shrubbery vibrate with the combined energy of countless tiny creatures. Branches drip with moss, slime, vines, and snakes. Smells of wet earth, rot, swamp gas, and sweat.
 
-### Ervind Oblong, Troll Bargeman {#ervind}
+### Ervind Oblong, Troll Bargeman
 
 * Strong, slow, sly.
 * Does not trust the wizard but believes in his mission.
@@ -23,7 +23,7 @@ Duckweed coats the surface of the water. The air is heavy. There is the relentle
 * Wears a charm under his cloak that grants control of the Stone Golem.
 * Wants to be his own boss.
 
-The party is on a filthy, muck-encrusted peat barge, captained by [Ervind Oblong](#ervind), troll bargeman. They are travelling upriver from the south, approaching a cluster of islands. The barge appears to move under its own power, but is propelled from below by a submerged Stone Golem, slowly walking along the riverbed.
+The party is on a filthy, muck-encrusted peat barge, captained by [Ervind Oblong], troll bargeman. They are travelling upriver from the south, approaching a cluster of islands. The barge appears to move under its own power, but is propelled from below by a submerged Stone Golem, slowly walking along the riverbed.
 
 Grezell Berch, human wizard, has summoned the party to the swamp to protect his peat mine and tower construction site, and to search for saboteurs. Clearing the forest and draining the swamp is proceeding slower than expected.
 
@@ -319,8 +319,7 @@ Traitorous PCs captured by the wizard or his accomplices are transported to 10. 
 
 Numbered Works, No. 5. February 2022. Version 0.9.5. Thank you to swamp explorers Sunny, Blake, Rory, John, Prue, and Anji. “Swamp Renewal” title and spark c/o Loot the Room’s Adventure Title Generator. Visit[ numbered.works][4] for more adventures, oddities, etc.
 
-## Links
-
+[Ervind Oblong]: #ervind-oblong-troll-bargeman-ervind
 [1]: https://coinsandscrolls.blogspot.com/2017/06/osr-tomb-of-serpent-kings-megapost.html
 [2]: https://campaignwiki.org/1pdc/2019/Jesse%20David%20-%20Buried%20Pyramid%20of%20the%20Undergod.pdf
 [3]: https://antigona404.itch.io/the-sunken-temple
