@@ -35,14 +35,14 @@ Grezell Berch, human wizard, has summoned the party to the swamp to protect his 
 * Ground is wet, muddy. Thick cluster of trees to the north.
 * Piles of dried peat sitting on racks made from sticks and peat-blackened rope. The peat is formed into rough balls, about the size of watermelons. Once dry they are transported downriver on the barge.
 * Stacks of new stone and lumber. Nails, bolts, buckets, rope.
-* *Wooden bridges to: the north (3. Peat Mine) and west (2. Wizard’s Tower).*
+* *Wooden bridges to: the north ([3. Peat Mine]) and west ([2. Wizard’s Tower]).*
 
 ### 2. Wizard’s Tower
 
 * Home to Grezell Berch, Human Wizard.
 * Trees to the north and south. A central clearing.
 * Ground level of a stone tower. The upper levels are incomplete, and parts of the structure are magically suspended in the air. An ornate rooftop tiled with dragon scales and shells hovers high above.
-* *Wooden bridges to: the north-east (3. Peat Mine) and east (1. Swamp Port).*
+* *Wooden bridges to: the north-east ([3. Peat Mine]) and east ([1. Swamp Port)].*
 
 ### Grezell Berch, Human Wizard
 
@@ -53,12 +53,12 @@ Grezell Berch, human wizard, has summoned the party to the swamp to protect his 
 * Wants to drain the swamp and extract it’s resources.
 * Claims he wants to establish a school for gifted young wizards.
 * Believes there is a submerged reptilian temple beneath the swamp (true).
-*
+
 ### 3. Peat Mine
 
 * Devoid of plant life.
 * At the northern end of the island, a [Peat Golem] digs fistfuls of peat from the earth. The golem carries the lumps of peat south, across the bridge to 1. Swamp Port, where it stacks them to dry. The golem repeats this sequence until nightfall.
-* *Wooden bridges to: the east (4. Clearing Zone), south (1. Swamp Port), and south-west (2. Wizard’s Tower).*
+* *Wooden bridges to: the east ([4. Clearing Zone]), south ([1. Swamp Port]), and south-west ([2. Wizard’s Tower]).*
 
 
 ### 4. Clearing Zone
@@ -322,7 +322,19 @@ Traitorous PCs captured by the wizard or his accomplices are transported to 10. 
 
 Numbered Works, No. 5. February 2022. Version 1.1. Thank you to swamp explorers Sunny, Blake, Rory, John, Prue, and Anji. “Swamp Renewal” title and spark c/o Loot the Room’s [Adventure Title Generator][4]. Visit[ numbered.works][5] for more adventures, oddities, etc.
 
+[1. Swamp Port]: #1-swamp-port
+[2. Wizard’s Tower]: #2-wizards-tower
+[3. Peat Mine]: #3-peat-mine
+[4. Clearing Zone]: #4-clearing-zone
+[5. Gas Farm]: #5-gas-farm
+[6. Forest]: #6-forest
+[7. Druid’s Hut]: #7-druids-hut
+[8. Shrine]: #8-shrine
+[9. Campsite]: #9-campsite
+[10. Oblong’s Island]: #10-oblongs-island
+
 [Ervind Oblong]: #ervind-oblong-troll-bargeman
+[Grezell Berch]: #grezell-berch-human-wizard
 
 [1]: https://coinsandscrolls.blogspot.com/2017/06/osr-tomb-of-serpent-kings-megapost.html
 [2]: https://campaignwiki.org/1pdc/2019/Jesse%20David%20-%20Buried%20Pyramid%20of%20the%20Undergod.pdf
