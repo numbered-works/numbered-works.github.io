@@ -15,6 +15,12 @@
 
 Duckweed coats the surface of the water. The air is heavy. There is the relentless thrum of droning, chirping animal and insect sound, punctuated by calls, howls, hoots, and snarls. Trees and shrubbery vibrate with the combined energy of countless tiny creatures. Branches drip with moss, slime, vines, and snakes. Smells of wet earth, rot, swamp gas, and sweat.
 
+---
+
+The party is on a filthy, muck-encrusted peat barge, captained by [Ervind Oblong], troll bargeman. They are travelling upriver from the south, approaching a cluster of islands. The barge appears to move under its own power, but is propelled from below by a submerged Stone Golem, slowly walking along the riverbed.
+
+Grezell Berch, human wizard, has summoned the party to the swamp to protect his peat mine and tower construction site, and to search for saboteurs. Clearing the forest and draining the swamp is proceeding slower than expected.
+
 ### Ervind Oblong, Troll Bargeman
 
 * Strong, slow, sly.
@@ -22,10 +28,6 @@ Duckweed coats the surface of the water. The air is heavy. There is the relentle
 * Secretly obsessed with tales of the submerged temple. Collects Swamp Relics, which are hoarded on 10. Oblong’s Island.
 * Wears a charm under his cloak that grants control of the Stone Golem.
 * Wants to be his own boss.
-
-The party is on a filthy, muck-encrusted peat barge, captained by [Ervind Oblong], troll bargeman. They are travelling upriver from the south, approaching a cluster of islands. The barge appears to move under its own power, but is propelled from below by a submerged Stone Golem, slowly walking along the riverbed.
-
-Grezell Berch, human wizard, has summoned the party to the swamp to protect his peat mine and tower construction site, and to search for saboteurs. Clearing the forest and draining the swamp is proceeding slower than expected.
 
 ### 1. Swamp Port
 
@@ -42,26 +44,27 @@ Grezell Berch, human wizard, has summoned the party to the swamp to protect his 
 * Ground level of a stone tower. The upper levels are incomplete, and parts of the structure are magically suspended in the air. An ornate rooftop tiled with dragon scales and shells hovers high above.
 * *Wooden bridges to: the north-east (3. Peat Mine) and east (1. Swamp Port).*
 
-### 3. Peat Mine
-
-* Devoid of plantlife.
-* At the northern end of the island, a Peat Golem digs fistfuls of peat from the earth. The golem carries the lumps of peat south, across the bridge to 1. Swamp Port, where it stacks them to dry. The golem repeats this sequence until nightfall.
-* *Wooden bridges to: the east (4. Clearing Zone), south (1. Swamp Port), and south-west (2. Wizard’s Tower).*
-
 ### Grezell Berch, Human Wizard
 
 * Weak, nimble, clever.
 * Three spell slots.
-* Wears a necklace of four charms (clay, wood, wax, obsidian). The first three charms grant control of golems. The purpose of the fourth charm is unknown.
+* Wears a necklace of four charms (clay, wood, wax, obsidian). The first three charms grant control of [Golems]. The purpose of the fourth charm is unknown.
 * Dressed in a muddy, faded, wizard’s robe and hat.
 * Wants to drain the swamp and extract it’s resources.
 * Claims he wants to establish a school for gifted young wizards.
 * Believes there is a submerged reptilian temple beneath the swamp (true).
+*
+### 3. Peat Mine
+
+* Devoid of plant life.
+* At the northern end of the island, a [Peat Golem] digs fistfuls of peat from the earth. The golem carries the lumps of peat south, across the bridge to 1. Swamp Port, where it stacks them to dry. The golem repeats this sequence until nightfall.
+* *Wooden bridges to: the east (4. Clearing Zone), south (1. Swamp Port), and south-west (2. Wizard’s Tower).*
+
 
 ### 4. Clearing Zone
 
 * Swamp cedar and giant fungi forest to the south. The rest of the island has been cleared.
-* At the south of the island a Swamp Golem pulls an enormous tree out of the ground, carries it to the northern shore, and tosses it into the river. This sequence repeats all day.
+* At the south of the island a [Swamp Golem] pulls an enormous tree out of the ground, carries it to the northern shore, and tosses it into the river. This sequence repeats all day.
 * To the north, a wide, low pile of uprooted trees and scrub spans the river and forms a crude dam. Water still flows through it, but the dam is beginning to have a noticeable effect on the water level in the swamp.
 * *Wooden bridge to: the west (3. Peat Mine). Stepping stones to: the east (5. Gas Farm) and south (6. Forest).*
 
@@ -69,8 +72,8 @@ Grezell Berch, human wizard, has summoned the party to the swamp to protect his 
 
 * Densely forested. Knotted vines, hanging moss. Swamp roses.
 * Close attention will reveal a faint bubbling sound from the eastern shore.
-* Roll on the Land Encounters table.
-* Hidden behind trees on the eastern shore is a floating contraption consisting of a log raft, reed pipes, and a large inflated sack, roughly sewn and sealed with fat. It bubbles and heaves. This is Guthrie’s swamp gas harvesting station. The area stinks of farts. Hanging in nets from nearby trees are hollowed out gourds, filled with gas and sealed with wax. A rudimentary bench is covered in rags, wax drippings, charms, and rope.
+* Roll on the [Land Encounters] table.
+* Hidden behind trees on the eastern shore is a floating contraption consisting of a log raft, reed pipes, and a large inflated sack, roughly sewn and sealed with fat. It bubbles and heaves. This is [Guthrie]’s swamp gas harvesting station. The area stinks of farts. Hanging in nets from nearby trees are hollowed out gourds, filled with gas and sealed with wax. A rudimentary bench is covered in rags, wax drippings, charms, and rope.
 * *Stepping stones to: the west (4. Clearing) and south-east (9. Campsite).*
 
 ### Golems
@@ -86,21 +89,21 @@ Grezell Berch, human wizard, has summoned the party to the swamp to protect his 
 
 * Frail, slow, smart.
 * Lifelong swamp resident.
-* Knows the secret of controlling Golems with charms.
+* Knows the secret of controlling [Golems] with charms.
 * Nonviolent, but at night she plants magic cedar seeds (a full size tree grows in seconds) and spore bombs (giant fungi instantly sprouts) to slow the clearing of the forest.
 * Wants to protect the swamp.
-* Seeks a rare healing herb she has spotted growing on the shoulder of the Peat Golem. May offer information, Enchanted Seeds and Spores, or Potions (see random tables) in return.
+* Seeks a rare healing herb she has spotted growing on the shoulder of the [Peat Golem]. May offer information, Enchanted Seeds and Spores, or Potions (see random tables) in return.
 
 ### 6. Forest
 
 * Deep green and shaded. Cedar, ferns, fungi. Mist.
-* Roll on the Land Encounters table.
+* Roll on the [Land Encounters] table.
 * The bridges here are very old and made from stone.
 * *Stone bridges to: the east (7. Druid’s Hut) and south (8. Shrine). Stepping stones to: the north (4. Clearing Zone).*
 
 ### 7. Druid’s hut
 
-* Home to Verna, lizardfolk druid.
+* Home to [Verna, lizardfolk druid].
 * Small mud hut, domed in shape. Surrounded by pots, seedlings, tools, charms. A chimney at the back spilling herbaceous smoke.
 * Inside: candles, jars and pots full of seeds, leaves, powders, and pastes. Bunches of plants hang to dry from the ceiling.
 * Everything is brown, orange and green. The smell is a combination of damp leaves and cinnamon.
@@ -111,40 +114,40 @@ Grezell Berch, human wizard, has summoned the party to the swamp to protect his 
 * Strong, nimble, alert.
 * Seasonal swamp resident.
 * Weathered, wary. A missing finger. A chunk out of an ear.
-* Hates Grezell, his Golems, and his whole operation.
-* Trusts Verna.
+* Hates [Grezell Berch], his [Golems], and his whole operation.
+* Trusts [Verna].
 * Bow and arrows, slingshot, small knife, sack, flint.
 * Is harvesting swamp gas (5. Gas Farm) and storing it in gourds. Gas-filled gourds make for excellent explosives.
 * Seeks wick material for swamp gas bombs, accomplices.
 
 ### 8. Shrine
 
-* Roll on the Land Encounters table.
-* Below a Great Tree sits the shrine. It is ancient, of nonhuman origin. A shallow pool of clear water with a stone arch and platform above. Surrounded by fresh offerings of fruit, eggs, charms, and flowers.
+* Roll on the [Land Encounters] table.
+* Below a Great Tree sits the shrine. It is ancient, of non-human origin. A shallow pool of clear water with a stone arch and platform above. Surrounded by fresh offerings of fruit, eggs, charms, and flowers.
 * Drinking the water (it tastes sweet) will restore one lost health point once a day and/or put you in a very good mood.
 * On the platform sits a lizardfolk clay idol. If stolen, the water in the shrine turns bad, undrinkable. If smashed, a toxic mould is released that causes rapid fungification. If the idol is gently placed in the shrine pool, it dissolves and reveals an obsidian ring. The ring turns the wearer to stone until it is removed.
 * *Stepping stones to: the east (9. Campsite), stone bridge to: the north (6. Forest).*
 
 ### 9. Campsite
 
-* Home to Guthrie, elf wanderer.
+* Home to [Guthrie], elf wanderer.
 * Threadbare tent in a clearing. Bedroll. A pair of stilts. Fishing rod. Net.
 * Catfish is cooking over a campfire. Three gourds in the process of being hollowed out.
 * A rowboat is moored nearby.
-* Stepping stones to: the west (8. Shrine) and north-east (5. Gas Farm).
+* *Stepping stones to: the west (8. Shrine) and north-east (5. Gas Farm).*
 
 ### 10. Oblong’s Island
 
 * Island is low, muddy, sporadically underwater.
 * Ramshackle home on high stilts.
 * A rowboat.
-* Home contains hoarded lizardfolk relics. Roll on the Swamp Relics table a few times.
+* Home contains hoarded lizardfolk relics. Roll on the [Swamp Relics] table a few times.
 
 ## Random Tables
 
 ### Land Encounters
 
-1. Quicksand. If searched, a Swamp Relic is discovered.
+1. Quicksand. If searched, a [Swamp Relic] is discovered.
 2. Giant carnivorous plants. One is attempting to eat a swamp goblin.
 3. A huge, lonely, shaggy swamp beast. Very smelly and sad.
 4. A snake with a human hand for a head. Eyes on fingertips.
@@ -153,7 +156,7 @@ Grezell Berch, human wizard, has summoned the party to the swamp to protect his 
 7. A net trap, covered in leaves, set by Guthrie. A gourd alarm knocks if the trap is triggered.
 8. Two trolls arguing over three catfish and a crab.
 9. Three giant butterflies. The patterns on their wings slowly shift. Feeding on enormous flowers. If anybody has sweet food they will eat it from your hand.
-10. An ogre relieving himself behind a tree. He is startled, defensive. Works for Grezell but won’t reveal it.
+10. An ogre relieving himself behind a tree. He is startled, defensive. Works for [Grezell Berch] but won’t reveal it.
 11. A steaming, enchanted pool. Anyone who lingers must be dragged away or will begin to melt like wax. A golden arrow rests at the bottom.
 12. A flat stone in a patch of sunlight, one metre in diameter, inscribed with a spiral. Curling up and sleeping on the stone for one hour restores health.
 
@@ -169,7 +172,7 @@ Grezell Berch, human wizard, has summoned the party to the swamp to protect his 
 8. Will o’ the wisp.
 9. A carpet of eels.
 10. Two tiny goblins on a raft, trying to catch dragonflies.
-11. Roll on Swamp Relics table.
+11. Roll on [Swamp Relics] table.
 12. Seven lost ducklings. You are now their adoptive parent.
 
 ### Grezell’s Possessions
@@ -180,7 +183,7 @@ Kept inside his one-storey tower.
 3. An ancient, locked spellbook.
 4. A doll-sized wax golem under a bell-jar.
 5. A grubby stone goblet.
-6. A lock of Ervind’s hair.
+6. A lock of [Ervind Oblong]’s hair.
 7. A clay model of a tower. Removing the gem embedded within causes the hovering elements of Grezell’s tower to fall to earth. 8. A spyglass granting dark vision.
 9. Goblin skull, arrow-pierced.
 10. An owlet in a cage of reeds.
@@ -277,7 +280,7 @@ They’re full of them.
 7. Giant swamp fungus.
 8. Big belly melon.
 9. Snails.
-10. Roll on Swamp Relics table.
+10. Roll on [Swamp Relics] table.
 11. Soft fern.
 12. Brown orchid (mango flavour).
 
@@ -291,7 +294,7 @@ They’re full of them.
 6. Orange mud crab.
 7. Turtle.
 8. Patterned frog.
-9. Roll on Swamp Relics table.
+9. Roll on [Swamp Relics] table.
 10. Crayfish.
 11. Sour algae.
 12. Milky fish eggs.
@@ -317,10 +320,12 @@ Traitorous PCs captured by the wizard or his accomplices are transported to 10. 
 
 ---
 
-Numbered Works, No. 5. February 2022. Version 0.9.5. Thank you to swamp explorers Sunny, Blake, Rory, John, Prue, and Anji. “Swamp Renewal” title and spark c/o Loot the Room’s Adventure Title Generator. Visit[ numbered.works][4] for more adventures, oddities, etc.
+Numbered Works, No. 5. February 2022. Version 1.1. Thank you to swamp explorers Sunny, Blake, Rory, John, Prue, and Anji. “Swamp Renewal” title and spark c/o Loot the Room’s [Adventure Title Generator][4]. Visit[ numbered.works][5] for more adventures, oddities, etc.
 
 [Ervind Oblong]: #ervind-oblong-troll-bargeman-ervind
+
 [1]: https://coinsandscrolls.blogspot.com/2017/06/osr-tomb-of-serpent-kings-megapost.html
 [2]: https://campaignwiki.org/1pdc/2019/Jesse%20David%20-%20Buried%20Pyramid%20of%20the%20Undergod.pdf
 [3]: https://antigona404.itch.io/the-sunken-temple
-[4]: https://numbered.works
+[4]: https://loottheroom.uk/random-adventure-title-generator
+[5]: https://numbered.works
