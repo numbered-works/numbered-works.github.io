@@ -322,7 +322,7 @@ Traitorous PCs captured by the wizard or his accomplices are transported to 10. 
 
 Numbered Works, No. 5. February 2022. Version 1.1. Thank you to swamp explorers Sunny, Blake, Rory, John, Prue, and Anji. “Swamp Renewal” title and spark c/o Loot the Room’s [Adventure Title Generator][4]. Visit[ numbered.works][5] for more adventures, oddities, etc.
 
-[Ervind Oblong]: #ervind-oblong-troll-bargeman-ervind
+[Ervind Oblong]: #ervind-oblong-troll-bargeman
 
 [1]: https://coinsandscrolls.blogspot.com/2017/06/osr-tomb-of-serpent-kings-megapost.html
 [2]: https://campaignwiki.org/1pdc/2019/Jesse%20David%20-%20Buried%20Pyramid%20of%20the%20Undergod.pdf
