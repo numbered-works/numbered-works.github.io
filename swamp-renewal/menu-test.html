@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <style>
+    body {
+  font-family: 'Arial';
+}
+
+a {
+  text-decoration: none;
+}
+
+header {
+  background: green;
+  padding: 1em;
+  color: #fff;
+
+  a {
+    color: #fff;
+  }
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 1.5em;
+  margin-bottom: 1em;
+}
+
+button {
+  position: absolute;
+  right: 1em;
+  top: 0.8em;
+  padding: 8px;
+  border: 2px solid #fff;
+  border-radius: 5px;
+  font-size: 1em;
+  background: transparent;
+  color: #fff;
+  display: none;
+
+  &:focus,
+  &:hover {
+    background: #fff;
+    color: #000;
+  }
+}
+
+nav {
+  border-top: 1px solid transparentize(#fff, 0.4);
+  padding: 1em 1em 0;
+
+  li {
+    margin-bottom: 1em;
+  }
+
+  a {
+    display: block;
+  }
+}
+
+.js ul {
+  display: none;
+}
+
+.js button {
+  display: block;
+}
+
+ul.is-active {
+  display: block;
+}
+
+@media (min-width: 700px) {
+  .js ul {
+    display: block;
+  }
+
+  .js button {
+    display: none;
+  }
+
+  button {
+    display: none;
+  }
+
+  nav {
+    padding-left: 0;
+
+    li {
+      display: inline-block;
+      margin-right: 1em;
+    }
+  }
+}
+</style>
+</head>
+
+<body>
+
+
+<header>
+<h1>
+  <a href="#">Swamp Renewal</a>
+</h1>
+
+<nav role="navigation">
+  <button id="toggle" aria-expanded="false">Menu</button>
+  <ul id="menu">
+    <li><a href="#">Home</a></li>
+    <li><a href="#">About</a></li>
+    <li><a href="#">Contact</a></li>
+    <li><a href="#">Works</a></li>
+    <li><a href="#">FAQ</a></li>
+  </ul>
+</nav>
+</header>
+
+
+<h2 id="notes">Notes</h2>
+<p>Damming and draining the swamp will take the wizard and his golems five days if their efforts go undisturbed. The entrance to a submerged reptilian temple, cased in obsidian, is revealed at the centre of the drained swamp. We’ll write that temple one day soon, but there are many existing dungeons and adventures that could fit the bill. Here’s a few free ones:</p>
+<p><a href="https://coinsandscrolls.blogspot.com/2017/06/osr-tomb-of-serpent-kings-megapost.html">Tomb of the Serpent Kings</a><br>by Skerples</p>
+<p><a href="https://campaignwiki.org/1pdc/2019/Jesse%20David%20-%20Buried%20Pyramid%20of%20the%20Undergod.pdf">Buried Pyramid of the Undergod</a><br>by JD Thornton</p>
+<p><a href="https://antigona404.itch.io/the-sunken-temple">The Sunken Temple of the Amphibian God</a><br>by Antígona404</p>
+<p>A drained swamp is also likely to reveal sunken vessels, statues, lost relics, treasure, the bones of swamp beasts, and hundreds of dead fish and water creatures. If the party hands Verna and/or Guthrie over to Grezell Berch, they are paid handsomely in gold coin.</p>
+<p>If the mining is halted and the swamp forest is restored, a Great Tree sprouts upon the site of the former peat mine. The glow and hum of life within the swamp is vibrant, overwhelming, almost unbearable. Grezell’s tower may be looted. Verna encourages the party to stay in the swamp. Guthrie continues on their path.</p>
+<p>Traitorous PCs captured by the wizard or his accomplices are transported to <a href="#10-oblongs-island">10. Oblong’s Island</a> and tied or chained to the stilts of the house. A bad place to be if the dam is breached and the water rises.</p>
+
+
+
+<script>
+  var toggle = document.querySelector('#toggle');
+var menu = document.querySelector('#menu');
+var menuItems = document.querySelectorAll('#menu li a');
+
+toggle.addEventListener('click', function(){
+  if (menu.classList.contains('is-active')) {
+    this.setAttribute('aria-expanded', 'false');
+    menu.classList.remove('is-active');
+  } else {
+    menu.classList.add('is-active');
+    this.setAttribute('aria-expanded', 'true');
+    //menuItems[0].focus();
+  }
+});
+</script>
+</body>
+</html>
