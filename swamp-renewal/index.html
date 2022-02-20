@@ -66,22 +66,19 @@ figcaption { color:#999; }
 .campsite { left: 63.05%; top: 66.8%; width: 19.76%; height: 12.77%;  }
 .oblongs { left: 18.12%; top: 79.74%; width: 11.06%; height: 14.91%; }
 
-section { border: 2px solid #ae926e; padding: 7px 14px; }
-section h3 { margin: 0}
-section ul { padding-left: 0;list-style-type: none; margin:0;}
-section ul li { border-bottom: 2px solid #ae926e; padding: 7px 0; list-style-position: inside; }
-section ul li:last-child { border-bottom: none; padding-bottom:0; }
-
-.profile {width: 100%; padding:14px; border: 2px solid #ae926e; display: flex;}
+.npc {width: 100%; padding:14px; border: 2px solid #ae926e; display: flex;}
 .portrait {flex: 0 0 220px; }
 .portrait img {margin:0}
-.bio {flex: 1; }
-.bio h4 {margin-top:0}
+.details {flex: 1; }
+.details h3 { margin: 0}
+.details ul { padding-left: 0;list-style-type: none; margin:0;}
+.details ul li { border-bottom: 2px solid #ae926e; padding: 7px 0; list-style-position: inside; }
+.details ul li:last-child { border-bottom: none; padding-bottom:0; }
 
 @media screen and (max-width: 500px) {
-  .profile {flex-direction: column;}
-  .profile h4 {text-align: center;}
+  .npc {flex-direction: column;}
   .portrait {margin-bottom:14px; text-align: center;}
+  .details h3 {text-align: center;}
 
 }
 
@@ -179,7 +176,7 @@ article { margin-left: 240px; padding: 1px 16px; max-width: 800px; height: 1000p
     <a href="#9-campsite" title="9. Campsite" class="campsite"></a>
     <a href="#10-oblongs-island" title="10. Oblong's Island" class="oblongs"></a>
   <img src="images/swamp-map-web.jpg" Alt="A map of the Forgotten Quag.">
-</div>
+  </div>
   <p>The party is on a filthy, muck-encrusted peat barge, captained by <a href="#ervind-oblong-troll-bargeman">Ervind Oblong</a>, troll bargeman. They are travelling upriver from the south, approaching a cluster of islands. The barge appears to move under its own power, but is propelled from below by a submerged <a href="#golems">Stone Golem</a>, slowly walking along the riverbed.</p>
   <p><a href="#grezell-berch-human-wizard">Grezell Berch</a>, human wizard, has summoned the party to the swamp to protect his peat mine and tower construction site, and to search for saboteurs. Clearing the forest and draining the swamp is proceeding slower than expected.</p>
 
@@ -203,13 +200,13 @@ article { margin-left: 240px; padding: 1px 16px; max-width: 800px; height: 1000p
   <li><em>Wooden bridges to: the north (<a href="#3-peat-mine">3. Peat Mine</a>) and west (<a href="#2-wizards-tower">2. Wizard’s Tower</a>).</em></li>
   </ul>
 
-  <div class="profile">
-    <div class="portrait">
-      <svg height="200" width="200">
-        <circle cx="100" cy="100" r="99" fill="#fff" stroke="#ae926e" stroke-width="2" />
-      </svg>
-    </div>
-    <div class="bio">
+  <div class="npc">
+  <div class="portrait">
+    <svg height="200" width="200">
+    <circle cx="100" cy="100" r="99" fill="#fff" stroke="#ae926e" stroke-width="2" />
+    </svg>
+  </div>
+  <div class="details">
     <h3 id="ervind-oblong-troll-bargeman">Ervind Oblong, Troll Bargeman</h3>
     <ul>
     <li>Strong, slow, sly.</li>
@@ -218,8 +215,8 @@ article { margin-left: 240px; padding: 1px 16px; max-width: 800px; height: 1000p
     <li>Wears a charm under his cloak that grants control of the <a href="#golems">Stone Golem</a>.</li>
     <li>Wants to be his own boss.</li>
     </ul>
-    </div>
-    <div class="clear"></div>
+  </div>
+  <div class="clear"></div>
   </div>
 
   <h3 id="2-wizards-tower">2. Wizard’s Tower</h3>
