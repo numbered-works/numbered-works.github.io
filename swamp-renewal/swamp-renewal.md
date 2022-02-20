@@ -302,13 +302,13 @@ They’re full of them.
 
 Damming and draining the swamp will take the wizard and his golems five days if their efforts go undisturbed. The entrance to a submerged reptilian temple, cased in obsidian, is revealed at the centre of the drained swamp. We’ll write that temple one day soon, but there are many existing dungeons and adventures that could fit the bill. Here’s a few free ones:
 
-[Tomb of the Serpent Kings][1]
+[Tomb of the Serpent Kings]
 by Skerples
 
-[Buried Pyramid of the Undergod][2]
+[Buried Pyramid of the Undergod]
 by JD Thornton
 
-[The Sunken Temple of the Amphibian God][3]
+[The Sunken Temple of the Amphibian God]
 by Antígona404
 
 A drained swamp is also likely to reveal sunken vessels, statues, lost relics, treasure, the bones of swamp beasts, and hundreds of dead fish and water creatures. If the party hands Verna and/or Guthrie over to Grezell Berch, they are paid handsomely in gold coin.
@@ -319,7 +319,7 @@ Traitorous PCs captured by the wizard or his accomplices are transported to [10.
 
 ---
 
-Numbered Works, No. 5. February 2022. Version 1.1. Thank you to swamp explorers Sunny, Blake, Rory, John, Prue, and Anji. “Swamp Renewal” title and spark c/o Loot the Room’s [Adventure Title Generator][4]. Visit[ numbered.works][5] for more adventures, oddities, etc.
+Numbered Works, No. 5. February 2022. Version 1.1. Thank you to swamp explorers Sunny, Blake, Rory, John, Prue, and Anji. “Swamp Renewal” title and spark c/o Loot the Room’s [Adventure Title Generator]. Visit [numbered.works] for more adventures, oddities, etc.
 
 
 
@@ -351,8 +351,8 @@ Numbered Works, No. 5. February 2022. Version 1.1. Thank you to swamp explorers 
 [Enchanted Seeds and Spores]: #enchanted-seeds-and-spores
 [Potions]: #vernas-potions
 
-[1]: https://coinsandscrolls.blogspot.com/2017/06/osr-tomb-of-serpent-kings-megapost.html
-[2]: https://campaignwiki.org/1pdc/2019/Jesse%20David%20-%20Buried%20Pyramid%20of%20the%20Undergod.pdf
-[3]: https://antigona404.itch.io/the-sunken-temple
-[4]: https://loottheroom.uk/random-adventure-title-generator
-[5]: https://numbered.works
+[Tomb of the Serpent Kings]: https://coinsandscrolls.blogspot.com/2017/06/osr-tomb-of-serpent-kings-megapost.html
+[Buried Pyramid of the Undergod]: https://campaignwiki.org/1pdc/2019/Jesse%20David%20-%20Buried%20Pyramid%20of%20the%20Undergod.pdf
+[The Sunken Temple of the Amphibian God]: https://antigona404.itch.io/the-sunken-temple
+[Adventure Title Generator]: https://loottheroom.uk/random-adventure-title-generator
+[numbered.works]: https://numbered.works
