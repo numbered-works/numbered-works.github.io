@@ -50,7 +50,7 @@ The party is on a filthy, muck-encrusted peat barge, captained by [Ervind Oblong
 * Three spell slots.
 * Wears a necklace of four charms (clay, wood, wax, obsidian). The first three charms grant control of [Golems]. The purpose of the fourth charm is unknown.
 * Dressed in a muddy, faded, wizard’s robe and hat.
-* Wants to drain the swamp and extract it’s resources.
+* Wants to drain the swamp and extract its resources.
 * Claims he wants to establish a school for gifted young wizards.
 * Believes there is a submerged reptilian temple beneath the swamp (true).
 
@@ -60,6 +60,15 @@ The party is on a filthy, muck-encrusted peat barge, captained by [Ervind Oblong
 * At the northern end of the island, a [Peat Golem] digs fistfuls of peat from the earth. The golem carries the lumps of peat south, across the bridge to [1. Swamp Port], where it stacks them to dry. The golem repeats this sequence until nightfall.
 * *Wooden bridges to: the east ([4. Clearing Zone]), south ([1. Swamp Port]), and south-west ([2. Wizard’s Tower]).*
 
+### Golems
+
+* Very strong, very slow, very stupid. 12 feet tall.
+* Controlled by whoever possesses the appropriate charm.
+* Focused entirely on their appointed tasks. Obstacles will be picked up and tossed into the water. If threatened, will inflict damage by swatting, throwing and stomping.
+* *Peat Golem:* Plants sprout from head and shoulders. Worms and grubs burrow into the body, birds feed on them. Highly flammable. Will cross bridges but will not use stepping stones or enter the water.
+* *Swamp Golem:* Built from trees, vines, old bones and moss, slime. Odd, percussive sounds when moving: sticks snap, logs creak, bones knock and rattle, slime squelches.
+* *Stone Golem:* will not emerge from beneath the barge unless summoned.
+* 
 ### 4. Clearing Zone
 
 * Swamp cedar and giant fungi forest to the south. The rest of the island has been cleared.
@@ -74,15 +83,6 @@ The party is on a filthy, muck-encrusted peat barge, captained by [Ervind Oblong
 * Roll on the [Land Encounters] table.
 * Hidden behind trees on the eastern shore is a floating contraption consisting of a log raft, reed pipes, and a large inflated sack, roughly sewn and sealed with fat. It bubbles and heaves. This is [Guthrie]’s swamp gas harvesting station. The area stinks of farts. Hanging in nets from nearby trees are hollowed out gourds, filled with gas and sealed with wax. A rudimentary bench is covered in rags, wax drippings, charms, and rope.
 * *Stepping stones to: the west ([4. Clearing Zone]) and south-east ([9. Campsite]).*
-
-### Golems
-
-* Very strong, very slow, very stupid. 12 feet tall.
-* Controlled by whoever possesses the appropriate charm.
-* Focused entirely on their appointed tasks. Obstacles will be picked up and tossed into the water. If threatened, will inflict damage by swatting, throwing and stomping.
-* *Peat Golem:* Plants sprout from head and shoulders. Worms and grubs burrow into the body, birds feed on them. Highly flammable. Will cross bridges but will not use stepping stones or enter the water.
-* *Swamp Golem:* Built from trees, vines, old bones and moss, slime. Odd, percussive sounds when moving: sticks snap, logs creak, bones knock and rattle, slime squelches.
-* *Stone Golem:* will not emerge from beneath the barge unless summoned.
 
 ### 6. Forest
 
