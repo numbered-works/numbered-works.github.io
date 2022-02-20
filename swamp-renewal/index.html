@@ -72,6 +72,19 @@ section ul { padding-left: 0;list-style-type: none; margin:0;}
 section ul li { border-bottom: 2px solid #ae926e; padding: 7px 0; list-style-position: inside; }
 section ul li:last-child { border-bottom: none; padding-bottom:0; }
 
+.profile {width: 100%; padding:14px; border: 2px solid #ae926e; display: flex;}
+.portrait {flex: 0 0 220px; }
+.portrait img {margin:0}
+.bio {flex: 1; }
+.bio h4 {margin-top:0}
+
+@media screen and (max-width: 500px) {
+  .profile {flex-direction: column;}
+  .profile h4 {text-align: center;}
+  .portrait {margin-bottom:14px; text-align: center;}
+
+}
+
 nav ul { list-style-type: none; padding: 0; border-top: 2px solid black; }
 
 footer { border-top: 2px solid black; padding: 7px 0 28px 0; }
@@ -189,6 +202,18 @@ article { margin-left: 240px; padding: 1px 16px; max-width: 800px; height: 1000p
   <li>Stacks of new stone and lumber. Nails, bolts, buckets, rope.</li>
   <li><em>Wooden bridges to: the north (<a href="#3-peat-mine">3. Peat Mine</a>) and west (<a href="#2-wizards-tower">2. Wizard’s Tower</a>).</em></li>
   </ul>
+
+  <div class="profile">
+    <div class="portrait">
+      <svg height="200" width="200">
+        <circle cx="100" cy="100" r="100" fill="#ddd" />
+      </svg>
+    </div>
+    <div class="bio">
+    <h4>Tim Townsend</h4>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id felis et ipsum bibendum ultrices. Morbi vitae pulvinar velit. Sed aliquam dictum sapien, id sagittis augue malesuada.</p>
+    </div>
+    <div class="clear"></div>
 
   <h3 id="2-wizards-tower">2. Wizard’s Tower</h3>
   <ul>
