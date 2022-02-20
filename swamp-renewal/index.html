@@ -33,7 +33,7 @@ body { margin: 0; }
 
 html { font: 21px/28px 'Computer Modern Typewriter', Courier, "Courier New", monospace; }
 
-h1 { font: bold 60px 'alte_haas_grotesk', sans-serif; color: #ff665e; text-transform: uppercase; margin-top:17px; }
+h1 { font: bold 72px 'alte_haas_grotesk', sans-serif; color: #ff665e; text-transform: uppercase; margin-top:17px; }
 h2 { font: bold 36px 'alte_haas_grotesk', sans-serif; }
 h3 { font: bold 24px 'alte_haas_grotesk', sans-serif; }
 
@@ -50,27 +50,21 @@ figcaption { color:#999; }
 
 ::selection { background: #F7DC6F; }
 
-.key { position: relative; width: 100%; margin: 0 auto; }
-.key img { max-width: 100%; height: auto; display: block; }
-.key a { position: absolute; height: 6%; width: 4%; background-color: rgba(0, 0, 0, 0); border-radius: 50%; border-bottom:0; display: flex; justify-content: center; align-items: center; color: #fff; text-decoration: none; }
-.key a:hover { border-bottom:0; background: transparent; }
+.map { position: relative; width: 100%; margin: 0 auto; }
+.map img { max-width: 100%; height: auto; display: block; }
+.map a { position: absolute; z-index: 2; }
+.map a:hover { border-bottom:0; background: transparent; }
 
-.capstone { left: 1.2%; top: 58.03%; }
-.shedtop { left: 45.77%; top: 14.86%; }
-.shedlower { left: 47.54%; top: 32.13%; }
-.skyway { left: 59.44%; top: 40.2%; }
-.pillbox { left: 39.3%; top: 63.42%; }
-.block { left: 66.42%; top: 63.14%; }
-.buggy { left: 72.25%; top: 73.91%; }
-.upperlab { left: 73.23%; top: 3.34%; }
-
-.entrance { left: 57.07%; top: 22.93%; }
-.pipe { left: 63.68%; top: 31.85%; }
-.lowroad { left: 67.13%; top: 78.28%; }
-.cloudroom { left: 17.01%; top: 64.75%; }
-.kitchen { left: 34.6%; top: 65.96%; }
-.breakroom { left: 60.57%; top: 61.59%; }
-.pantry { left: 84.83%; top: 64.99%; }
+.port { left: 33.31%; top: 39.69%; width: 18.15%; height: 23%;  }
+.tower { left: 12.8%; top: 36.95%; width: 17.19%; height: 32.74%; }
+.mine { left: 24.5%; top: 10.98%; width: 24.32%; height: 24.82%; }
+.clearing { left: 51.89%; top: 11.73%; width: 15.62%; height: 30.53%; }
+.gasfarm {left: 68.05%; top: 19.44%; width: 16.76%; height: 27.5%; }
+.forest { left: 53.21%; top: 42.69%; width: 13.98%; height: 24.04%; }
+.hut { left: 70.68%; top: 49.04%; width: 10.49%; height: 11.63%;  }
+.shrine {left: 47.18%; top: 66.83%; width: 14.62%; height: 16.44%; }
+.campsite { left: 63.05%; top: 66.8%; width: 19.76%; height: 12.77%;  }
+.oblongs { left: 18.12%; top: 79.74%; width: 11.06%; height: 14.91%; }
 
 section ul { padding-left: 0; }
 section ul li { border-bottom: 2px solid black; padding: 7px 0; list-style-position: inside; }
@@ -158,8 +152,19 @@ article { margin-left: 240px; padding: 1px 16px; max-width: 800px; height: 1000p
   <h2 id="welcome-to-the-forgotten-quag">Welcome to the Forgotten Quag</h2>
   <p><em>Duckweed coats the surface of the water. The air is heavy. There is the relentless thrum of droning, chirping animal and insect sound, punctuated by calls, howls, hoots, and snarls. Trees and shrubbery vibrate with the combined energy of countless tiny creatures. Branches drip with moss, slime, vines, and snakes. Smells of wet earth, rot, swamp gas, and sweat.</em></p>
 
+  <div class="map">
+    <a href="#1-swamp-port" title="1. Swamp Port" class="port"></a>
+    <a href="#2-wizards-tower" title="2. Wizard's Tower" class="tower"></a>
+    <a href="#3-peat-mine" title="3. Peat Mine" class="mine"></a>
+    <a href="#4-clearing-zone" title="4. Clearing Zone" class="clearing"></a>
+    <a href="#5-gas-farm" title="5. Gas Farm" class="gasfarm"></a>
+    <a href="#6-forest" title="6. Forest" class="forest"></a>
+    <a href="#7-druids-hut" title="7. Druid's Hut" class="hut"></a>
+    <a href="#8-shrine" title="8. Shrine" class="shrine"></a>
+    <a href="#9-campsite" title="9. Campsite" class="campsite"></a>
+    <a href="#10-oblongs-island" title="10. Oblong's Island" class="oblongs"></a>
   <img src="images/swamp-map-web.jpg" Alt="A map of the Forgotten Quag.">
-
+</div>
   <p>The party is on a filthy, muck-encrusted peat barge, captained by <a href="#ervind-oblong-troll-bargeman">Ervind Oblong</a>, troll bargeman. They are travelling upriver from the south, approaching a cluster of islands. The barge appears to move under its own power, but is propelled from below by a submerged <a href="#golems">Stone Golem</a>, slowly walking along the riverbed.</p>
   <p><a href="#grezell-berch-human-wizard">Grezell Berch</a>, human wizard, has summoned the party to the swamp to protect his peat mine and tower construction site, and to search for saboteurs. Clearing the forest and draining the swamp is proceeding slower than expected.</p>
 
