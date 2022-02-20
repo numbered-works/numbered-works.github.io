@@ -25,8 +25,8 @@ The party is on a filthy, muck-encrusted peat barge, captained by [Ervind Oblong
 
 * Strong, slow, sly.
 * Does not trust the wizard but believes in his mission.
-* Secretly obsessed with tales of the submerged temple. Collects Swamp Relics, which are hoarded on [10. Oblong’s Island].
-* Wears a charm under his cloak that grants control of the Stone Golem.
+* Secretly obsessed with tales of the submerged temple. Collects [Swamp Relics], which are hoarded on [10. Oblong’s Island].
+* Wears a charm under his cloak that grants control of the [Stone Golem].
 * Wants to be his own boss.
 
 ### 1. Swamp Port
