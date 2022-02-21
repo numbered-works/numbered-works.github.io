@@ -52,10 +52,10 @@ hr { border-top: 2px solid #ae926e; }
 
 ::selection { background: #F7DC6F; }
 
-.map { position: relative; width: 100%; margin: 0 auto; }
-.map img { max-width: 100%; height: auto; display: block; }
-.map a { position: absolute; z-index: 2; }
-.map a:hover { border-bottom:0; background: transparent; }
+#map { position: relative; width: 100%; margin: 0 auto; }
+#map img { max-width: 100%; height: auto; display: block; }
+#map a { position: absolute; z-index: 2; }
+#map a:hover { border-bottom:0; background: transparent; }
 
 .port { left: 33.31%; top: 39.69%; width: 18.15%; height: 23%;  }
 .tower { left: 12.8%; top: 36.95%; width: 17.19%; height: 32.74%; }
@@ -137,6 +137,7 @@ article { margin-left: 240px; padding: 1px 16px; max-width: 800px; height: 1000p
   <nav>
     <ul>
       <li><a href="#top" class="top">SWAMP RENEWAL</a></li>
+      <li><a href="#map">Map</a></li>
       <li><a href="#1-swamp-port">1. Swamp Port</a></li>
       <li><a href="#ervind-oblong-troll-bargeman">Ervind Oblong</a></li>
       <li><a href="#2-wizards-tower">2. Wizard’s Tower</a></li>
@@ -167,7 +168,7 @@ article { margin-left: 240px; padding: 1px 16px; max-width: 800px; height: 1000p
   <h2 id="welcome-to-the-forgotten-quag">Welcome to the Forgotten Quag</h2>
   <p><em>Duckweed coats the surface of the water. The air is heavy. There is the relentless thrum of droning, chirping animal and insect sound, punctuated by calls, howls, hoots, and snarls. Trees and shrubbery vibrate with the combined energy of countless tiny creatures. Branches drip with moss, slime, vines, and snakes. Smells of wet earth, rot, swamp gas, and sweat.</em></p>
 
-  <div class="map">
+  <div id="map">
     <a href="#1-swamp-port" title="1. Swamp Port" class="port"></a>
     <a href="#2-wizards-tower" title="2. Wizard's Tower" class="tower"></a>
     <a href="#3-peat-mine" title="3. Peat Mine" class="mine"></a>
