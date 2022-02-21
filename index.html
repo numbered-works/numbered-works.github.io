@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<head>
+
+{%- include head.html -%}
+
+<link href="https://numbered.works/assets/fonts/altehaasgrotesk/altehaasgrotesk.css" rel="stylesheet">
+<style>
+
+/* Reset */
+
+html { box-sizing: border-box; scroll-behavior: smooth; }
+
+*, *:before, *:after { box-sizing: inherit; }
+
+/* Basics */
+
+.clear { clear: both; }
+
+body { margin: 0; }
+
+html { font: 21px/28px 'alte_haas_grotesk', helvetica, sans-serif; color: black; }
+
+h1 { font: bold 48px 'alte_haas_grotesk', sans-serif; text-transform: uppercase;  margin-top:70px; }
+h2 { font: bold 36px 'alte_haas_grotesk', sans-serif; }
+h3 { font: bold 24px 'alte_haas_grotesk', sans-serif; }
+
+strong { font-weight: bold; }
+
+article a { border-bottom: 2px solid black; text-decoration: none; color: black; }
+article a:hover { border-bottom: 2px solid #af8dc0; background:#af8dc0; }
+
+article h2 a { border-bottom: 0; text-decoration: none; color: black; }
+article h2 a:hover { border-bottom: 0; background:transparent; color:#af8dc0; }
+article h2 a:hover span.key{ color: #fff; background-color: #af8dc0; }
+
+img { max-width: 100%; }
+img.spot { max-width: 50%; }
+
+figure { margin:0; padding: 0; width: 100%; }
+figcaption { color:#999; }
+
+::selection { background: #F7DC6F; }
+
+ol { padding-left: 0; }
+ol li { border-bottom: 2px solid black; padding: 7px 0; list-style-position: inside; }
+ol li:last-child { border-bottom: none }
+
+nav ul { list-style-type: none; padding: 0; border-top: 2px solid black; }
+
+footer { border-top: 2px solid black; padding: 7px 0 28px 0; }
+
+.page { margin:1em auto; max-width: 1000px; }
+
+header { margin: 0; padding: 0; width: 200px; position: fixed; height: 100%; overflow: auto; }
+header a.logo { max-width: 90%; margin:0 auto; }
+header nav a { display: block; text-align: center; color: black; padding: 16px; text-decoration: none; text-transform: uppercase; border-bottom: 2px solid black; }
+header nav a.active { background-color: #fff; color: black; }
+header nav a:hover { background-color: #fff; color: #af8dc0; }
+
+article { margin-left: 240px; padding: 1px 16px; max-width: 800px; height: 1000px; }
+
+h2 span.key{ display: inline-block; width: 60px; line-height: 60px; border-radius: 50%; text-align: center; color: #fff; background-color: #000; margin-bottom:20px; }
+
+h2.soon { color: #ccc; }
+h2.soon span.key { background-color: #ccc; }
+
+@media screen and (max-width: 700px) {
+  header { width: 100%; height: auto; position: relative; text-align: center; }
+  header nav { text-align:center; margin: 0 16px; }
+  header nav ul { border-bottom: 2px solid black; }
+  header nav li { display:inline; margin-bottom:0; }
+  header nav a { display:inline-block; border: 0; }
+  article { margin-left: 0; }
+  header a.logo { display:block; margin:0 auto; border: 0; }
+  img.spot { max-width: 100%; }
+}
+
+@media screen and (max-width: 400px) {
+  h1 { font-size: 36px; }
+  header { padding: 0px 16px;}
+  header nav ul { border-bottom: 0; }
+  header nav li { display: block; width: 100%; }
+  header nav a { border-bottom: 2px solid black; width:100%; }
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="page">
+
+<header>
+<a class="logo" href="#top"><img src="assets/img/numbered-works-circle.svg" Alt="Numbered Works Logo"></a>
+<!--
+<nav>
+<ul>
+  <li><a href="/about">About</a></li>
+  <li><a href="/notes">Notes</a></li>
+</ul>
+</nav>
+-->
+</header>
+
+<article>
+
+<h1 id="numbered-works">Numbered Works</h1>
+
+<h2><a href="https://numbered-works.itch.io/swamp-renewal"><span class="key">5</span> Swamp Renewal</a></h2>
+<h2><a href="/little-bones"><span class="key">4</span> Little Bones</a></h2>
+<h2><a href="/big-bone"><span class="key">3</span> Big Bone</a></h2>
+<h2><a href="/sally-port-farm"><span class="key">2</span> Sally Port Farm</a></h2>
+<h2><a href="/free-stone-city"><span class="key">1</span> Free Stone City</a></h2>
+
+{%- include footer.html -%}
+
+</article>
+</div>
+<script data-goatcounter="https://numberedworks.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>
