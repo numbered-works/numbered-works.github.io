@@ -3,7 +3,7 @@ layout: "post"
 title: "A Long Post With a Title"
 date: "2022-02-21 10:38"
 categories: notes
-tags:		[tests, lorem ipsum]
+tags: [tests, lorem ipsum]
 type: long
 ---
 Apologies if you've subscribed to the RSS feed. There's probably a few more of these in your future.
