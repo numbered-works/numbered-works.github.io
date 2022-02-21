@@ -21,4 +21,4 @@ We collect visitor analytics using [GoatCounter](https://www.goatcounter.com/), 
 
 You can subscribe to updates using [RSS](https://numbered.works/feed.xml) or [JSON](https://numbered.works/feed.json).
 
-_Updated 12 February 2022_
+_Updated 21 February 2022_
