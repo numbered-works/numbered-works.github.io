@@ -18,7 +18,7 @@ Multiple directions to travel.
 
 ### Inner Garden
 Deeper garden level.
-A secret room behind the waterfall.
+Secret rooms behind the waterfall.
 Table of garden challenges/encounters/finds.
 Poisonous/carnivorous plants. Creeping vines. Monsters. Enchantment.
 Plants to water.
@@ -34,9 +34,25 @@ The kidnapped prince.
 King fully wilds out/is redeemed/sleeps.
 Catch the king?
 
+## Ruined Tower
+Source of treasures?
+Spooky
+
 ## Treasures table
-1. A tattered ballroom gown. If a player wears it the king will dance with them.
+1. A tattered ballroom gown. If a player wears it the king will ask them to dance.
 2. A copper crown. Anyone who wears it is protected from attack by ghouls.
 3. A clay ring that turns the wearer to stone. The effect disappears when the ring is removed. If submerged in water, the ring will dissolve after a short period.
 
 ## Food Effects table
+1. one
+2. Two
+3. Three
+4. fourth
+5. defensive
+6. six
+7. Seven
+8. height
+9. inline
+10. tent
+11. eleven
+12. twelve
