@@ -10,7 +10,8 @@ Numbered Works is making adventures, games, art, toys, music, objects.
 * We tweet at [@numberedworks](https://twitter.com/numberedworks).
 * You can email us at [numberedworks@gmail.com](mailto:numberedworks@gmail.com).
 <!-- * You can subscribe to updates using [RSS](https://numbered.works/feed.xml) or [JSON](https://numbered.works/feed.json). -->
-*
+
+
 Based in Awabakal land, Australia. We acknowledge the Traditional Owners and Custodians of the lands on which we live, and pay our respects to Indigenous Elders past, present and emerging. Sovereignty has never been ceded. Always was, always will be, Aboriginal land.
 
 ## About this site
