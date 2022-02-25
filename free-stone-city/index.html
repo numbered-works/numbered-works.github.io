@@ -18,8 +18,14 @@ redirect_from:
 
 /* Reset */
 
-html { box-sizing: border-box; scroll-behavior: smooth; }
+html { box-sizing: border-box; }
+html {
+  /* CSS custom property for the polyfill */
+  --scroll-behavior: smooth;
 
+  /* Normal CSS property for browsers with native support */
+  scroll-behavior: smooth;
+}
 *, *:before, *:after { box-sizing: inherit; }
 
 /* Basics */
@@ -110,6 +116,9 @@ article { margin-left: 240px; padding: 1px 16px; max-width: 800px; height: 1000p
 }
 
 </style>
+
+<script src="https://unpkg.com/smoothscroll-polyfill/dist/smoothscroll.min.js"></script>
+<script src="https://unpkg.com/smoothscroll-anchor-polyfill"></script>
 </head>
 
 <body>
