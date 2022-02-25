@@ -39,3 +39,15 @@
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:image" content="{% if page.image %}{{ page.image }}{% else %}https://numbered.works/sally-port-farm/images/meta.jpg{% endif %}" />
 {% endif %}
+
+<!-- Smooth Scrolling -->
+<script src="https://unpkg.com/smoothscroll-polyfill/dist/smoothscroll.min.js"></script>
+<script src="https://unpkg.com/smoothscroll-anchor-polyfill"></script>
+
+<style>
+  html { /* CSS custom property for the polyfill */
+         --scroll-behavior: smooth;
+         /* Normal CSS property for browsers with native support */
+         scroll-behavior: smooth;
+       }
+</style>
