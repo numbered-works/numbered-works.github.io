@@ -5,6 +5,8 @@ date: "2022-02-21 10:38"
 categories: notes
 tags: [tests, lorem ipsum]
 type: long
+sitemap:
+  exclude: 'yes'
 ---
 Apologies if you've subscribed to the RSS feed. There's probably a few more of these in your future.
 
