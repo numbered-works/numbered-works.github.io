@@ -4,8 +4,12 @@
 <meta name="description" content="{{ page.description }}">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta charset="utf-8" />
-<link rel="icon" type="image/png" href="{{ site.url }}/favicon.png" />
 <link rel="mask-icon" href="{{ site.url }}/mask-icon.svg" color="#000000">
+
+<link rel="icon" href="{{ site.url }}/favicon.ico" sizes="any"><!-- 32×32 -->
+<link rel="icon" href="{{ site.url }}/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="{{ site.url }}/apple-touch-icon.png"><!-- 180×180 -->
+<link rel="manifest" href="{{ site.url }}/manifest.webmanifest">
 
 <!-- Feeds -->
 <link rel="alternate" type="application/atom+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml" />
