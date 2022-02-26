@@ -6,17 +6,23 @@ Generated using the Adventurer Builder tables from Big Bone/Little Bones.
 
 ## The Castle
 
-### The Castle Walls
+### 1. The Walls
 Entrance/Guardian. Castle walls and locked door. Multiple entrances. Climb/tunnel/etc. One tower, a wandering monster. Roll to discover manner of entrance.
 
-### Outer Ward
+### 2. Outer Ward
 First garden level.
 Wall dwellers.
 Ravine/drop to secret garden.
 Waterfall.
 Multiple directions to travel.
 
-### Inner Garden
+### 3. The Drop
+
+### 4. The Cave
+
+### 5. The Pool
+
+### 6. Inner Garden
 Deeper garden level.
 Secret rooms behind the waterfall.
 Table of garden challenges/encounters/finds.
@@ -24,7 +30,7 @@ Poisonous/carnivorous plants. Creeping vines. Monsters. Enchantment.
 Plants to water.
 Fairy circles. Ponds. Goblin prisoner. Giant eggs.
 
-### Dining Room
+### 7. The Court
 Dinner with the wild king and ghouls.
 Food effects.
 Strange food from the garden.
@@ -34,14 +40,14 @@ The kidnapped prince.
 King fully wilds out/is redeemed/sleeps.
 Catch the king?
 
-## Ruined Tower
+### 8. The Keep
 Source of treasures?
 Spooky
 
 ## Treasures table
 1. A tattered ballroom gown. If a player wears it the king will ask them to dance.
 2. A copper crown. Anyone who wears it is protected from attack by ghouls.
-3. A clay ring that turns the wearer to stone. The effect disappears when the ring is removed. If submerged in water, the ring will dissolve after a short period.
+3. A set of pipes. Playing them skillfully will boil the listener's blood.
 
 ## Food Effects table
 1. one
