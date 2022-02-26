@@ -111,9 +111,3 @@ Source of treasures?
 4. fourth
 5. defensive
 6. six
-7. Seven
-8. height
-9. inline
-10. tent
-11. eleven
-12. twelve
