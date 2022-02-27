@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+# About
+
 Numbered Works is making adventures, games, art, toys, music, objects.
 
 * Our PDFs are available to download from [itch.io](https://numbered-works.itch.io).
