@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<div class="paper">
+{% if page.type == "long" %}
+
+<article class="h-entry post perma">
+	<h1 class="p-name">{{ page.title }}</h1>
+	<div  class="e-content">
+		{{ content }}
+	</div>
+{% else %}
+
+<article class="h-entry note perma">
+	<div  class="p-name e-content">
+	{{ page.content }}
+	</div>
+	{% endif %}
+	<p class="dateline"><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%e %B %Y" }}</time></p>
+</article>
+</div>

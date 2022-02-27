@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: "note"
 title: "A Long Post With a Title"
 date: "2022-02-21 10:38"
 categories: notes
