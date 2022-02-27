@@ -1,3 +1,8 @@
+---
+sitemap:
+  exclude: 'yes'
+---
+
 # The Wild King
 
 The adventurers discover a secret garden beneath a derelict castle. Inside lives a wild king and two ghouls. If the party survives the terrible food, they might find the kidnapped prince.

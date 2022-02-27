@@ -1,3 +1,8 @@
+---
+sitemap:
+  exclude: 'yes'
+---
+
 # SWAMP RENEWAL
 
 [1. Swamp Port]
