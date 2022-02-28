@@ -100,3 +100,12 @@ Tensions have been growing between the local trolls and a new group of cultists 
 
 
 ### 12. Exit
+
+
+
+## Notes
+Numbered Works No. 6, February 2022. Artwork drawn using [Svgbob by ivanceras].
+
+
+
+[Svgbob by ivanceras]: https://ivanceras.github.io/svgbob-editor/
