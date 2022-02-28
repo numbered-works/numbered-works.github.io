@@ -98,6 +98,12 @@ header nav a:hover { background-color: #fff; color: #ae926e; }
 
 article { margin-left: 240px; padding: 1px 16px; max-width: 800px; height: 1000px; }
 
+.numberedworks { width: 100%; display: flex; }
+.logo { flex: 0 0 3.5em; }
+.logo img { max-width:2.5em; margin:0; mix-blend-mode: multiply; }
+.logo a:hover {background-color: transparent; }
+.details p { margin-top : 0; flex: 1; }
+
 @media screen and (max-width: 700px) {
   header { width: 100%; height: auto; position: relative; text-align: center; }
   header nav { text-align:center; margin: 0 16px; }
@@ -175,8 +181,17 @@ article { margin-left: 240px; padding: 1px 16px; max-width: 800px; height: 1000p
   <h1 id="swamp-renewal">SWAMP RENEWAL</h1>
   <img src="images/swamp-cover-web.jpg" Alt="A swamp golem.">
   <p>Swamp Renewal is a small, system-agnostic swamp crawl for your favourite fantasy TTRPG. <a href="https://numbered-works.itch.io/swamp-renewal">You can download pay-what-you-want screen and print friendly PDFs from itch.io</a>.</p>
-  <p><a href="https://numbered.works/">Numbered Works</a>, No. 5.<br>
+    
+<div class="numberedworks">
+<div class="logo">
+  <a href="https://numbered.works"><img src="https://numbered.works/assets/img/numbered-works-circle.svg" Alt="No. logo"></a>
+</div>
+<div class="details">
+  <p><a href="https://numbered.works">Numbered Works</a> No. 5,<br>
     February 2022.</p>
+</div>
+<div class="clear"></div>
+</div>
 
   <h2 id="welcome-to-the-forgotten-quag">Welcome to the Forgotten Quag</h2>
   <p><em>Duckweed coats the surface of the water. The air is heavy. There is the relentless thrum of droning, chirping animal and insect sound, punctuated by calls, howls, hoots, and snarls. Trees and shrubbery vibrate with the combined energy of countless tiny creatures. Branches drip with moss, slime, vines, and snakes. Smells of wet earth, rot, swamp gas, and sweat.</em></p>
