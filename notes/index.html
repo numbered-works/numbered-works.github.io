@@ -9,7 +9,7 @@ description: Notes, links, and sketches.
 {%- for post in paginator.posts -%}
 	{% if post.type == "long" %}
        <article class="h-entry post">
-       <h1 class="p-name">{{ post.title }}</h1>
+       <h1 class="p-name"><a class="u-url" href="{{ post.url | relative_url }}">{{ post.title }}</a></h1>
 		<div  class="e-content">
 			{{ post.content }}
 		</div>
