@@ -19,15 +19,16 @@ sitemap:
 * [5. Gazing Pool]
 * [6. Crypt]
 * [7. Lair]
-* [8. Workshop]
+* [8. Store Room]
 * [9. Vault]
 * [10. Cavern]
 * [11. Bob]
+* [12. Exit]
 
 # DUNGEONBOB
 
 ## Introduction
-Tensions have been growing between the local trolls and a new
+Tensions have been growing between the local trolls and a new group of cultists who have taken possession of
 
 ## Map
 
@@ -36,12 +37,13 @@ Tensions have been growing between the local trolls and a new
 ### 1. Foyer
 * Entry down stairs from the west.
 * Smooth white marble floor and walls.
-    * Northern wall has a ventilation grate 8' from the floor.
-* Firepit with burning logs. A shaft in the ceiling directly above leads to the surface.
+    * Northern wall has a high ventilation grate, 8' from the floor.
+* Firepit with burning logs and fragrant, smoking leaves. A 50' shaft in the ceiling directly above leads to the surface.
 * Desk with two leafy, flowery bouquets in vases.
     * The bouquets are Henbane.
     * The far side of the desk reveals two drawers
 * Smells of soap and smoke. Distant music.
+* *Locked door to the south leads to [8. Store Room]. Corridor to the east leads to [2. Changing Room] and [3. Sanctuary].*
 
 ### 2. Changing Room
 
@@ -74,11 +76,14 @@ Tensions have been growing between the local trolls and a new
 * A raw, scratched-out cave, dimly lit by candles.
 * Smells of candlewax, wet hair, mouldy bread.
 * Bed of straw, surrounded by stolen clothes, trinkets and charms.
-* Home to Gobbert, an emaciated troll. Wears ragged clothes clearly stolen from the *Vestry*.
+* Home to **Gobbert**, an emaciated troll. Wears ragged clothes clearly stolen from [4. Vestry].
     * Gobbert fears *Bob*, despises the cultists, wants his family cave back. Needs food.
 * Very narrow, very dark tunnels (party must travel single file, crawling) lead to vents in rooms 1, 4, and 6.
 
-### 8. Workshop
+### 8. Store Room
+
+* Shovels, picks, gloves, torches.
+* Rubble.
 
 
 
