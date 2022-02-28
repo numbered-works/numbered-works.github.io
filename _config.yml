@@ -28,7 +28,7 @@ theme: minima
 twitter_username: numberedworks
 github_username:  numbered-works
 itch_username: numbered-works
-permalink: /:categories/:year/:month/:day/:title/
+permalink: /:categories/:title/
 
 
 
