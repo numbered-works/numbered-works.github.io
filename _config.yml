@@ -44,6 +44,10 @@ gems: [jekyll-paginate]
 plugins:
   - jekyll-redirect-from
 
+exclude:
+  - feed.xml
+  - feed.json
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
