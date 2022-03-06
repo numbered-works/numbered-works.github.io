@@ -42,7 +42,6 @@ paginate_path: "notes/page:num/"
 gems: [jekyll-paginate]
 
 plugins:
-  - jekyll-feed
   - jekyll-redirect-from
 
 
