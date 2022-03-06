@@ -11,7 +11,7 @@ sitemap:
     <link type="application/atom+xml" href="{{ site.url }}/feed.xml" rel="self"/>
     <link href="{{ site.url }}"/>
   <updated>{{ site.time | date: "%Y-%m-%dT%H:%M:%SZ" }}</updated>
-  <id>{{ site.url }}</id>
+  <id>{{ site.url }}/</id>
   <author>
     <name>Numbered Works</name>
     <email>numberedworks@gmail.com</email>
