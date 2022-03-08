@@ -39,3 +39,7 @@ Maps perform multiple functions. For us, the two most important are communicatin
 * Concrete information about the imagined space so players can situate themselves within it.
 
 So we like pretty, expressive maps, and we also like them to be usable and easy to reference. Linking keyed locations to their descriptions makes your maps super useful. You might be able to get away with a more abstract map and have it be very usable at the table with thoughtful internal linking.
+
+## Fixed Sidebar Menu
+
+We like a fixed sidebar menu! It's handy to instantly jump to the information you need in the moment. Once they get long (like the menu in Swamp Renewal) the experience is not quite as elegant, especially on phones. We haven't found a solution that we like yet.
