@@ -4,7 +4,7 @@ title: Notes
 description: Notes, links, and sketches.
 ---
 
-<h1 id="{{page.slug}}">{{page.title}}</h1>
+<h1 id="{{page.slug}}"><a href="{{ site.url }}/notes">{{page.title}}</a></h1>
 
 {%- for post in paginator.posts -%}
 	{% if post.type == "long" %}
