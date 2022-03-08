@@ -45,7 +45,7 @@ Entrance/Guardian. Castle walls and locked door. Multiple entrances. Climb/tunne
 ### 4. The Cave
 * Cave description.
 * 1d6 Cave Encounters:
-  1. a
+  1. Rusty suit of armour with a grotesquely distorted face shield.
   2. a
   3. a
   4. a
