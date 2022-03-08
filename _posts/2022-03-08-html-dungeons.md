@@ -27,4 +27,10 @@ I haven't tried this yet, but I like the idea of linking out to Wikipedia or oth
 
 ## Maps
 
-Linking keyed maps to room or location descriptions is an obvious plus. Building responsive, accessible dungeon maps turned out to be harder than I thought it would be. Old-school [image maps]() are not responsive and so don't cut it in 2022. I don't think I've arrived at the best solution yet, but this is what I'm doing right now.
+Linking keyed maps to room or location descriptions is an obvious plus. Building responsive, accessible dungeon maps turned out to be trickier than I thought it would be. Old-school [image maps]() are not [responsive]() and so don't cut it in 2022. I don't think I've arrived at the best solution yet, but here is what I'm doing right now.
+
+Maps perform multiple functions. In my mind the two most important are communicating
+* environmental and/or aesthetic flavour/vibe
+* information about the imagined space so players can situate themselves within it
+
+So I like pretty, expressive maps, and I also like them to be usable and easy to reference. Linking keyed locations to their descriptions makes your maps super useful. I feel like you could get away with more abstract maps and still have them be usable at the the table with
