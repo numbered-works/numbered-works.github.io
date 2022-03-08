@@ -66,6 +66,11 @@ h2 span.key{ display: inline-block; width: 60px; line-height: 60px; border-radiu
 h2.soon { color: #ccc; }
 h2.soon span.key { background-color: #ccc; }
 
+/* Notes styles */
+
+p.dateline { font: 21px/28px 'Computer Modern Typewriter', Courier, "Courier New", monospace; }
+body.notes a:hover { border-bottom: 2px solid blue; background:#af8dc0; }
+
 @media screen and (max-width: 700px) {
   header { width: 100%; height: auto; position: relative; text-align: center; }
   header nav { text-align:center; margin: 0 16px; }
@@ -90,7 +95,11 @@ h2.soon span.key { background-color: #ccc; }
 </style>
 </head>
 
-<body>
+{% if page.path contains '_posts' %}
+<body class="notes">
+{% else %}
+<body class="{{ page.title | slugify }}">
+{% endif %}
 
 <div class="container">
 
