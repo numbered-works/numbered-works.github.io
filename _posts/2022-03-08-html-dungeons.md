@@ -31,7 +31,7 @@ We find smooth scrolling to be more useful than just a nice piece of visual flai
 
 ## Maps
 
-Linking keyed maps to room or location descriptions is an obvious plus. Building linked, responsive dungeon maps turned out to be trickier than we thought it would be. Old school [image maps]() are not [responsive]() and so don't cut it in 2022. I don't think I've arrived at the best solution yet, but here is what we're doing right now.
+Linking keyed maps to room or location descriptions is an obvious plus. Building linked, responsive dungeon maps turned out to be trickier than we thought it would be. Old school [image maps]() are not [responsive]() and so don't cut it in 2022. We don't think we've arrived at the best solution yet, but here is what we're doing right now.
 
 Maps perform multiple functions. For us, the two most important are communicating:
 
