@@ -21,7 +21,7 @@ These are some things we've figured out and/or are playing with right now. We'll
 
 If you are writing in markdown, you can include internal links very neatly by using [reference links](https://www.markdownguide.org/basic-syntax/#reference-style-links). Doing it this way keeps your markdown readable and avoids repetition.
 
-We haven't tried this yet, but we like the idea of linking out to [Wikipedia]() or other stable, open sources for visual or background references in dungeon and monster descriptions. We also like the idea of linking to other adventures that exist on the web -- imagine a hex crawl where each hex is linked to a location written by a different author, on a different website.
+We haven't tried this yet, but we like the idea of linking out to [Wikipedia]() or other [stable](), [open]() [sources]() for visual or background references in dungeon and monster descriptions. We also like the idea of linking to other adventures that exist on the web -- imagine a hex crawl where each hex is linked to a location written by a different author, on a different website.
 
 ## Smooth Scrolling
 
@@ -34,6 +34,8 @@ We find smooth scrolling to be more useful than just a nice piece of visual flai
 Linking keyed maps to room or location descriptions is an obvious plus. Building linked, responsive dungeon maps turned out to be trickier than we thought it would be. Web 1.0 style [image maps]() are not [responsive]() and so don't cut it in 2022. We don't think we've arrived at the best solution yet, but here is what we're doing right now.
 
 Let's start with a simple six room dungeon.
+
+Using this method you are limited to rectangular target areas on your maps. [Another method uses SVGs](http://thenewcode.com/760/Create-A-Responsive-Imagemap-With-SVG), which allows for any kind of target shape. We'll try that next.
 
 Maps perform multiple functions. For us, the two most important are communicating:
 
