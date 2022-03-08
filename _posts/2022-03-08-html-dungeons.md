@@ -19,9 +19,11 @@ These are some things I've figured out and/or am playing with right now.
 
 Linking is HTML's killer feature, and it makes sense to link every reference you can in your dungeon. Internal linking is obvious: every mention of a location, a random table, a character, whatever, can be linked to within the document. To see an example of this, I did a lot of internal linking with [Swamp Renewal](https://numbered.works/swamp-renewal).
 
-Chrome, Edge, Firefox, and most other browsers can scroll smoothly between anchor links on a page with the simple CSS declaration `html { scroll-behavior: smooth; }`. Unfortunately Safari, the default browser on Macs, iPhones and iPads, does not natively support smooth scrolling. Happily, there is [a very easy to implement plugin](https://jonaskuske.github.io/smoothscroll-anchor-polyfill/) to enable it on your web-pages.
+Chrome, Edge, Firefox, and most other browsers will scroll smoothly between anchor links on a page with the simple CSS declaration `html { scroll-behavior: smooth; }`. Unfortunately Safari, the default browser on Macs, iPhones and iPads, does not natively support smooth scrolling. Happily, there is [a very easy to implement plugin](https://jonaskuske.github.io/smoothscroll-anchor-polyfill/) to enable it on your web-pages.
 
 I find smooth scrolling to be more than a nice piece of visual fluff. Seeing the page scroll, rather than abruptly jumping from link to link, helps keep me oriented and navigate around the page without getting lost.
+
+I haven't tried this yet, but I like the idea of linking out to Wikipedia or other stable, open sources for visual or background information in dungeon descriptions.
 
 ## Maps
 
