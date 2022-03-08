@@ -29,6 +29,7 @@ twitter_username: numberedworks
 github_username:  numbered-works
 itch_username: numbered-works
 permalink: /:categories/:title/
+timezone: Australia/Sydney
 
 
 
