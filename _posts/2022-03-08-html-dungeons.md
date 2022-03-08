@@ -17,20 +17,20 @@ These are some things I've figured out and/or am playing with right now.
 
 ## Hypertext
 
-Linking is HTML's killer feature, and it makes sense to link every reference you can in your dungeon. Internal linking is obvious: every mention of a location, a random table, a character, whatever, can be linked to within the document. To see an example of this, I did a lot of internal linking with [Swamp Renewal](https://numbered.works/swamp-renewal).
+Linking is HTML's killer feature, and it makes sense to link every reference you can in your dungeon. Internal linking is obvious: every mention of a location, a random table, a character, whatever, can be linked to its definition within the document. To see an example of this, I did a lot of internal linking with [Swamp Renewal](https://numbered.works/swamp-renewal).
 
-Chrome, Edge, Firefox, and most other browsers will scroll smoothly between anchor links on a page with the simple CSS declaration `html { scroll-behavior: smooth; }`. Unfortunately Safari, the default browser on Macs, iPhones and iPads, does not natively support smooth scrolling. Happily, there is [a very easy to implement plugin](https://jonaskuske.github.io/smoothscroll-anchor-polyfill/) to enable it on your web-pages.
+Chrome, Edge, Firefox, and most other browsers will scroll smoothly between anchor links on a page with the simple CSS declaration `html { scroll-behavior: smooth; }`. Safari, the default browser on Macs, iPhones and iPads, does not natively support smooth scrolling. Happily, there is [a very easy to implement plugin](https://jonaskuske.github.io/smoothscroll-anchor-polyfill/) to enable it on your web-pages.
 
-I find smooth scrolling to be more than a nice piece of visual fluff. Seeing the page scroll, rather than abruptly jumping from link to link, helps keep me oriented and navigate around the page without getting lost.
+I find smooth scrolling to be more than a nice piece of visual fluff. Seeing the page scroll, rather than abruptly jumping from link to link, helps keep me oriented and able to navigate around the page without getting lost.
 
-I haven't tried this yet, but I like the idea of linking out to Wikipedia or other stable, open sources for visual or background information in dungeon descriptions.
+I haven't done this yet, but I like the idea of linking out to Wikipedia or other stable, open sources for visual or background references in dungeon descriptions.
 
 ## Maps
 
-Linking keyed maps to room or location descriptions is an obvious plus. Building responsive, accessible dungeon maps turned out to be trickier than I thought it would be. Old-school [image maps]() are not [responsive]() and so don't cut it in 2022. I don't think I've arrived at the best solution yet, but here is what I'm doing right now.
+Linking keyed maps to room or location descriptions is an obvious plus. Building responsive, accessible dungeon maps turned out to be trickier than I thought it would be. Old school [image maps]() are not [responsive]() and so don't cut it in 2022. I don't think I've arrived at the best solution yet, but here is what I'm doing right now.
 
 Maps perform multiple functions. In my mind the two most important are communicating
-* environmental and/or aesthetic flavour/vibe
-* information about the imagined space so players can situate themselves within it
+* Environmental and/or aesthetic flavour/vibe
+* Concrete information about the imagined space so players can situate themselves within it
 
-So I like pretty, expressive maps, and I also like them to be usable and easy to reference. Linking keyed locations to their descriptions makes your maps super useful. I feel like you could get away with more abstract maps and still have them be usable at the the table with
+So I like pretty, expressive maps, and I also like them to be usable and easy to reference. Linking keyed locations to their descriptions makes your maps super useful. I feel like you could get away with a more abstract map and have it be very usable at the table with thoughtful internal linking.
