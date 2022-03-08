@@ -35,7 +35,7 @@ Linking keyed maps to room or location descriptions is an obvious plus. Building
 
 Maps perform multiple functions. For us, the two most important are communicating:
 
-* Environmental and/or aesthetic flavour/vibe.
+* Environmental and aesthetic flavour.
 * Concrete information about the imagined space so players can situate themselves within it.
 
 So we like pretty, expressive maps, and we also like them to be usable and easy to reference. Linking keyed locations to their descriptions makes your maps super useful. You might be able to get away with a more abstract map and have it be very usable at the table with thoughtful internal linking.
