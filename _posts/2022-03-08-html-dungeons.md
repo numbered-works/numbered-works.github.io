@@ -17,7 +17,7 @@ These are some things we've figured out and/or are playing with right now. We'll
 
 ## Hypertext
 
-Linking is HTML's killer feature, and it makes sense to link every reference you can in your dungeon. Internal linking is obvious: every mention of a location, a random table, a character, whatever, can be linked to its definition within the document.
+[Linking](https://www.w3.org/WhatIs.html) is HTML's killer feature, and it makes sense to link every reference you can in your dungeon. Internal linking is obvious: every mention of a location, a random table, a character, whatever, can be linked to its definition within the document.
 
 If you are writing in markdown, you can include internal links very neatly by using reference links. Doing it this way keeps your markdown readable and avoids repetition.
 
