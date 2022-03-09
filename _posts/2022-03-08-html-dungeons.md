@@ -9,7 +9,7 @@ sitemap:
   exclude: 'yes'
 ---
 
-Here are some notes and links about publishing dungeons or adventures as web pages. HTML is our second favourite format for adventures. Paper booklets are number one: they're a superior technology for quickly navigating through a document, we enjoy the tactile aspects of gaming (rolling dice, pencils, erasers, books), and prefer to keep glowing rectangles away from the table whenever possible. But for convenience, accessibility, ease of publishing, and adaptability, HTML is hard to beat. It's cool to be able to run an adventure for a bunch of friends from your phone.
+HTML is our second favourite format for adventures. Paper booklets are number one: they're a superior technology for quickly navigating through a document, we enjoy the tactile aspects of gaming (rolling dice, pencils, erasers, books), and we prefer to keep glowing rectangles away from the table whenever possible. But for convenience, accessibility, ease of publishing, and adaptability, HTML is hard to beat. It's cool to be able to run an adventure for a bunch of friends from your phone.
 
 If you're new to this your first stops should be [Goblin Archives](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Programs/#markdown) and Nate Treme's [Making an HTML Dungeon](https://www.youtube.com/watch?v=TRZ2w36wJi0&ab_channel=NateTreme). This post assumes a basic working knowledge of HTML and CSS.
 
@@ -39,8 +39,8 @@ Using this method you are limited to rectangular target areas on your maps. [Ano
 
 Maps perform multiple functions. For us, the two most important are communicating:
 
-* Environmental and aesthetic flavour.
-* Concrete information about the imagined space so players can situate themselves within it.
+* Environmental and aesthetic flavour. Vibes.
+* Concrete information about the imagined space so players can situate themselves within it and explore.
 
 So we like pretty, expressive maps, and we also like them to be usable and easy to reference. Linking keyed locations to their descriptions makes your maps super useful. You might be able to get away with a more abstract map and have it be very usable at the table with thoughtful internal linking.
 
@@ -52,3 +52,8 @@ We like a fixed sidebar menu! It's handy to instantly jump to the information yo
 
 * Github Pages
 * Blot.im
+
+## Print Styles
+
+* That print styles article
+* Bindery.js
