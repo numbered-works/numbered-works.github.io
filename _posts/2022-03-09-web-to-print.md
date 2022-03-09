@@ -9,4 +9,4 @@ sitemap:
 ---
 > A series of projects that use the Web browser as a general purpose design tool; websites that output to flyers, posters and books.
 
-[Web to Print](http://johncaserta.com/webtoprint.html)
+[Web to Print](http://johncaserta.com/webtoprint.html) by John Caserta.
