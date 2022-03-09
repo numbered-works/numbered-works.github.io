@@ -17,7 +17,7 @@ These are some things we've figured out and/or are playing with right now. We'll
 
 ## Hypertext
 
-[Linking](https://www.w3.org/WhatIs.html) is HTML's killer feature, and it makes sense to link every reference you can in your dungeon. Internal linking is obvious: every mention of a location, a random table, a character, whatever, can be linked to its definition within the document.
+[Linking](https://www.w3.org/WhatIs.html) is HTML's killer feature, and it makes sense to link every reference you can in your dungeon, especially if your page is long. Every mention of a location, a random table, a creature, can be linked to its definition within the document.
 
 If you are writing in markdown before converting to HTML, your headers should all be assigned unique IDs you can link to. Using [reference links](https://www.markdownguide.org/basic-syntax/#reference-style-links) will keep your markdown readable and avoid repetition.
 
@@ -25,7 +25,7 @@ We haven't tried this yet, but we like the idea of linking out to [Wikipedia]() 
 
 ## Smooth Scrolling
 
-Chrome, Edge, Firefox, and most other browsers will scroll smoothly between anchor links on a page with the simple CSS declaration `html { scroll-behavior: smooth; }`. Safari, the default browser on Macs, iPhones and iPads, does not natively support smooth scrolling. Happily, there is [a very easy to implement plugin](https://jonaskuske.github.io/smoothscroll-anchor-polyfill/) to enable it on your web pages.
+Most browsers will scroll smoothly between anchor links on a page with the simple CSS declaration `html { scroll-behavior: smooth; }`. Safari, the default browser on Macs, iPhones and iPads, does not natively support smooth scrolling. Happily, there is [a very easy to implement plugin](https://jonaskuske.github.io/smoothscroll-anchor-polyfill/) to enable it on your web pages.
 
 We find smooth scrolling to be more useful than just a nice piece of visual flair. Seeing the page scroll, rather than abruptly jumping from link to link, helps to keep the reader oriented within the page.
 
