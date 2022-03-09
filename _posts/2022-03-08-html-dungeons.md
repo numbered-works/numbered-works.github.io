@@ -19,7 +19,7 @@ These are some things we've figured out and/or are playing with right now. We'll
 
 [Linking](https://www.w3.org/WhatIs.html) is HTML's killer feature, and it makes sense to link every reference you can in your dungeon. Internal linking is obvious: every mention of a location, a random table, a character, whatever, can be linked to its definition within the document.
 
-If you are writing in markdown, you can include internal links very neatly by using [reference links](https://www.markdownguide.org/basic-syntax/#reference-style-links). Doing it this way keeps your markdown readable and avoids repetition.
+If you are writing in markdown before converting to HTML, your headers should all be assigned unique IDs you can link to. Using [reference links](https://www.markdownguide.org/basic-syntax/#reference-style-links) will keep your markdown readable and avoid repetition.
 
 We haven't tried this yet, but we like the idea of linking out to [Wikipedia]() or other [stable](), [open]() [sources]() for visual or background references in dungeon and monster descriptions. We also like the idea of linking to other adventures that exist on the web -- imagine a hex crawl where each hex is linked to a location written by a different author, on a different website.
 
