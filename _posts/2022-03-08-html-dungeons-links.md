@@ -65,4 +65,4 @@ We find smooth scrolling to be more useful than just a nice piece of visual flai
 
 ## Also
 
-We have some notes and ideas to share about marking up maps, print stylesheets, navigation, free or very cheap hosting, and other related subjects. We want to see more adventures and dungeons published on the web. Hopefully some of these notes are useful. ✌️
+We have some notes and ideas to share about publishing online. We want to see more adventures and dungeons on the open web. Hopefully some of these notes are useful. ✌️
