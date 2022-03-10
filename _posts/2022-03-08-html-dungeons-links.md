@@ -13,9 +13,11 @@ HTML is our second favourite format for adventures. Paper booklets are number on
 
 This post assumes a basic working knowledge of HTML and CSS. Teaching web design is above our pay grade and there are too many great, free resources available online to list here. But for guides specific to adventure authoring we recommend Goblin Archives' [Annotated Archive of Game Design Resources](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Programs/#markdown), Nate Treme's [Making an HTML Dungeon](https://www.youtube.com/watch?v=TRZ2w36wJi0&ab_channel=NateTreme), and Luke Gearing's [Using Markdown and Pandoc to Make RPG Documents for Free](https://lukegearing.blot.im/using-markdown-and-pandoc-to-make-rpg-documents-for-free).
 
-These are some things we've figured out and/or are playing with right now. We'll use snippets of code from *[Swamp Renewal](https://numbered.works/swamp-renewal)*, our most recent adventure setting.
+These are some things we've figured out or are playing with right now. We'll use snippets of code from *[Swamp Renewal](https://numbered.works/swamp-renewal)*, our most recent adventure setting.
 
 ## Hypertext
+
+([Return my future self to the smooth scrolling section](#smooth-scrolling))
 
 [Linking](https://www.w3.org/WhatIs.html) is HTML's killer feature, and it makes sense to link every reference you can in your dungeon, especially if your page is long. Every mention of a location, a random table, a creature, can be linked to its definition within the document.
 
@@ -25,7 +27,7 @@ If you are writing in markdown, when you convert your text to HTML your headers 
 <h3 id="1-swamp-port">1. Swamp Port</h3>
 ```
 
-You can then point to these IDs with anchor links:
+You can point to these IDs with anchor links:
 
 ```html
 The golem carries the lumps of peat south, across the bridge to <a href="#1-swamp-port">1. Swamp Port</a>, where it stacks them to dry.
@@ -43,9 +45,9 @@ And here is the reference we include at the end of our text:
 ```markdown
 [1. Swamp Port]: #1-swamp-port
 ```
-Our final markdown document for *Swamp Renewal* made heavy use of internal linking and reference links. If you're interested you can [download the .md file at itch.io](https://numbered-works.itch.io/swamp-renewal).
+Our final markdown document for *Swamp Renewal* makes heavy use of internal linking and reference links. If you're interested you can [download the .md file at itch.io](https://numbered-works.itch.io/swamp-renewal).
 
-We haven't tried this yet, but we like the idea of weaving our dungeons into the web by linking out to [Wikipedia](https://wikipedia.org) and other relatively [stable](), [open]() [sources]() for visual or background references. We also like the idea of linking to other adventures that exist on the web -- a distributed megadungeon. Or a hex crawl where each hex is linked to a location written by a different author, on a different website.
+We haven't tried this yet, but we like the idea of weaving our dungeons into the web by linking out to [Wikipedia](https://en.wikipedia.org/wiki/Great_Stink) and other relatively [stable](https://www.ubu.com/film/schwartz-lillian_ufo.html), [open]((https://www.gutenberg.org/files/16269/16269-h/16269-h.htm) [sources](https://search.museumplantinmoretus.be/details/collect/390061) for visual or background references. We also like the idea of linking to other adventures that exist on the web -- a distributed megadungeon. Or a hex crawl where each hex is linked to a location written by a different author, on a different website.
 
 ## Smooth Scrolling
 
