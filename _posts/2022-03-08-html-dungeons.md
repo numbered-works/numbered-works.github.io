@@ -11,7 +11,7 @@ sitemap:
 
 HTML is our second favourite format for adventures. Paper booklets are number one: they're a superior technology for quickly navigating through a document, we enjoy the tactile aspects of gaming (rolling dice, pencils, erasers, books), and we prefer to keep glowing rectangles away from the table whenever possible. But for convenience, accessibility, ease of publishing, and adaptability, HTML is hard to beat. It's cool to be able to run an adventure for a bunch of friends from your phone.
 
-This post assumes a basic working knowledge of HTML and CSS. If you're new to this your first stops should be [Goblin Archives](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Programs/#markdown) and Nate Treme's [Making an HTML Dungeon](https://www.youtube.com/watch?v=TRZ2w36wJi0&ab_channel=NateTreme). 
+This post assumes a basic working knowledge of HTML and CSS. If you're new to this your first stops should be [Goblin Archives](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Programs/#markdown) and Nate Treme's [Making an HTML Dungeon](https://www.youtube.com/watch?v=TRZ2w36wJi0&ab_channel=NateTreme).
 
 These are some things we've figured out and/or are playing with right now. We'll use snippets of code from [Swamp Renewal](https://numbered.works/swamp-renewal), our most recent adventure setting.
 
@@ -27,9 +27,9 @@ If you are writing in markdown, when you convert your text to HTML your headers 
 
 You can then point to these IDs with anchor links:
 
-```html
+`html
 <li>...The golem carries the lumps of peat south, across the bridge to <a href="#1-swamp-port">1. Swamp Port</a>, where it stacks them to dry. ...</li>
-```
+`
 
 Using [reference links](https://www.markdownguide.org/basic-syntax/#reference-style-links) when you write will keep your markdown readable and avoid repetition.
 
