@@ -27,7 +27,7 @@ If you are writing in markdown, when you convert your text to HTML your headers 
 <h3 id="1-swamp-port">1. Swamp Port</h3>
 ```
 
-You can point to these IDs with anchor links:
+You can then point to these IDs with anchor links:
 
 ```html
 The golem carries the lumps of peat south, across the bridge to <a href="#1-swamp-port">1. Swamp Port</a>, where it stacks them to dry.
@@ -47,7 +47,7 @@ And here is the reference we include at the end of our text:
 ```
 Our final markdown document for *Swamp Renewal* makes heavy use of internal linking and reference links. If you're interested you can [download the .md file at itch.io](https://numbered-works.itch.io/swamp-renewal).
 
-We haven't tried this yet, but we like the idea of weaving our dungeons into the web by linking out to [Wikipedia](https://en.wikipedia.org/wiki/Great_Stink) and other relatively [stable](https://www.ubu.com/film/schwartz-lillian_ufo.html), [open]((https://www.gutenberg.org/files/16269/16269-h/16269-h.htm) [sources](https://search.museumplantinmoretus.be/details/collect/390061) for visual or background references. We also like the idea of linking to other adventures that exist on the web -- a distributed megadungeon. Or a hex crawl where each hex is linked to a location written by a different author, on a different website.
+We haven't tried this yet, but we like the idea of weaving our dungeons into the web by linking out to [Wikipedia](https://en.wikipedia.org/wiki/Great_Stink) and other relatively [stable](https://www.ubu.com/film/schwartz-lillian_ufo.html), [open](https://www.gutenberg.org/files/16269/16269-h/16269-h.htm) [sources](https://search.museumplantinmoretus.be/details/collect/390061) for visual or background references. We also like the idea of linking to [other adventures](https://www.dungeonresearch.com/barrow-of-the-elf-king) that exist on the web -- a distributed megadungeon. Or a hex crawl where each hex is linked to a location written by a different author, on a different website.
 
 ## Smooth Scrolling
 
