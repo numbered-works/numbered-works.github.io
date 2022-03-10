@@ -1,7 +1,7 @@
 ---
 layout: "note"
 title: "Protecting Our Spaces - A Response to Raggi"
-date: "2022-03-06 09:53"
+date: "2022-03-07 09:53"
 categories: notes
 tags: [discourse, safety, lotfp]
 sitemap:
