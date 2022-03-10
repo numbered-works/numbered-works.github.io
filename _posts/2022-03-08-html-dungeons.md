@@ -21,15 +21,27 @@ These are some things we've figured out and/or are playing with right now. We'll
 
 If you are writing in markdown before converting to HTML, your headers should all be assigned unique IDs you can link to. Using [reference links](https://www.markdownguide.org/basic-syntax/#reference-style-links) will keep your markdown readable and avoid repetition.
 
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+
 We haven't tried this yet, but we like the idea of linking out to [Wikipedia]() or other [stable](), [open]() [sources]() for visual or background references in dungeon and monster descriptions. We also like the idea of linking to other adventures that exist on the web -- imagine a hex crawl where each hex is linked to a location written by a different author, on a different website.
 
 ## Smooth Scrolling
 
-Most browsers will scroll smoothly between anchor links on a page with the simple CSS declaration `html { scroll-behavior: smooth; }`. Safari, the default browser on Macs, iPhones and iPads, does not natively support smooth scrolling. Happily, there is [a very easy to implement plugin](https://jonaskuske.github.io/smoothscroll-anchor-polyfill/) to enable it on your web pages.
+Most browsers will scroll smoothly between anchor links on a page with the simple CSS declaration:
+
+```css
+html { scroll-behavior: smooth; }
+```
+
+Safari, the default browser on Macs, iPhones and iPads, does not currently support smooth scrolling by default. Happily, there is [a very easy to implement plugin](https://jonaskuske.github.io/smoothscroll-anchor-polyfill/) to enable it on your web pages.
 
 We find smooth scrolling to be more useful than just a nice piece of visual flair. Seeing the page scroll, rather than abruptly jumping from link to link, helps to keep the reader oriented within the page.
 
-## Maps
+## Keyed Maps
 
 Linking keyed maps to room or location descriptions is an obvious plus. Building linked, responsive dungeon maps turned out to be trickier than we thought it would be. Web 1.0 style [image maps]() are not [responsive]() and so don't cut it in 2022. We don't think we've arrived at the best solution yet, but here is what we're doing right now.
 
