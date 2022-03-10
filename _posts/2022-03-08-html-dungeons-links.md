@@ -63,6 +63,6 @@ Safari, the default browser on Macs, iPhones and iPads, does not currently suppo
 
 We find smooth scrolling to be more useful than just a nice piece of visual flair. Seeing the page scroll, rather than abruptly jumping from link to link, helps to keep the reader oriented within the page.
 
-## Next
+## Also
 
-We have some notes and ideas about marking up maps, print stylesheets, navigation, free or very cheap hosting, and other related subjects. We want to see more adventures and dungeons published on the web. Hopefully some of these notes are useful.
+We have some notes and ideas to share about marking up maps, print stylesheets, navigation, free or very cheap hosting, and other related subjects. We want to see more adventures and dungeons published on the web. Hopefully some of these notes are useful. ✌️
