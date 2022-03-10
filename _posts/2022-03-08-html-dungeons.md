@@ -21,7 +21,7 @@ These are some things we've figured out and/or are playing with right now. We'll
 
 If you are writing in markdown before converting to HTML, your headers should all be assigned unique IDs you can point to with anchor links.
 
-```
+```html
 <h3 id="ervind-oblong-troll-bargeman">Ervind Oblong, Troll Bargeman</h3>
 ```
 
