@@ -1,6 +1,6 @@
 ---
 layout: "note"
-title: "HTML Dungeons"
+title: "HTML Dungeons: Links"
 date: "2022-03-08 20:14"
 categories: notes
 tags: [html, dungeons, design, maps]
@@ -15,7 +15,7 @@ HTML is our second favourite format for adventures. Paper booklets are number on
 
 This post assumes a basic working knowledge of HTML and CSS. If you're new to this your first stops should be [Goblin Archives](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Programs/#markdown) and Nate Treme's [Making an HTML Dungeon](https://www.youtube.com/watch?v=TRZ2w36wJi0&ab_channel=NateTreme).
 
-These are some things we've figured out and/or are playing with right now. We'll use snippets of code from [Swamp Renewal](https://numbered.works/swamp-renewal), our most recent adventure setting.
+These are some things we've figured out and/or are playing with right now. We'll use snippets of code from *[Swamp Renewal](https://numbered.works/swamp-renewal)*, our most recent adventure setting.
 
 ## Hypertext
 
@@ -30,7 +30,7 @@ If you are writing in markdown, when you convert your text to HTML your headers 
 You can then point to these IDs with anchor links:
 
 ```html
-<li>...The golem carries the lumps of peat south, across the bridge to <a href="#1-swamp-port">1. Swamp Port</a>, where it stacks them to dry. ...</li>
+The golem carries the lumps of peat south, across the bridge to <a href="#1-swamp-port">1. Swamp Port</a>, where it stacks them to dry.
 ```
 
 Using [reference links](https://www.markdownguide.org/basic-syntax/#reference-style-links) when you write will keep your markdown readable and avoid repetition.
@@ -45,7 +45,7 @@ And here is the reference we include at the end of our text:
 ```markdown
 [1. Swamp Port]: #1-swamp-port
 ```
-Our final markdown document for Swamp Renewal made heavy use of internal linking and reference links. If you're interested you can [download the .md file at itch.io](https://numbered-works.itch.io/swamp-renewal).
+Our final markdown document for *Swamp Renewal* made heavy use of internal linking and reference links. If you're interested you can [download the .md file at itch.io](https://numbered-works.itch.io/swamp-renewal).
 
 We haven't tried this yet, but we like the idea of weaving our dungeons into the web by linking out to [Wikipedia](https://wikipedia.org) or other relatively [stable](), [open]() [sources]() for visual or background references. We also like the idea of linking to other adventures that exist on the web -- imagine a hex crawl where each hex is linked to a location written by a different author, on a different website.
 
@@ -63,30 +63,6 @@ Safari, the default browser on Macs, iPhones and iPads, does not currently suppo
 
 We find smooth scrolling to be more useful than just a nice piece of visual flair. Seeing the page scroll, rather than abruptly jumping from link to link, helps to keep the reader oriented within the page.
 
-## Keyed Maps
+## Next
 
-Linking maps to room or location descriptions is useful and fun, and it turned out to be trickier than we thought it would be. Web 1.0 style [image maps]() are not [responsive]() and so don't cut it in 2022. We don't think we've arrived at the best solution yet, but here is what we're doing right now.
-
-For our swamp map, we used this responsive image map generator to define the target areas.  
-Using this method you are limited to rectangular target areas on your maps. [Another method uses SVGs](http://thenewcode.com/760/Create-A-Responsive-Imagemap-With-SVG), which allows for any kind of target shape. We'll try that next.
-
-Maps perform multiple functions. For us, the two most important are communicating:
-
-* Environmental and aesthetic flavour. Vibes.
-* Concrete information about the imagined space so players can situate themselves within it and explore.
-
-So we like pretty, expressive maps, and we also like them to be usable and easy to reference. Linking keyed locations to their descriptions makes your maps super useful. You might be able to get away with a more abstract map and have it be very usable at the table with thoughtful internal linking.
-
-## Fixed Sidebar Menu
-
-We like a fixed sidebar menu! It's handy to instantly jump to the information you need in the moment. Once they get long (like the menu in Swamp Renewal) the experience is not quite as elegant, especially on phones. We haven't found a solution that we like yet.
-
-## Hosting
-
-* Github Pages
-* Blot.im
-
-## Print Styles
-
-* That print styles article
-* Bindery.js
+We have some snippets about marking up maps, print stylesheets, navigation, and free or very cheap hosting. We want to see more adventures and dungeons on the web. Hopefully some of these notes are useful.

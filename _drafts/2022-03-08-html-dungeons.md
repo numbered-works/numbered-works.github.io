@@ -15,7 +15,7 @@ HTML is our second favourite format for adventures. Paper booklets are number on
 
 This post assumes a basic working knowledge of HTML and CSS. If you're new to this your first stops should be [Goblin Archives](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Programs/#markdown) and Nate Treme's [Making an HTML Dungeon](https://www.youtube.com/watch?v=TRZ2w36wJi0&ab_channel=NateTreme).
 
-These are some things we've figured out and/or are playing with right now. We'll use snippets of code from [Swamp Renewal](https://numbered.works/swamp-renewal), our most recent adventure setting.
+These are some things we've figured out and/or are playing with right now. We'll use snippets of code from *[Swamp Renewal](https://numbered.works/swamp-renewal)*, our most recent adventure setting.
 
 ## Hypertext
 
@@ -30,7 +30,7 @@ If you are writing in markdown, when you convert your text to HTML your headers 
 You can then point to these IDs with anchor links:
 
 ```html
-<li>...The golem carries the lumps of peat south, across the bridge to <a href="#1-swamp-port">1. Swamp Port</a>, where it stacks them to dry. ...</li>
+The golem carries the lumps of peat south, across the bridge to <a href="#1-swamp-port">1. Swamp Port</a>, where it stacks them to dry.
 ```
 
 Using [reference links](https://www.markdownguide.org/basic-syntax/#reference-style-links) when you write will keep your markdown readable and avoid repetition.
