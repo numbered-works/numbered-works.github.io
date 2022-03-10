@@ -19,13 +19,19 @@ These are some things we've figured out and/or are playing with right now. We'll
 
 [Linking](https://www.w3.org/WhatIs.html) is HTML's killer feature, and it makes sense to link every reference you can in your dungeon, especially if your page is long. Every mention of a location, a random table, a creature, can be linked to its definition within the document.
 
-If you are writing in markdown before converting to HTML, your headers should all be assigned unique IDs you can point to with anchor links.
+If you are writing in markdown, when you convert your text to HTML your headers will probably be assigned unique IDs automatically:
 
 ```html
-<h3 id="ervind-oblong-troll-bargeman">Ervind Oblong, Troll Bargeman</h3>
+<h3 id="1-swamp-port">1. Swamp Port</h3>
 ```
 
-Using [reference links](https://www.markdownguide.org/basic-syntax/#reference-style-links) will keep your markdown readable and avoid repetition.
+You can then point to these IDs with anchor links:
+
+```html
+<li>...The golem carries the lumps of peat south, across the bridge to <a href="#1-swamp-port">1. Swamp Port</a>, where it stacks them to dry. ...</li>
+```
+
+Using [reference links](https://www.markdownguide.org/basic-syntax/#reference-style-links) when you write will keep your markdown readable and avoid repetition.
 
 ```ruby
 require 'redcarpet'
