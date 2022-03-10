@@ -27,16 +27,18 @@ If you are writing in markdown, when you convert your text to HTML your headers 
 
 You can then point to these IDs with anchor links:
 
-`html
+```html
 <li>...The golem carries the lumps of peat south, across the bridge to <a href="#1-swamp-port">1. Swamp Port</a>, where it stacks them to dry. ...</li>
-`
+```
 
 Using [reference links](https://www.markdownguide.org/basic-syntax/#reference-style-links) when you write will keep your markdown readable and avoid repetition.
 
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
+```markdown
+The golem carries the lumps of peat south, across the bridge to [1. Swamp Port], where it stacks them to dry
+```
+
+```markdown
+[1. Swamp Port]: #1-swamp-port
 ```
 
 We haven't tried this yet, but we like the idea of building our dungeons into the web by linking out to [Wikipedia]() or other relatively [stable](), [open]() [sources]() for visual or background references. We also like the idea of linking to other adventures that exist on the web -- imagine a hex crawl where each hex is linked to a location written by a different author, on a different website.
