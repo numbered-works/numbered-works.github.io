@@ -57,7 +57,7 @@ Most browsers will scroll smoothly to anchor links on a page with this simple CS
 html { scroll-behavior: smooth; }
 ```
 
-Here's an example: [Take me to the Hypertext section this post](#hypertext).
+Here's an example: [Take me to the Hypertext section in this post](#hypertext).
 
 Safari, the default browser on Macs, iPhones and iPads, does not currently support smooth scrolling by default. Happily, there is [a very easy to implement plugin](https://jonaskuske.github.io/smoothscroll-anchor-polyfill/) to enable it on your web pages.
 
