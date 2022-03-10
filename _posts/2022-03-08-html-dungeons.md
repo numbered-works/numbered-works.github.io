@@ -33,9 +33,12 @@ You can then point to these IDs with anchor links:
 
 Using [reference links](https://www.markdownguide.org/basic-syntax/#reference-style-links) when you write will keep your markdown readable and avoid repetition.
 
+Here is a reference link as it appears in our text:
+
 ```markdown
 The golem carries the lumps of peat south, across the bridge to [1. Swamp Port], where it stacks them to dry
 ```
+And here is the reference we include at the end of our markdown document:
 
 ```markdown
 [1. Swamp Port]: #1-swamp-port
