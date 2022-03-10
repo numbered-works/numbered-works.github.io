@@ -9,7 +9,7 @@ sitemap:
   exclude: 'yes'
 ---
 
-This will be the first in a series of posts as we muddle our way through publishing adventures as HTML. Today we will talk about linking.
+This is the first in a series of posts as we muddle our way through publishing adventures as HTML. Today we will talk about *H Y P E R T E X T*.
 
 HTML is our second favourite format for adventures. Paper booklets are number one: they're a superior technology for quickly navigating through a document, we enjoy the tactile aspects of gaming (rolling dice, pencils, erasers, books), and we prefer to keep glowing rectangles away from the table whenever possible. But for convenience, accessibility, ease of publishing, and adaptability, HTML is hard to beat. It's cool to be able to run an adventure for a bunch of friends from your phone.
 
@@ -35,18 +35,19 @@ You can then point to these IDs with anchor links:
 
 Using [reference links](https://www.markdownguide.org/basic-syntax/#reference-style-links) when you write will keep your markdown readable and avoid repetition.
 
-Here is a reference link as it appears in our text:
+Here is a reference link as it appears in our markdown document:
 
 ```markdown
 The golem carries the lumps of peat south, across the bridge to [1. Swamp Port], where it stacks them to dry
 ```
-And here is the reference we include at the end of our markdown document:
+And here is the reference we include at the end of our text:
 
 ```markdown
 [1. Swamp Port]: #1-swamp-port
 ```
+Our final markdown document for Swamp Renewal made heavy use of internal linking and reference links. If you're interested you can [download the .md file at itch.io](https://numbered-works.itch.io/swamp-renewal).
 
-We haven't tried this yet, but we like the idea of building our dungeons into the web by linking out to [Wikipedia]() or other relatively [stable](), [open]() [sources]() for visual or background references. We also like the idea of linking to other adventures that exist on the web -- imagine a hex crawl where each hex is linked to a location written by a different author, on a different website.
+We haven't tried this yet, but we like the idea of weaving our dungeons into the web by linking out to [Wikipedia](https://wikipedia.org) or other relatively [stable](), [open]() [sources]() for visual or background references. We also like the idea of linking to other adventures that exist on the web -- imagine a hex crawl where each hex is linked to a location written by a different author, on a different website.
 
 ## Smooth Scrolling
 
