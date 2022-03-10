@@ -45,6 +45,9 @@ And here is the reference we include at the end of our text:
 ```markdown
 [1. Swamp Port]: #1-swamp-port
 ```
+
+This is the alternative inline link. Ew, look how messy it is!
+
 Our final markdown document for *Swamp Renewal* makes heavy use of internal linking and reference links. If you're interested you can [download the .md file at itch.io](https://numbered-works.itch.io/swamp-renewal).
 
 We haven't tried this yet, but we like the idea of weaving our dungeons into the web by linking out to [Wikipedia](https://en.wikipedia.org/wiki/Great_Stink) and other relatively [stable](https://www.ubu.com/film/schwartz-lillian_ufo.html), [open](https://www.gutenberg.org/files/16269/16269-h/16269-h.htm) [sources](https://search.museumplantinmoretus.be/details/collect/390061) for visual or background references. We also like the idea of linking to [other adventures](https://www.dungeonresearch.com/barrow-of-the-elf-king) that exist on the web -- a distributed megadungeon. Or a hex crawl where each hex is linked to a location written by a different author, on a different website.
@@ -65,4 +68,4 @@ We find smooth scrolling to be more useful than just a nice piece of visual flai
 
 ## Also
 
-We have some notes and ideas to share about publishing online. We want to see more adventures and dungeons on the open web. Hopefully some of these notes are useful. ✌️
+We have more notes and ideas to share about publishing online. We want to see more adventures and dungeons on the open web. Hopefully some of these notes are useful. ✌️
