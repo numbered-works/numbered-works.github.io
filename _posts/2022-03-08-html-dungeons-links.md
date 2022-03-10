@@ -11,9 +11,9 @@ sitemap:
 
 This is the first in a series of posts as we muddle our way through publishing adventures as HTML. Today we will talk about *H Y P E R T E X T*.
 
-HTML is our second favourite format for adventures. Paper booklets are number one: they're a superior technology for quickly navigating through a document, we enjoy the tactile aspects of gaming (rolling dice, pencils, erasers, books), and we prefer to keep glowing rectangles away from the table whenever possible. But for convenience, accessibility, ease of publishing, and adaptability, HTML is hard to beat. It's cool to be able to run an adventure for a bunch of friends from your phone.
+HTML is our second favourite format for adventures. Paper booklets are number one: they're a superior technology for quickly navigating through a document, we enjoy the tactile aspects of gaming (rolling dice, pencils, erasers, books), and we prefer to keep glowing rectangles away from the table whenever possible. But for convenience, accessibility, ease of publishing, and adaptability, HTML is hard to beat. And it's cool to be able to run an adventure for a bunch of friends from your phone.
 
-This post assumes a basic working knowledge of HTML and CSS. If you're new to this your first stops should be [Goblin Archives](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Programs/#markdown) and Nate Treme's [Making an HTML Dungeon](https://www.youtube.com/watch?v=TRZ2w36wJi0&ab_channel=NateTreme).
+This post assumes a basic working knowledge of HTML and CSS. Teaching web design is above our pay grade and there are too many great, free resources available online to list here. But for guides specific to adventure authoring we recommend Goblin Archives' [Annotated Archive of Game Design Resources](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Programs/#markdown), Nate Treme's [Making an HTML Dungeon](https://www.youtube.com/watch?v=TRZ2w36wJi0&ab_channel=NateTreme), and Luke Gearing's [Using Markdown and Pandoc to Make RPG Documents for Free](https://lukegearing.blot.im/using-markdown-and-pandoc-to-make-rpg-documents-for-free).
 
 These are some things we've figured out and/or are playing with right now. We'll use snippets of code from *[Swamp Renewal](https://numbered.works/swamp-renewal)*, our most recent adventure setting.
 
@@ -47,7 +47,7 @@ And here is the reference we include at the end of our text:
 ```
 Our final markdown document for *Swamp Renewal* made heavy use of internal linking and reference links. If you're interested you can [download the .md file at itch.io](https://numbered-works.itch.io/swamp-renewal).
 
-We haven't tried this yet, but we like the idea of weaving our dungeons into the web by linking out to [Wikipedia](https://wikipedia.org) or other relatively [stable](), [open]() [sources]() for visual or background references. We also like the idea of linking to other adventures that exist on the web -- a distributed megadungeon. Or a hex crawl where each hex is linked to a location written by a different author, on a different website.
+We haven't tried this yet, but we like the idea of weaving our dungeons into the web by linking out to [Wikipedia](https://wikipedia.org) and other relatively [stable](), [open]() [sources]() for visual or background references. We also like the idea of linking to other adventures that exist on the web -- a distributed megadungeon. Or a hex crawl where each hex is linked to a location written by a different author, on a different website.
 
 ## Smooth Scrolling
 
@@ -65,4 +65,4 @@ We find smooth scrolling to be more useful than just a nice piece of visual flai
 
 ## Next
 
-We have some snippets about marking up maps, print stylesheets, navigation, and free or very cheap hosting. We want to see more adventures and dungeons published on the web. Hopefully some of these notes are useful.
+We have some notes and ideas about marking up maps, print stylesheets, navigation, free or very cheap hosting, and other related subjects. We want to see more adventures and dungeons published on the web. Hopefully some of these notes are useful.
