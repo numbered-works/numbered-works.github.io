@@ -48,11 +48,13 @@ We haven't tried this yet, but we like the idea of building our dungeons into th
 
 ## Smooth Scrolling
 
-Most browsers will scroll smoothly between anchor links on a page with the simple CSS declaration:
+Most browsers will scroll smoothly to anchor links on a page with this simple CSS declaration:
 
 ```css
 html { scroll-behavior: smooth; }
 ```
+
+Here's an example: [Take me to the top of this post](#html-dungeons).
 
 Safari, the default browser on Macs, iPhones and iPads, does not currently support smooth scrolling by default. Happily, there is [a very easy to implement plugin](https://jonaskuske.github.io/smoothscroll-anchor-polyfill/) to enable it on your web pages.
 
