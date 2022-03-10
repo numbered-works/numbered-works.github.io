@@ -13,7 +13,7 @@ HTML is our second favourite format for adventures. Paper booklets are number on
 
 This post assumes a basic working knowledge of writing HTML and CSS. Teaching web design is above our pay grade and there are too many great, free resources available online to list here. But for guides specific to adventure authoring we recommend Goblin Archives' [Annotated Archive of Game Design Resources](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Programs/#markdown), Nate Treme's [Making an HTML Dungeon](https://www.youtube.com/watch?v=TRZ2w36wJi0&ab_channel=NateTreme), and Luke Gearing's [Using Markdown and Pandoc to Make RPG Documents for Free](https://lukegearing.blot.im/using-markdown-and-pandoc-to-make-rpg-documents-for-free).
 
-These are some things we've figured out or are playing with right now. We'll use snippets of code from *[Swamp Renewal](https://numbered.works/swamp-renewal)*, our most recent adventure setting.
+These are some things we've figured out or are playing with right now. We'll use snippets of code from *[Swamp Renewal](https://numbered.works/swamp-renewal)* as examples.
 
 ## Hypertext
 
@@ -45,8 +45,6 @@ And here is the reference we include at the end of our text:
 ```markdown
 [1. Swamp Port]: #1-swamp-port
 ```
-
-This is the alternative inline link. Ew, look how messy it is!
 
 Our final markdown document for *Swamp Renewal* makes heavy use of internal linking and reference links. If you're interested you can [download the .md file at itch.io](https://numbered-works.itch.io/swamp-renewal).
 
