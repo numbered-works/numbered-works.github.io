@@ -27,7 +27,7 @@ If you are writing in markdown, when you convert your text to HTML your headers 
 <h3 id="1-swamp-port">1. Swamp Port</h3>
 ```
 
-You can then point to these IDs with anchor links:
+You can point to these IDs with anchor links:
 
 ```html
 The golem carries the lumps of peat south, across the bridge to <a href="#1-swamp-port">1. Swamp Port</a>, where it stacks them to dry.
