@@ -5,8 +5,6 @@ date: "2022-03-08 20:14"
 categories: notes
 tags: [html, dungeons, design, maps]
 type: long
-sitemap:
-  exclude: 'yes'
 ---
 
 This is the first in a series of posts as we muddle our way through publishing adventures as HTML. Today we will talk about *H&nbsp;Y&nbsp;P&nbsp;E&nbsp;R&nbsp;T&nbsp;E&nbsp;X&nbsp;T*.
