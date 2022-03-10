@@ -35,7 +35,7 @@ The golem carries the lumps of peat south, across the bridge to <a href="#1-swam
 
 Using [reference links](https://www.markdownguide.org/basic-syntax/#reference-style-links) when you write will keep your markdown readable and avoid repetition.
 
-Here is the above reference link as it appears in our markdown document:
+Here is the above link as written in our markdown document:
 
 ```markdown
 The golem carries the lumps of peat south, across the bridge to [1. Swamp Port], where it stacks them to dry
