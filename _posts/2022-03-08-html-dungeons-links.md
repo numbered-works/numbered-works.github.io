@@ -9,7 +9,7 @@ sitemap:
   exclude: 'yes'
 ---
 
-This is the first in a series of posts as we muddle our way through publishing adventures as HTML. Today we will talk about *H Y P E R T E X T*.
+This is the first in a series of posts as we muddle our way through publishing adventures as HTML. Today we will talk about *H&nbsp;Y&nbsp;P&nbsp;E&nbsp;R&nbsp;T&nbsp;E&nbsp;X&nbsp;T*.
 
 HTML is our second favourite format for adventures. Paper booklets are number one: they're a superior technology for quickly navigating through a document, we enjoy the tactile aspects of gaming (rolling dice, pencils, erasers, books), and we prefer to keep glowing rectangles away from the table whenever possible. But for convenience, accessibility, ease of publishing, and adaptability, HTML is hard to beat. And it's cool to be able to run an adventure for a bunch of friends from your phone.
 
