@@ -47,7 +47,7 @@ And here is the reference we include at the end of our text:
 ```
 Our final markdown document for *Swamp Renewal* made heavy use of internal linking and reference links. If you're interested you can [download the .md file at itch.io](https://numbered-works.itch.io/swamp-renewal).
 
-We haven't tried this yet, but we like the idea of weaving our dungeons into the web by linking out to [Wikipedia](https://wikipedia.org) or other relatively [stable](), [open]() [sources]() for visual or background references. We also like the idea of linking to other adventures that exist on the web -- imagine a hex crawl where each hex is linked to a location written by a different author, on a different website.
+We haven't tried this yet, but we like the idea of weaving our dungeons into the web by linking out to [Wikipedia](https://wikipedia.org) or other relatively [stable](), [open]() [sources]() for visual or background references. We also like the idea of linking to other adventures that exist on the web -- a distributed megadungeon. Or a hex crawl where each hex is linked to a location written by a different author, on a different website.
 
 ## Smooth Scrolling
 
