@@ -1,7 +1,7 @@
 ---
 layout: "note"
 title: "HTML Dungeons: Links"
-date: "2022-03-08 20:14"
+date: "2022-03-10 20:14"
 categories: notes
 tags: [html, dungeons, design, maps]
 type: long
@@ -48,7 +48,7 @@ And here is the reference we include at the end of our text:
 
 Our final markdown document for *Swamp Renewal* makes heavy use of internal linking and reference links. If you're interested you can [download the .md file at itch.io](https://numbered-works.itch.io/swamp-renewal).
 
-We haven't tried this yet, but we like the idea of weaving our dungeons into the web by linking out to [Wikipedia](https://en.wikipedia.org/wiki/Great_Stink) and other relatively [stable](https://www.ubu.com/film/schwartz-lillian_ufo.html), [open](https://www.gutenberg.org/files/16269/16269-h/16269-h.htm) [sources](https://search.museumplantinmoretus.be/details/collect/390061) for visual or background references. We also like the idea of linking to [other adventures](https://www.dungeonresearch.com/barrow-of-the-elf-king) that exist on the web -- a distributed megadungeon. Or a hex crawl where each hex is linked to a location written by a different author, on a different website.
+We haven't tried this yet, but we like the idea of weaving our dungeons into the web by linking out to sites like [Wikipedia](https://en.wikipedia.org/wiki/Great_Stink) and other relatively [stable](https://www.ubu.com/film/schwartz-lillian_ufo.html), [open](https://www.gutenberg.org/files/16269/16269-h/16269-h.htm) [sources](https://search.museumplantinmoretus.be/details/collect/390061) for visual or background references. We also like the idea of linking to [other adventures](https://www.dungeonresearch.com/barrow-of-the-elf-king) that exist on the web -- a distributed megadungeon. Or a hex crawl where each hex is linked to a location written by a different author, on a different website.
 
 ## Smooth Scrolling
 
@@ -66,4 +66,4 @@ We find smooth scrolling to be more useful than just a nice piece of visual flai
 
 ## Also
 
-We want to see more adventures and dungeons on the open web and more experiments. We have notes about print stylesheets, marking up maps, navigation menus, and hosting. Let's see how we go.
+We want to see more adventures and dungeons on the open web and more experiments. We have more scribbled notes about print stylesheets, marking up maps, navigation menus, and hosting. Let's see how we go.
