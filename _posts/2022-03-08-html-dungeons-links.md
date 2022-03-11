@@ -66,4 +66,4 @@ We find smooth scrolling to be more useful than just a nice piece of visual flai
 
 ## Also
 
-We want to see more adventures and dungeons on the open web. Hopefully some of these notes are useful. ✌️
+We want to see more adventures and dungeons on the open web and more experiments. We have notes about print stylesheets, marking up maps, menus, and hosting.

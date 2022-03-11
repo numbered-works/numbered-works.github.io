@@ -35,7 +35,7 @@
 {% if page.title %}
 <meta name="twitter:title" content="{{ page.title }} &mdash; {{ site.title }}">
 <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.content | strip_html | strip_newlines | truncate: 180 }}{% endif %}"/>
-<meta name="twitter:card" content="summary" />
+<meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:image" content="{% if page.image %}{{ page.image }}{% else %}https://numbered.works/sally-port-farm/images/meta.jpg{% endif %}" />
 {% else %}
 <meta name="twitter:title" content="{{ site.title }}">
