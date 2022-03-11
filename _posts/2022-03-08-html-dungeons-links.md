@@ -7,7 +7,7 @@ tags: [html, dungeons, design, maps]
 type: long
 ---
 
-This is the first in a series of posts as we muddle our way through publishing adventures as web pages. Today we will talk about *H&nbsp;Y&nbsp;P&nbsp;E&nbsp;R&nbsp;T&nbsp;E&nbsp;X&nbsp;T*.
+This is the first in a probable series of posts as we muddle our way through publishing adventures as web pages. Today we will talk about *H&nbsp;Y&nbsp;P&nbsp;E&nbsp;R&nbsp;T&nbsp;E&nbsp;X&nbsp;T*.
 
 A web page is our second favourite format for adventures. Paper booklets are number one: they're a superior technology for quickly navigating through a document, we enjoy the tactile aspects of gaming (rolling dice, pencils, erasers, books), and we prefer to keep glowing rectangles away from the table whenever possible. But for convenience, accessibility, ease of publishing, and adaptability, HTML is hard to beat. It's cool to be able to run an adventure for a bunch of friends from your phone.
 
@@ -66,4 +66,4 @@ We find smooth scrolling to be more useful than just a nice piece of visual flai
 
 ## Also
 
-We want to see more adventures and dungeons on the open web and more experiments. We have notes about print stylesheets, marking up maps, menus, and hosting.
+We want to see more adventures and dungeons on the open web and more experiments. We have notes about print stylesheets, marking up maps, navigation menus, and hosting. Let's see how we go.
