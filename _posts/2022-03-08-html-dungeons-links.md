@@ -12,6 +12,7 @@ This is the first in a series of posts as we muddle our way through publishing a
 HTML is our second favourite format for adventures. Paper booklets are number one: they're a superior technology for quickly navigating through a document, we enjoy the tactile aspects of gaming (rolling dice, pencils, erasers, books), and we prefer to keep glowing rectangles away from the table whenever possible. But for convenience, accessibility, ease of publishing, and adaptability, HTML is hard to beat. It's cool to be able to run an adventure for a bunch of friends from your phone.
 
 This post assumes a basic working knowledge of writing HTML and CSS. Teaching web design is above our pay grade and there are too many great, free resources available online to list here. But for guides specific to adventure authoring we recommend Goblin Archives' [Annotated Archive of Game Design Resources](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Programs/#markdown), Nate Treme's [Making an HTML Dungeon](https://www.youtube.com/watch?v=TRZ2w36wJi0&ab_channel=NateTreme), and Luke Gearing's [Using Markdown and Pandoc to Make RPG Documents for Free](https://lukegearing.blot.im/using-markdown-and-pandoc-to-make-rpg-documents-for-free).
+
 Here's a couple things we've figured out or are playing with right now. We'll use snippets of code from *[Swamp Renewal](https://numbered.works/swamp-renewal)* as examples.
 
 ## Hypertext
