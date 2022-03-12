@@ -60,9 +60,9 @@ Each link is an [absolutely positioned](https://www.w3schools.com/css/css_positi
 
 ![Swamp Renewal map with an overlay showing link target areas](https://numbered.works/notes/images/swamp-map-links.jpg)
 
-We used [this responsive image map generator](https://zaneray.com/responsive-image-map/) to define our target areas. It doesn't give us the exact code we want, but it does provide the most important thing: those location and size percentages for our target areas. There might be a better tool for this job but we haven't found it (or made it) yet.
+We used [this responsive image map generator](https://zaneray.com/responsive-image-map/) to define our target areas. It doesn't give us the exact code we want, but it does provide the most important information: those location and size percentages for our target areas. There might be a better tool for this job but we haven't found it (or made it) yet.
 
-Using this method you are limited to rectangular target areas on your maps. You could also use SVGs to create an image map, which allows for any kind of target shape:
+Using this method you are limited to rectangular target areas on your maps. You could instead use SVGs to create an image map, which allows for any kind of target shape:
 
 * [Create responsive SVG image maps](https://www.creativebloq.com/netmag/create-responsive-svg-image-maps-51411831)
 * [Hyperlinks/Anchors Inside SVG Graphics](https://alligator.io/svg/hyperlinks-svg/)
