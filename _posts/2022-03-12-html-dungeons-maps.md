@@ -4,6 +4,7 @@ title: "HTML Dungeons: Maps"
 date: "2022-03-12 11:12"
 categories: "notes"
 tags: [html, dungeons, design, maps]
+image: "https://numbered.works/notes/images/swamp-map-links.jpg"
 type: long
 ---
 
