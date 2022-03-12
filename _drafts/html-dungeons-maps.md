@@ -7,14 +7,14 @@ tags: [html, dungeons, design, maps]
 type: long
 ---
 
-Maps perform multiple functions. For us, the two most important are communicating:
+Adventure maps perform multiple functions. For us, the two most important are communicating:
 
 * Environmental and aesthetic flavour. Vibes.
-* Concrete information about the imagined space so players can situate themselves within it and explore.
+* Concrete information about the imagined space so referees can give clear descriptions, and players can situate themselves and explore with confidence.
 
-So we like pretty, expressive maps, and we also like them to be usable and easy to reference. Linking keyed locations to their descriptions helps with these goals. And clickable/tappable maps are just fun, too.
+So we like pretty, expressive maps, and we also like them to be usable and easy to reference. Linking keyed locations to their descriptions helps with these goals. And clickable/tappable maps are just fun to use, too.
 
-Linking maps to room or location descriptions turned out to be trickier than we thought it would be. Web 1.0 style [image maps](https://www.w3schools.com/html/html_images_imagemap.asp) are not [responsive](https://www.w3schools.com/html/html_responsive.asp) and so don't cut it in 2022. We don't think we've arrived at the best solution yet, but here is what we're doing right now, and it works.
+Linking a map to room or location descriptions turned out to be trickier than we thought it would be. Web 1.0 style [image maps](https://www.w3schools.com/html/html_images_imagemap.asp) are not [responsive](https://www.w3schools.com/html/html_responsive.asp) and so don't cut it in 2022. We don't think we've arrived at the best solution yet, but here is what we're doing right now, and it works.
 
 Here's how we marked up the map from *[Swamp Renewal](https://numbered.works/swamp-renewal)*:
 
@@ -55,13 +55,18 @@ Here is the CSS for our linked map:
 .campsite { left: 63.05%; top: 66.8%; width: 19.76%; height: 12.77%;  }
 .oblongs { left: 18.12%; top: 79.74%; width: 11.06%; height: 14.91%; }
 ```
+Each link is an [absolutely positioned](https://www.w3schools.com/css/css_positioning.asp) rectangular box defined by percentages. That's what makes them scalable and responsive. They're invisible, but if you could see them, they'd look like this on our map:
 
-For our swamp map, we used this responsive image map generator to define the target areas.
+![Swamp Renewal map with an overlay showing link target areas](https://numbered.works/notes/images/swamp-map-links.jpg)
 
-Using this method you are limited to rectangular target areas on your maps. You can also use SVGs to create an image map, which allows for any kind of target shape:
+We used [this responsive image map generator](https://zaneray.com/responsive-image-map/) to define our target areas. It doesn't give us the exact code we want, but it does provide the most important thing: those location and size percentages for our target areas. There might be a better tool for this job but we haven't found it (or made it) yet.
+
+Using this method you are limited to rectangular target areas on your maps. You could also use SVGs to create an image map, which allows for any kind of target shape:
 
 * [Create responsive SVG image maps](https://www.creativebloq.com/netmag/create-responsive-svg-image-maps-51411831)
 * [Hyperlinks/Anchors Inside SVG Graphics](https://alligator.io/svg/hyperlinks-svg/)
 * [Create A Responsive Imagemap With SVG](http://thenewcode.com/760/Create-A-Responsive-Imagemap-With-SVG)
 
 We'll try that next.
+
+One last thing: We just added a tiny, persistent reference map to the fixed sidebar on *[Swamp Renewal](https://numbered.works/swamp-renewal)*. We love it, we hope other people do it too.
