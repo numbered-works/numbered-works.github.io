@@ -84,6 +84,7 @@ We like a fixed sidebar menu! It's handy to instantly jump to the information yo
 
 * Github Pages
 * Blot.im
+* neocities.org
 
 ## Print Styles
 
