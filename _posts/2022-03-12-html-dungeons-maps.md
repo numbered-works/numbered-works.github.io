@@ -71,3 +71,5 @@ Using this method you are limited to rectangular target areas on your maps. You 
 We'll try that next.
 
 One last thing: We just added a tiny, persistent reference map to the fixed sidebar on *[Swamp Renewal](https://numbered.works/swamp-renewal)*. We love it, we hope other people do it too.
+
+Previously: [HTML Dungeons: Links](https://numbered.works/notes/html-dungeons-links/)
