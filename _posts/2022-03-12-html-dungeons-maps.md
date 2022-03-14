@@ -35,7 +35,9 @@ This is how we marked up the map from *[Swamp Renewal](https://numbered.works/sw
 </div>
 ```
 
-It's a div containing a series of [anchor links](https://numbered.works/notes/html-dungeons-links/) that point to location descriptions. At the end of the list is our map image. Note that each link includes a `title` attribute. This text will appear as a tooltip if the user hovers their mouse over the link target area.
+It's a div containing a series of [anchor links](https://numbered.works/notes/html-dungeons-links/) that point to location descriptions. At the end of the list is our map image.
+
+Note that each link includes a `title` and `class` attribute. The `title` value will appear as a tooltip if the user hovers their mouse over the link target area. We use the `class` value to reference the link in our CSS, so we can define each link's size and location on our map.
 
 Here is the CSS for our linked map:
 
