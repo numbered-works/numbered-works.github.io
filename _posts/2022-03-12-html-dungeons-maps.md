@@ -17,7 +17,7 @@ So we like pretty, expressive maps, and we also like them to be usable and easy 
 
 Linking a map to room or location descriptions turned out to be trickier than we thought it would be. Web 1.0 style [image maps](https://www.w3schools.com/html/html_images_imagemap.asp) are not [responsive](https://www.w3schools.com/html/html_responsive.asp) and so don't cut it in 2022. We don't think we've arrived at the best solution yet, but here is what we're doing right now, and it works.
 
-Here's how we marked up the map from *[Swamp Renewal](https://numbered.works/swamp-renewal)*:
+This is how we marked up the map from *[Swamp Renewal](https://numbered.works/swamp-renewal)*:
 
 ```html
 <div id="map">
