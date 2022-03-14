@@ -9,9 +9,10 @@ permalink: /about/
 Numbered Works is making adventures, games, art, toys, music, objects.
 
 * Our PDFs are available to download from [itch.io](https://numbered-works.itch.io).
-* We tweet at [@numberedworks](https://twitter.com/numberedworks).
+* We share [notes and links on this site](https://numbered.works/).
+* We also tweet at [@numberedworks](https://twitter.com/numberedworks).
 * You can email us at [numberedworks@gmail.com](mailto:numberedworks@gmail.com).
-<!-- * You can subscribe to updates using [RSS](https://numbered.works/feed.xml) or [JSON](https://numbered.works/feed.json). -->
+* You can subscribe to updates using [RSS](https://numbered.works/feed.xml) or [JSON](https://numbered.works/feed.json).
 
 
 Based in Awabakal Country, Australia. We acknowledge the Traditional Owners and Custodians of the lands on which we live, and pay our respects to Indigenous Elders past, present and emerging. Sovereignty has never been ceded. Always was, always will be, Aboriginal land.
