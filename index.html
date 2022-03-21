@@ -69,6 +69,21 @@ h2 span.key{ display: inline-block; width: 60px; line-height: 60px; border-radiu
 h2.soon { color: #ccc; }
 h2.soon span.key { background-color: #ccc; }
 
+a.logo {
+  display: block;
+  max-width: 90%;
+  margin: 0 auto;
+  height: 0;
+  padding-top: 100%;
+  position: relative;
+}
+
+a.logo img {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
 @media screen and (max-width: 700px) {
   header { width: 100%; height: auto; position: relative; text-align: center; }
   header nav { text-align:center; margin: 0 16px; }
@@ -98,6 +113,8 @@ h2.soon span.key { background-color: #ccc; }
 <div class="page">
 
 <header>
+<div class="logo-container">
+
 <a class="logo" href="#top"><img src="assets/img/numbered-works-circle.svg" Alt="Numbered Works Logo"></a>
 <!--
 <nav>
