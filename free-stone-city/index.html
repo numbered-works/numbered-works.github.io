@@ -84,6 +84,22 @@ article { margin-left: 240px; padding: 1px 16px; max-width: 800px; height: 1000p
 .numberedworks .logo a:hover {background-color: transparent; border-bottom: none; }
 .numberedworks .details p { margin-top : 0; flex: 1; }
 
+.svg-container {
+	display: inline-block;
+	position: relative;
+	width: 100%;
+	padding-bottom: 100%;
+	vertical-align: middle;
+	overflow: hidden;
+}
+
+.svg-content {
+	display: inline-block;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
 @media screen and (max-width: 700px) {
   header { width: 100%; height: auto; position: relative; text-align: center; }
   header nav { text-align:center; margin: 0 16px; }
@@ -157,7 +173,8 @@ article { margin-left: 240px; padding: 1px 16px; max-width: 800px; height: 1000p
 
 <h2 id="map">MAP</h2>
 
-<svg viewBox="0 0 3171 1761" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<div class="svg-container">
+<svg viewBox="0 0 3171 1761" preserveAspectRatio="xMinYMin meet" class="svg-content">
  <image x="1.20754" y="4.83016" width="3171" height="1761" preserveAspectRatio="none" xlink:href="https://numbered.works/free-stone-city/images/map.jpg"/>
  <g fill-opacity="0">
   <a href="#1-hut"><title>Hut</title><path d="m112.301 1345.2 161.81 400.903 88.1504 1.2076 318.791-88.1505-77.2826-502.337-283.772 78.4901-3.62262-137.66-84.5278 3.6227 3.62262 149.735-120.754 2.4151z"/></a>
@@ -176,6 +193,7 @@ article { margin-left: 240px; padding: 1px 16px; max-width: 800px; height: 1000p
   </a>
  </g>
 </svg>
+</div>
 
 <h3 id="1-hut">1. HUT</h3>
 
