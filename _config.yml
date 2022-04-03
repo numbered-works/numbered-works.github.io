@@ -42,8 +42,8 @@ paginate_path: "notes/page:num/"
 
 gems: [jekyll-paginate]
 
-plugins:
-  - jekyll-redirect-from
+# plugins:
+#   - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default.
