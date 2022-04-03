@@ -1,0 +1,12 @@
+<svg version="1.1" viewBox="0 0 874 1240" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <image width="874" height="1240" preserveAspectRatio="none" xlink:href="../../../github/numbered-works/too-many-goat/images/npcs.jpg"/>
+ <g fill-opacity="0">
+  <path d="m457.024 1171.02 182.809 1.7246 167.288-120.723-3.44923-81.057-82.7816 3.44923-20.6954-293.185-294.91 3.44924 8.62309 163.839 29.3185 36.217-60.3616 160.389z"/>
+  <path d="m82.7816 1103.76h187.983l3.44924-250.07 34.4924-41.3908-3.44924-134.52-65.5355 1.72461-27.5939-77.6078h-74.1586l-29.3185 68.9847-70.7093-1.72462-1.72462 167.288 32.7677 24.1446z"/>
+  <path d="m319.054 776.078v74.1586l-32.7677 22.42-1.72462 100.028h117.274l29.3185-87.9555-36.217-60.3616-5.17385-50.0139z"/>
+  <path d="m515.661 251.794 289.736 3.44923-29.3185 341.474-58.637 68.9847-118.999 1.72462-68.9847-146.592z"/>
+  <path d="m338.025 253.519-122.448 122.448-110.376 5.17385 1.72462 144.868 141.419 6.89848 8.62309 141.419 174.186-1.72462 8.62309-100.028 65.5355-1.72462 1.72462-179.36-48.2893 1.72462-37.9416-70.7093z"/>
+  <path d="m113.825 62.0862 463.922 6.89847 68.9847 77.6078v68.9847l-60.3616 1.72462-53.4631 25.8693-282.837 5.17385-25.8693-44.84-112.1-13.7969z"/>
+ </g>
+</svg>
+WARNING: Could not open file '../../../github/numbered-works/too-many-goat/images/npcs.jpg' for embedding. The raster image will be kept as a reference but might be invalid. (Exception details: <urlopen error [WinError 3] The system cannot find the path specified: '..\\..\\..\\github\\numbered-works\\too-many-goat\\images\\npcs.jpg'>)
