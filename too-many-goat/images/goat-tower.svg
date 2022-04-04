@@ -1,5 +1,5 @@
 <svg version="1.1" viewBox="0 0 1601 3508" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <image width="1601" height="3508" preserveAspectRatio="none" xlink:href="../../../github/numbered-works/too-many-goat/images/goat-tower.jpg"/>
+ <image width="1601" height="3508" preserveAspectRatio="none" xlink:href="https://numbered.works/too-many-goat/images/goat-tower.jpg"/>
  <g fill-opacity="0">
   <path d="m632.369 2283.37s-43.7605-255.773 122.568-256.137c202.74-0.4432 147.65 249.928 147.65 249.928z"/>
   <path d="m632.519 1806.44s-43.7605-255.773 122.568-256.137c202.74-0.4432 147.65 249.928 147.65 249.928z"/>
@@ -8,4 +8,3 @@
   <path d="m775.761 458.626 400.078 334.211s53.669 243.95-407.396 246.389c-461.065 2.4395-412.275-243.95-412.275-243.95z"/>
  </g>
 </svg>
-WARNING: Could not open file '../../../github/numbered-works/too-many-goat/images/goat-tower.jpg' for embedding. The raster image will be kept as a reference but might be invalid. (Exception details: <urlopen error [WinError 3] The system cannot find the path specified: '..\\..\\..\\github\\numbered-works\\too-many-goat\\images\\goat-tower.jpg'>)
