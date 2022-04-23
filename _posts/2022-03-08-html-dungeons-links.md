@@ -13,7 +13,7 @@ A web page is our second favourite format for publishing and using RPG adventure
 
 This post assumes a basic working knowledge of writing HTML and CSS. Teaching web design is beyond us and there are too many excellent, free resources available online to list here.  Laurel Schwulst's [Basics of HTML](https://www.youtube.com/watch?v=CkzbI1Tv_rQ&t=104s) and [Basics of CSS](https://www.youtube.com/watch?v=BUZIaTHm_oE) are great introductions. For information specific to adventure authoring we recommend Goblin Archives' [Annotated Archive of Game Design Resources](https://goblinarchives.github.io/LiminalHorror/Game%20Design/Programs/#markdown), Nate Treme's [Making an HTML Dungeon](https://www.youtube.com/watch?v=TRZ2w36wJi0&ab_channel=NateTreme), James Chip's [Creating ePub and html content for ttrpg designers](https://jameschip.itch.io/html-and-epub-ttrpg-creation), and Luke Gearing's [Using Markdown and Pandoc to Make RPG Documents for Free](https://lukegearing.blot.im/using-markdown-and-pandoc-to-make-rpg-documents-for-free).
 
-Here's a couple things we've figured out or are playing with right now. We'll use snippets of code from *[Swamp Renewal](https://numbered.works/swamp-renewal)* as examples.
+Here's a couple things we've figured out or are playing with right now. We'll use snippets of code from *[Swamp Renewal](https://numbered.works/swamp-renewal/)* as examples.
 
 ## Hypertext
 
