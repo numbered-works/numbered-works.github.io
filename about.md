@@ -2,6 +2,7 @@
 layout: default
 title: About
 permalink: /about/
+description: Numbered Works is making adventures, games, art, toys, music, objects.
 ---
 
 # About
