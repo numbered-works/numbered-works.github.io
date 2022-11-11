@@ -342,7 +342,7 @@ Numbered Works, No. 5. February 2022. Version 1.1. Thank you to swamp explorers 
 
 [Ervind Oblong]: #ervind-oblong-troll-bargeman
 [Grezell Berch]: #grezell-berch-human-wizard
-[Verna]: #verna-lizardfolk-druids
+[Verna]: #verna-lizardfolk-druid
 [Guthrie]: #guthrie-elf-wanderer
 
 [Golems]: #golems
