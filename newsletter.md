@@ -7,7 +7,9 @@ description: Get notified when we make something new. We might share some links 
 
 # No News
 
-Get notified when we make something new, or if we feel like sharing something. Emails from us will be very rare. Might not even happen. Let's see.
+Get notified when we make something new, or if we feel like sharing something. Emails from us will be very rare. Might not even happen.
+
+Let's see.
 
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/numberedworks"
@@ -20,4 +22,4 @@ Get notified when we make something new, or if we feel like sharing something. E
   <input type="submit" value="Subscribe" />
 </form>
 
-We'll never share your info with anybody. We use [Buttondown](https://buttondown.email/) to send bulk emails.
+We use [Buttondown](https://buttondown.email/) to send bulk emails. We'll never share your info with anybody. 
