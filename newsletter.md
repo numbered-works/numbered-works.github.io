@@ -5,6 +5,8 @@ permalink: /newsletter/
 description: Get notified when we make something new. We might share some links too.
 ---
 
+# No News
+
 Get notified when we make something new. We might share some links too.
 
 <form
@@ -17,3 +19,5 @@ Get notified when we make something new. We might share some links too.
   <input type="email" name="email" id="bd-email" />
   <input type="submit" value="Subscribe" />
 </form>
+
+We'll never share your info with anybody.
