@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+html { font: 21px/28px 'Computer Modern Typewriter', Courier, "Courier New", monospace; }
+
+
+.overlay {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #ff665e;
+  overflow-x: hidden;
+  transition: 0.5s;
+}
+
+.overlay-content {
+  position: relative;
+  top: 25%;
+  width: 100%;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.overlay a {
+  padding: 8px;
+  text-decoration: none;
+  font-size: 36px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.overlay a:hover, .overlay a:focus {
+  color: #f1f1f1;
+}
+
+.overlay .closebtn {
+  position: absolute;
+  top: 20px;
+  right: 45px;
+  font-size: 60px;
+}
+
+@media screen and (max-height: 450px) {
+  .overlay a {font-size: 20px}
+  .overlay .closebtn {
+  font-size: 40px;
+  top: 15px;
+  right: 35px;
+  }
+}
+</style>
+</head>
+<body>
+
+<div id="myNav" class="overlay">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <div class="overlay-content">
+    <nav>
+      <ul>
+        <li><a href="#top" class="top">SWAMP RENEWAL</a></li>
+        <li><a href="#welcome-to-the-forgotten-quag">Welcome</a></li>
+        <li><a href="#map"><img src="images/swamp-map-mini.png" Alt="A small map of the Forgotten Quag."><br>
+          MAP</a></li>
+        <li><a href="#ervind-oblong-troll-bargeman">Ervind Oblong</a></li>
+        <li><a href="#1-swamp-port">1. Swamp Port</a></li>
+        <li><a href="#2-wizards-tower">2. Wizard’s Tower</a></li>
+        <li><a href="#grezell-berch-human-wizard">Grezell Berch</a></li>
+        <li><a href="#3-peat-mine">3. Peat Mine</a></li>
+        <li><a href="#golems">Golems</a></li>
+        <li><a href="#4-clearing-zone">4. Clearing Zone</a></li>
+        <li><a href="#5-gas-farm">5. Gas Farm</a></li>
+        <li><a href="#6-forest">6. Forest</a></li>
+        <li><a href="#7-druids-hut">7. Druid’s Hut</a></li>
+        <li><a href="#verna-lizardfolk-druid">Verna</a></li>
+        <li><a href="#8-shrine">8. Shrine</a></li>
+        <li><a href="#9-campsite">9. Campsite</a></li>
+        <li><a href="#guthrie-elf-wanderer">Guthrie</a></li>
+        <li><a href="#10-oblongs-island">10. Oblong’s Island</a></li>
+        <li><a href="#random-tables">RANDOM TABLES</a></li>
+        <li><a href="#land-encounters">Land Encounters</a></li>
+        <li><a href="#water-encounters">Water Encounters</a></li>
+        <li><a href="#grezells-possessions">Grezell’s Possessions</a></li>
+        <li><a href="#enchanted-seeds-and-spores">Enchanted Seeds</a></li>
+        <li><a href="#vernas-potions">Verna’s Potions</a></li>
+        <li><a href="#swamp-relics">Swamp Relics</a></li>
+        <li><a href="#water-foraging-and-fishing">Water Foraging</a></li>
+        <li><a href="#land-foraging">Land Foraging</a></li>
+        <li><a href="#atmospheric-effects">Atmospheric Effects</a></li>
+        <li><a href="#guthries-tall-tales">Guthrie’s Tall Tales</a></li>
+        <li><a href="#notes">NOTES</a></li>
+      </ul>
+    </nav>
+  </div>
+</div>
+
+<h2>Fullscreen Overlay Nav Example</h2>
+<p>Click on the element below to open the fullscreen overlay navigation menu.</p>
+<p>In this example, the navigation menu will slide in, from left to right:</p>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+
+<script>
+function openNav() {
+  document.getElementById("myNav").style.width = "100%";
+}
+
+function closeNav() {
+  document.getElementById("myNav").style.width = "0%";
+}
+</script>
+
+</body>
+</html>
