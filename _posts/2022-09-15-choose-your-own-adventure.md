@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: "note"
 title: "Choose Your Own Adventure"
 date: "2022-09-15 11:48"
 categories: notes
