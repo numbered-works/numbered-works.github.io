@@ -3,7 +3,7 @@ layout: "note"
 title: "Picture Book Gameplay"
 date: "2023-01-03 10:03"
 categories: notes
-tags: [art, maps, adventure design]
+tags: [art, maps, adventure design, links]
 ---
 
 [Picture Book Gameplay](https://knightattheopera.blogspot.com/2023/01/picture-book-gameplay.html) by Dwiz.
