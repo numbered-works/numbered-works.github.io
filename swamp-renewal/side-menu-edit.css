@@ -73,8 +73,10 @@ small screens.
     z-index: 10;
     width: 40px;
     height: 40px;
-    padding: 2.1em 1.6em;
+/*    padding: 2.1em 1.6em; */
 }
+
+.menu-link img {display:block;}
 
     .menu-link:hover,
     .menu-link:focus {
