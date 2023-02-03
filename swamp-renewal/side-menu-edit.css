@@ -67,12 +67,13 @@ small screens.
 .menu-link {
     position: fixed;
     display: block; /* show this only on small screens */
-    top: 0;
-    left: 0; /* "#menu width" */
+    top: 10;
+    left: 10; /* "#menu width" */
     font-size: 10px; /* change this value to increase/decrease button size */
     z-index: 10;
-    width: 40px;
-    height: 40px;
+    width: 60px;
+    height: 60px;
+    padding: 0px 0 0 10px;
 /*    padding: 2.1em 1.6em; */
 }
 
@@ -80,33 +81,9 @@ small screens.
 
     .menu-link:hover,
     .menu-link:focus {
-        background: red;
+        filter: invert(52%) sepia(52%) saturate(1664%) hue-rotate(323deg) brightness(101%) contrast(103%);
     }
 
-    .menu-link span {
-        position: relative;
-        display: block;
-    }
-
-    .menu-link span,
-    .menu-link span:before,
-    .menu-link span:after {
-        background-color: #fff;
-        pointer-events: none;
-        width: 100%;
-        height: 0.2em;
-    }
-
-        .menu-link span:before,
-        .menu-link span:after {
-            position: absolute;
-            margin-top: -0.6em;
-            content: " ";
-        }
-
-        .menu-link span:after {
-            margin-top: 0.6em;
-        }
 
 
 /* -- Responsive Styles (Media Queries) ------------------------------------- */
