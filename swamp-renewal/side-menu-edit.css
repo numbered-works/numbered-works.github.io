@@ -68,11 +68,11 @@ small screens.
     position: fixed;
     display: block; /* show this only on small screens */
     bottom: 2em;
-    left: 50%; /* "#menu width" */
+    left: 45%; /* "#menu width" */
     font-size: 10px; /* change this value to increase/decrease button size */
     z-index: 10;
-    width: 60px;
-    height: 60px;
+    width: 10%;
+    height: auto;
     padding: 0px 0 0 0px;
     opacity: 0.5;
 /*    padding: 2.1em 1.6em; */
@@ -105,12 +105,12 @@ Hides the menu at `48em`, but modify this based on your app's needs.
 
     .menu-link {
         position: fixed;
-        left: 50%;
+        left: 45%;
         display: none;
     }
 
     #layout.active .menu-link {
-        left: 50%;
+        left: 45%;
     }
 }
 
