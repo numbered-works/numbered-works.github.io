@@ -67,21 +67,22 @@ small screens.
 .menu-link {
     position: fixed;
     display: block; /* show this only on small screens */
-    top: 10;
-    left: 10; /* "#menu width" */
+    top: 2em;
+    left: 2em; /* "#menu width" */
     font-size: 10px; /* change this value to increase/decrease button size */
     z-index: 10;
     width: 60px;
     height: 60px;
-    padding: 0px 0 0 10px;
+    padding: 0px 0 0 0px;
+    opacity: 0.5;
 /*    padding: 2.1em 1.6em; */
 }
 
-.menu-link img {display:block;}
+.menu-link img {display:block; }
 
     .menu-link:hover,
     .menu-link:focus {
-        filter: invert(52%) sepia(52%) saturate(1664%) hue-rotate(323deg) brightness(101%) contrast(103%);
+        opacity: 0.75;
     }
 
 
