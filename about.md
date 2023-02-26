@@ -7,14 +7,13 @@ description: Numbered Works is making adventures, games, art, toys, music, objec
 
 # About
 
-Numbered Works is making adventures, games, art, toys, music, objects.
+Numbered Works is making table-top role-playing adventures, games, art, toys, music, objects.
 
 * Our PDFs are available to download from [itch.io](https://numbered-works.itch.io).
 * We share [notes and links on this site](https://numbered.works/notes).
 * We also tweet at [@numberedworks](https://twitter.com/numberedworks).
 * You can email us at [numberedworks@gmail.com](mailto:numberedworks@gmail.com).
 * You can subscribe to updates using [RSS](https://numbered.works/feed.xml), [JSON](https://numbered.works/feed.json), or [email](https://numbered.works/newsletter).
-
 
 Based in Awabakal Country, Australia. We acknowledge the Traditional Owners and Custodians of the lands on which we live, and pay our respects to Indigenous Elders past, present and emerging. Sovereignty has never been ceded. Always was, always will be, Aboriginal land.
 
@@ -29,4 +28,4 @@ Typefaces used:
 
 We collect visitor analytics using [GoatCounter](https://www.goatcounter.com/), which does not track or persistently store your personal data. We are mostly interested in where links are coming from (for vanity purposes) and how people are viewing the site (for usability purposes).
 
-_Updated 07/12/22_
+_Updated 26/02/23_
