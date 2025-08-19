@@ -7,4 +7,4 @@ tags: [typography, fonts, design, downloads, tools]
 ---
 <a class="img-link" href="https://github.com/seeddisperser/kelmscott-mono">![Sample text within a decorative border reading "Aa" and "Kelmscott Mono"](https://numbered.works/assets/img/kelmscottmonomono.png)</a>
 
-A  free, open-source monospace blackletter.
+[Kelmscott Mono](https://github.com/seeddisperser/kelmscott-mono). A  free, open-source, monospace blackletter.
