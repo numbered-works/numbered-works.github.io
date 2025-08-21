@@ -10,4 +10,4 @@ tags: [illustration, process, 3d, tools, software, blender, ramarsh]
 
 [Using Blender For Crafting 2D Magical Cave Illustration](https://80.lv/articles/using-blender-for-crafting-2d-magical-cave-illustration)
 
-R.A Marsh on how he uses [Blender](https://blender.org) to craft illustrations like this one. [More of Marsh's work](https://www.artstation.com/ra_marsh).
+R.A Marsh on how he uses [Blender](https://blender.org) to create illustrations like this one. [More of Marsh's work](https://www.artstation.com/ra_marsh).
